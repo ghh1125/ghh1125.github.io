@@ -12,11 +12,15 @@ redirect_from:
 
 ### Publications
 
-* **FGRCAT: A Fine-Grained Reasoning Framework through Causality and Adversarial Training**  
+* 🚀 **News**! *Jan. 2025*
+  
+  **FGRCAT: A Fine-Grained Reasoning Framework through Causality and Adversarial Training**  
    **Hanghui Guo**, Shimin Di, Zhangze Chen, Changfan Pan, Chaojun Meng, Jia Zhu  
    *Expert Systems With Applications 2025*
 
-* **RaDIO: Real-Time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation**  
+* 🚀 **News**! *Dec. 2024*
+  
+  **RaDIO: Real-Time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation**  
    Jia Zhu, **Hanghui Guo**, Weijie Shi, Zhangze Chen, Pasquale De Meo  
    *AAAI 2025*
 
