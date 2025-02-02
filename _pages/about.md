@@ -16,7 +16,7 @@ redirect_from:
   
   **FGRCAT: A Fine-Grained Reasoning Framework through Causality and Adversarial Training**  
    **Hanghui Guo**, Shimin Di, Zhangze Chen, Changfan Pan, Chaojun Meng, Jia Zhu  
-   *Expert Systems With Applications (ESWA) 2025*
+   *Expert Systems With Applications (ESWA)*
 
 * 🚀 **News**! *December 2024*
   
