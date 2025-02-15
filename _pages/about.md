@@ -11,14 +11,14 @@ redirect_from:
 
 ### Awards
 
-* 1.	First Prize, Zhejiang Province Calculus Competition  (Oct.2022)
-* 2.	First Prize, National College Student Mathematics Competition (Zhejiang Province)	(Dec.2022)
-* 3.  Second Prize, National Olympiad in Biology (Zhejiang Province)	(May.2018)
-* 4.	Second Prize, Wenzhou University Programming Competition  (Mar.2023)
-* 5.	Third-Class Scholarship, Wenzhou University	(2020)
-* 6.	Third-Class Scholarship, Wenzhou University	(2022)
-* 7.	Second-Class Postgraduate Scholarship, Zhejiang Normal University	(2024)
-* 8.  Silver Award of Zhejiang International College Student Innovation Competition (2024)
+* 	First Prize, Zhejiang Province Calculus Competition  (Oct.2022)
+* 	First Prize, National College Student Mathematics Competition (Zhejiang Province)	(Dec.2022)
+*   Second Prize, National Olympiad in Biology (Zhejiang Province)	(May.2018)
+* 	Second Prize, Wenzhou University Programming Competition  (Mar.2023)
+* 	Third-Class Scholarship, Wenzhou University	(2020)
+* 	Third-Class Scholarship, Wenzhou University	(2022)
+* 	Second-Class Postgraduate Scholarship, Zhejiang Normal University	(2024)
+*   Silver Award of Zhejiang International College Student Innovation Competition (2024)
 
 ### Publications
 
