@@ -9,6 +9,16 @@ redirect_from:
 
 **Hanghui Guo** received the B.E. degree in Data Science and Big Data Technology from the [College of Computer Science and Artificial Intelligence, Wenzhou University](https://ai.wzu.edu.cn/), in 2023. Currently, he is pursuing a Master degree in Computer Science and Technology at the [School of Computer Science and Technology, Zhejiang Normal University](https://cs.zjnu.edu.cn/main.htm), under the supervision of [Prof. Jia Zhu](https://scholar.google.com/citations?user=KO3MIkQAAAAJ&hl=zh-CN) in the Zhejiang Key Laboratory of Intelligent Education Technology and Application. His research interests primarily focus on machine learning and natural language processing.
 
+### Awards
+
+* 1.	First Prize, Zhejiang Province Calculus Competition  (Oct.2022)
+* 2.	First Prize, National College Student Mathematics Competition (Zhejiang Province)	(Dec.2022)
+* 3.  Second Prize, National Olympiad in Biology (Zhejiang Province)	(May.2018)
+* 4.	Second Prize, Wenzhou University Programming Competition  (Mar.2023)
+* 5.	Third-Class Scholarship, Wenzhou University	(2020)
+* 6.	Third-Class Scholarship, Wenzhou University	(2022)
+* 7.	Second-Class Postgraduate Scholarship, Zhejiang Normal University	(2024)
+* 8.  Silver Award of Zhejiang International College Student Innovation Competition (2024)
 
 ### Publications
 
