@@ -11,7 +11,7 @@ redirect_from:
 
 ### Awards
 
-* 	First Prize, Zhejiang Province Calculus Competition  (Oct.2022)
+* 	First Prize, Zhejiang Province College Students' Advanced Mathematics (Calculus) Competition  (Oct.2022)
 * 	First Prize, National College Student Mathematics Competition (Zhejiang Province)	(Dec.2022)
 *   Second Prize, National Olympiad in Biology (Zhejiang Province)	(May.2018)
 * 	Second Prize, Wenzhou University Programming Competition  (Mar.2023)
