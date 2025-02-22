@@ -25,7 +25,7 @@ redirect_from:
 
 
 
-### Publications {#Publications}  🚀 **News**!
+### Publications 🚀 **News**! {#Publications} 
  
 * 🚀*February 2025*
   
