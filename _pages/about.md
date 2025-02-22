@@ -24,6 +24,12 @@ redirect_from:
 
 ### Publications
 
+* 🚀 **News**! *February 2025*
+  
+  **Heterogeneous Collaborative Filtering Contrastive Learning for Social Recommendation**  
+   Chaojun Meng, Changfan Pan, Hongji Shu, Qing Wang, **Hanghui Guo**, Jia Zhu  
+   *Applied Soft Computing (ASOC)*
+
 * 🚀 **News**! *January 2025*
   
   **FGRCAT: A Fine-Grained Reasoning Framework through Causality and Adversarial Training**  
