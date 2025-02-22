@@ -31,39 +31,39 @@ redirect_from:
 * 🚀*February 2025*
   
   **Heterogeneous Collaborative Filtering Contrastive Learning for Social Recommendation**  
-   Chaojun Meng, Changfan Pan, Hongji Shu, Qing Wang, **Hanghui Guo**, Jia Zhu  
+   Chaojun Meng, Changfan Pan, Hongji Shu, Qing Wang, **Hanghui Guo**, Jia Zhu📧  
    *Applied Soft Computing (ASOC)*
 
 * 🚀*January 2025*
   
   **FGRCAT: A Fine-Grained Reasoning Framework through Causality and Adversarial Training**  
-   **Hanghui Guo**, Shimin Di, Zhangze Chen, Changfan Pan, Chaojun Meng, Jia Zhu  
+   **Hanghui Guo**, Shimin Di, Zhangze Chen, Changfan Pan, Chaojun Meng, Jia Zhu📧  
    *Expert Systems With Applications (ESWA)*
 
 * 🚀*December 2024*
   
   **RaDIO: Real-Time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation**  
-   Jia Zhu, **Hanghui Guo**, Weijie Shi, Zhangze Chen, Pasquale De Meo  
+   Jia Zhu, **Hanghui Guo**, Weijie Shi📧, Zhangze Chen, Pasquale De Meo  
    *AAAI 2025 Main Track*
 
 * 🚀*July 2024*
   
   **Adaptive Exploration: Elevating Educational Impact of Unsupervised Knowledge Graph Question Answering**  
-   Xi Yang, Zhangze Chen, **Hanghui Guo**, Tetiana Shestakevych  
+   Xi Yang, Zhangze Chen📧, **Hanghui Guo**📧, Tetiana Shestakevych  
    *APWeb-WAIM 2024 International Workshops*
 
 
 * 🚀*June 2024*
   
   **Stable Attribution with Local Surrogate Model**  
-   Changfan Pan, Qing Wang, Jia Zhu, Xinran Cao, **Hanghui Guo**, Changqin Huang  
+   Changfan Pan, Qing Wang, Jia Zhu📧, Xinran Cao, **Hanghui Guo**, Changqin Huang  
    *ChineseCSCW 2024*
 
 
 * 🚀*September 2023*
   
   **Dual trustworthy mechanism for illness classification with multi-modality data**  
-   Qing Wang, Jia Zhu, Changfan Pan, Jianyang Shi, Chaojun Meng, **Hanghui Guo**  
+   Qing Wang, Jia Zhu, Changfan Pan, Jianyang Shi📧, Chaojun Meng, **Hanghui Guo**  
    *2023 IEEE International Conference on Data Mining Workshops (ICDMW)*
 
 
