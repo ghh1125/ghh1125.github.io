@@ -22,41 +22,41 @@ redirect_from:
 
 
 
-### Publications
+### Publications  🚀 **News**!
 
-* 🚀 **News**! *February 2025*
+* 🚀*February 2025*
   
   **Heterogeneous Collaborative Filtering Contrastive Learning for Social Recommendation**  
    Chaojun Meng, Changfan Pan, Hongji Shu, Qing Wang, **Hanghui Guo**, Jia Zhu  
    *Applied Soft Computing (ASOC)*
 
-* 🚀 **News**! *January 2025*
+* 🚀*January 2025*
   
   **FGRCAT: A Fine-Grained Reasoning Framework through Causality and Adversarial Training**  
    **Hanghui Guo**, Shimin Di, Zhangze Chen, Changfan Pan, Chaojun Meng, Jia Zhu  
    *Expert Systems With Applications (ESWA)*
 
-* 🚀 **News**! *December 2024*
+* 🚀*December 2024*
   
   **RaDIO: Real-Time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation**  
    Jia Zhu, **Hanghui Guo**, Weijie Shi, Zhangze Chen, Pasquale De Meo  
    *AAAI 2025 Main Track*
 
-* 🚀 **News**! *July 2024*
+* 🚀*July 2024*
   
   **Adaptive Exploration: Elevating Educational Impact of Unsupervised Knowledge Graph Question Answering**  
    Xi Yang, Zhangze Chen, **Hanghui Guo**, Tetiana Shestakevych  
    *APWeb-WAIM 2024 International Workshops*
 
 
-* 🚀 **News**! *June 2024*
+* 🚀*June 2024*
   
   **Stable Attribution with Local Surrogate Model**  
    Changfan Pan, Qing Wang, Jia Zhu, Xinran Cao, **Hanghui Guo**, Changqin Huang  
    *ChineseCSCW 2024*
 
 
-* 🚀 **News**! *September 2023*
+* 🚀*September 2023*
   
   **Dual trustworthy mechanism for illness classification with multi-modality data**  
    Qing Wang, Jia Zhu, Changfan Pan, Jianyang Shi, Chaojun Meng, **Hanghui Guo**  
