@@ -32,38 +32,38 @@ redirect_from:
   
   **Heterogeneous Collaborative Filtering Contrastive Learning for Social Recommendation**  
    Chaojun Meng, Changfan Pan, Hongji Shu, Qing Wang, **Hanghui Guo**, Jia Zhu📧  
-   *Applied Soft Computing (ASOC)*
+   *Applied Soft Computing ([ASOC](https://www.sciencedirect.com/journal/applied-soft-computing))*
 
 * 🚀*January 2025*
   
   **FGRCAT: A Fine-Grained Reasoning Framework through Causality and Adversarial Training**  
    **Hanghui Guo**, Shimin Di, Zhangze Chen, Changfan Pan, Chaojun Meng, Jia Zhu📧  
-   *Expert Systems With Applications (ESWA)*
+   *Expert Systems With Applications ([ESWA](https://www.sciencedirect.com/journal/expert-systems-with-applications))*
 
 * 🚀*December 2024*
   
   **RaDIO: Real-Time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation**  
    Jia Zhu, **Hanghui Guo**, Weijie Shi📧, Zhangze Chen, Pasquale De Meo  
-   *AAAI 2025 Main Track*
+   *The 39th Annual AAAI Conference on Artificial Intelligence ([AAAI 2025 Main Track](https://aaai.org/conference/aaai/aaai-25/))*
 
 * 🚀*July 2024*
   
   **Adaptive Exploration: Elevating Educational Impact of Unsupervised Knowledge Graph Question Answering**  
    Xi Yang, Zhangze Chen📧, **Hanghui Guo**📧, Tetiana Shestakevych  
-   *APWeb-WAIM 2024 International Workshops*
+   *APWeb-WAIM 2024 International Workshops ([APWEB 2024](https://apweb2024.zjnu.edu.cn/))*
 
 
 * 🚀*June 2024*
   
   **Stable Attribution with Local Surrogate Model**  
    Changfan Pan, Qing Wang, Jia Zhu📧, Xinran Cao, **Hanghui Guo**, Changqin Huang  
-   *ChineseCSCW 2024*
+   *19th CCF Conference on Computer Supported Cooperative Work and Social Computing ([ChineseCSCW 2024](https://conf.scholat.com/ccscw/2024))*
 
 
 * 🚀*September 2023*
   
   **Dual trustworthy mechanism for illness classification with multi-modality data**  
    Qing Wang, Jia Zhu, Changfan Pan, Jianyang Shi📧, Chaojun Meng, **Hanghui Guo**  
-   *2023 IEEE International Conference on Data Mining Workshops (ICDMW)*
+   *2023 IEEE International Conference on Data Mining Workshops ([ICDM 2023](https://www.cloud-conf.net/icdm2023/))*
 
 
