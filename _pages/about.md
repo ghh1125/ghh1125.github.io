@@ -70,7 +70,7 @@ redirect_from:
 ### Peer-review  {#Reviewer} 
 
 
-Neurocomputing (SCI JCR Q1)
-
-PATTERN RECOGNITION LETTERS (SCI JCR Q2)
+* 	[NEUROCOMPUTING](https://www.sciencedirect.com/journal/neurocomputing) (SCI JCR Q1)
+* 	[PATTERN RECOGNITION LETTERS](https://www.sciencedirect.com/journal/pattern-recognition-letters) (SCI JCR Q2)
+* 	[KNOWLEDGE-BASED SYSTEMS](https://www.sciencedirect.com/journal/knowledge-based-systems) (SCI JCR Q1 TOP)
 
