@@ -11,7 +11,7 @@ redirect_from:
 
 🚀 **News**!
 
-[Awards](#Awards)   [Publications](#Publications)   [Peer-review](#Reviewer) 
+[Awards](#Awards) ,  [Publications](#Publications) ,  [Peer-review](#Reviewer) 
 
 ### Awards {#Awards}
 
