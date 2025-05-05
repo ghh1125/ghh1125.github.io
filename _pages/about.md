@@ -11,7 +11,7 @@ redirect_from:
 
 🚀 **News**!
 
-[Awards](#Awards)   [Publications](#Publications) 
+[Awards](#Awards)   [Publications](#Publications)   [Peer-review](#Reviewer) 
 
 ### Awards {#Awards}
 
@@ -66,4 +66,11 @@ redirect_from:
    Qing Wang, Jia Zhu, Changfan Pan, Jianyang Shi📧, Chaojun Meng, **Hanghui Guo**  
    *2023 IEEE International Conference on Data Mining Workshops ([ICDM 2023](https://www.cloud-conf.net/icdm2023/))*
 
+
+### Peer-review  {#Reviewer} 
+
+
+Neurocomputing (SCI JCR Q1)
+
+PATTERN RECOGNITION LETTERS (SCI JCR Q2)
 
