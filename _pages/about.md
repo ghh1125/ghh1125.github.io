@@ -27,6 +27,8 @@ redirect_from:
 
 
 ### Publications  {#Publications} 
+
+#### For more information, please see [Google Scholar](https://scholar.google.com/citations?user=S34GF9wAAAAJ&hl=en).
  
 * 🚀*February 2025*
   
