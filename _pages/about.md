@@ -33,7 +33,7 @@ redirect_from:
 * 🚀*May 2025*
   
   **DioR: Adaptive Cognitive Detection and Contextual Retrieval Optimization for Dynamic Retrieval-Augmented Generation**  
-   **Hanghui Guo**, Jia Zhu📧, Shimin Di📧, Weijie Shi, Zhangze Chen, Jiajie Xu  
+   **Hanghui Guo**, Jia Zhu📧, Shimin Di📧, Weijie Shi📧, Zhangze Chen, Jiajie Xu  
    *The 63rd Annual Meeting of the Association for Computational Linguistics ([ACL 2025 Main](https://2025.aclweb.org/))*
 
 * 🚀*February 2025*
