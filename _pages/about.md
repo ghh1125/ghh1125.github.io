@@ -14,7 +14,7 @@ redirect_from:
 #### Please see [Google Scholar](https://scholar.google.com/citations?user=S34GF9wAAAAJ&hl=en).
  
 
-## Peer-review 
+## Peer-Review 
 
 
 ####  	[NEUROCOMPUTING](https://www.sciencedirect.com/journal/neurocomputing) (SCI JCR Q1)
