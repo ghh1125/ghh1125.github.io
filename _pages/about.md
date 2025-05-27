@@ -14,19 +14,6 @@ redirect_from:
 #### Please see [Google Scholar](https://scholar.google.com/citations?user=S34GF9wAAAAJ&hl=en).
  
 
-
-## Awards
-
-####  	Second-Class Postgraduate Scholarship, Zhejiang Normal University	(2024)
-####    Silver Award of Zhejiang International College Student Innovation Competition (2024)
-####  	First Prize, Zhejiang Province College Students' Advanced Mathematics (Calculus) Competition  (Oct.2022)
-####  	First Prize, National College Student Mathematics Competition (Zhejiang Province)	(Dec.2022)
-####  	Third-Class Scholarship, Wenzhou University	(2022)
-#### 	  Third-Class Scholarship, Wenzhou University	(2020)
-#### 	  Second Prize, Wenzhou University Programming Competition  (Dec.2019)
-####  	Second Prize, National Olympiad in Biology (Zhejiang Province)	(May.2018)
-
-
 ## Peer-review 
 
 
