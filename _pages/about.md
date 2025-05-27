@@ -11,7 +11,7 @@ redirect_from:
 
 ## Publications 
 
-#### Please see [Google Scholar](https://scholar.google.com/citations?user=S34GF9wAAAAJ&hl=en).
+#### Please see [Google Scholar](https://scholar.google.com/citations?user=S34GF9wAAAAJ&hl=en) or [DBLP](https://dblp.org/pid/368/0534.html).
  
 
 ## Peer-Review 
