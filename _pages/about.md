@@ -15,6 +15,7 @@ He is currently pursuing an M.E. degree in **Computer Science and Technology** a
 
 His research interests include **Data Mining**, **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **Agents**.
 
+---
 
 ## 📚 Publications
 
