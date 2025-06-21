@@ -55,22 +55,24 @@ His research interests include **Data Mining**, **Large Language Models (LLMs)**
 
 \* Corresponding author
 
+---
+
 ## 🏆 Honors and Awards
 
-- **Second-Class Postgraduate Scholarship**, Zhejiang Normal University (2024)  
-- **Silver Award**, Zhejiang International College Student Innovation Competition (2024)  
-- **First Prize**, Zhejiang Province College Students’ Advanced Mathematics (Calculus) Competition (2022)  
-- **First Prize**, National College Student Mathematics Competition (Zhejiang Province) (2022)  
-- **Third-Class Scholarship**, Wenzhou University (2022)  
-- **Third-Class Scholarship**, Wenzhou University (2020)  
-- **Second Prize**, Wenzhou University Programming Competition (2019)  
-- **Second Prize**, National Olympiad in Biology (Zhejiang Province) (2018)
+- 🥈 **Second-Class Postgraduate Scholarship**, Zhejiang Normal University (2024)
+- 🥈 **Silver Award**, Zhejiang International College Student Innovation Competition (2024)
+- 🥇 **First Prize**, Zhejiang Province College Students’ Advanced Mathematics (Calculus) Competition (2022)
+- 🥇 **First Prize**, National College Student Mathematics Competition (Zhejiang Province) (2022)
+- 🥉 **Third-Class Scholarship**, Wenzhou University (2022)
+- 🥉 **Third-Class Scholarship**, Wenzhou University (2020)
+- 🥈 **Second Prize**, Wenzhou University Programming Competition (2019)
+- 🥈 **Second Prize**, National Olympiad in Biology (Zhejiang Province) (2018)
 
 ---
 
 ## 🧑‍🔬 Peer-Review Activities
 
-I have served as a reviewer for the following prestigious journals:
+> Served as a reviewer for the following SCI-indexed journals:
 
 - [**Neurocomputing**](https://www.sciencedirect.com/journal/neurocomputing)  
   *(SCI, JCR Q1)*
