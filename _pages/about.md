@@ -26,14 +26,14 @@ His research interests include:  **Data Mining** , **Large Language Models (LLMs
 ---
 
 ### 🔹 **DioR: Adaptive Cognitive Detection and Contextual Retrieval Optimization for Dynamic Retrieval-Augmented Generation**  
-- 🗂 **Conference:** [*ACL 2025*](https://2025.aclweb.org/) (The 63rd Annual Meeting of the Association for Computational Linguistics)  
+- 🗂 **Conference:** [*ACL 2025 Main*](https://2025.aclweb.org/) (The 63rd Annual Meeting of the Association for Computational Linguistics)  
 - 🏅 **Level:** CCF-A  
 - 👥 **Authors:** **Hanghui Guo**, Jia Zhu\*, Shimin Di\*, Weijie Shi\*, Zhangze Chen, Jiajie Xu
 
 ---
 
 ### 🔹 **RaDIO: Real-Time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation**  
-- 🗂 **Conference:** [*AAAI 2025*](https://aaai.org/conference/aaai/aaai-25/) (Proceedings of the AAAI Conference on Artificial Intelligence)  
+- 🗂 **Conference:** [*AAAI 2025 Main Track*](https://aaai.org/conference/aaai/aaai-25/) (Proceedings of the AAAI Conference on Artificial Intelligence)  
 - 🏅 **Level:** CCF-A  
 - 👥 **Authors:** Jia Zhu, **Hanghui Guo**, Weijie Shi\*, Zhangze Chen, Pasquale De Meo
 
