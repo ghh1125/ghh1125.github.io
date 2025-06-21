@@ -19,39 +19,41 @@ His research interests include **Data Mining**, **Large Language Models (LLMs)**
 
 ## 📚 Publications
 
-### 🔗 Please refer to [Google Scholar](https://scholar.google.com/citations?user=S34GF9wAAAAJ&hl=en) or [DBLP](https://dblp.org/pid/368/0534.html) for complete details.
+🔗 Please refer to [Google Scholar](https://scholar.google.com/citations?user=S34GF9wAAAAJ&hl=en) or [DBLP](https://dblp.org/pid/368/0534.html) for the complete list.
 
-#### 📌 The following papers list me as the first author (or second author with my supervisor as first author) and as the corresponding author.
-
----
-
-### 🔹 DioR: Adaptive Cognitive Detection and Contextual Retrieval Optimization for Dynamic Retrieval-Augmented Generation  
-**Conference:** The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025 Main)  
-**Authors:** **Hanghui Guo**, Jia Zhu\*, Shimin Di\*, Weijie Shi\*, Zhangze Chen, Jiajie Xu  
+> 📌 *Listed as the first author (or second author with my supervisor as first) and corresponding author on the following papers.*
 
 ---
 
-### 🔹 RaDIO: Real-Time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation  
-**Conference:** Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2025 Main Track)  
-**Authors:** Jia Zhu, **Hanghui Guo**, Weijie Shi\*, Zhangze Chen, Pasquale De Meo  
+### 🔹 **DioR: Adaptive Cognitive Detection and Contextual Retrieval Optimization for Dynamic Retrieval-Augmented Generation**  
+**🗂 Conference:** ACL 2025 (The 63rd Annual Meeting of the Association for Computational Linguistics)  
+**🏅 Level:** CCF-A  
+**👥 Authors:** **Hanghui Guo**, Jia Zhu\*, Shimin Di\*, Weijie Shi\*, Zhangze Chen, Jiajie Xu  
 
 ---
 
-### 🔹 FGRCAT: A Fine-Grained Reasoning Framework Through Causality and Adversarial Training  
-**Journal:** *Expert Systems with Applications (ESWA)*  
-**Authors:** **Hanghui Guo**, Shimin Di, Zhangze Chen, Changfan Pan, Chaojun Meng, Jia Zhu\*  
+### 🔹 **RaDIO: Real-Time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation**  
+**🗂 Conference:** AAAI 2025 (Proceedings of the AAAI Conference on Artificial Intelligence)  
+**🏅 Level:** CCF-A  
+**👥 Authors:** Jia Zhu, **Hanghui Guo**, Weijie Shi\*, Zhangze Chen, Pasquale De Meo  
 
 ---
 
-### 🔹 Adaptive Exploration: Elevating Educational Impact of Unsupervised Knowledge Graph Question Answering  
-**Conference:** Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data  
-**Authors:** Xi Yang, Zhangze Chen\*, **Hanghui Guo\***, Tetiana Shestakevych  
+### 🔹 **FGRCAT: A Fine-Grained Reasoning Framework Through Causality and Adversarial Training**  
+**🗞 Journal:** *Expert Systems with Applications (ESWA)*  
+**🏅 Level:** SCI Q1 TOP  
+**👥 Authors:** **Hanghui Guo**, Shimin Di, Zhangze Chen, Changfan Pan, Chaojun Meng, Jia Zhu\*  
+
+---
+
+### 🔹 **Adaptive Exploration: Elevating Educational Impact of Unsupervised Knowledge Graph Question Answering**  
+**🗂 Conference:** APWeb-WAIM Joint International Conference on Web and Big Data  
+**🏅 Level:** CCF-C  
+**👥 Authors:** Xi Yang, Zhangze Chen\*, **Hanghui Guo\***, Tetiana Shestakevych  
 
 ---
 
 \* Corresponding author
-
----
 
 ## 🏆 Honors and Awards
 
