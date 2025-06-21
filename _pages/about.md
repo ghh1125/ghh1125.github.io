@@ -26,28 +26,28 @@ His research interests include:  **Data Mining** , **Large Language Models (LLMs
 ---
 
 ### 🔹 **DioR: Adaptive Cognitive Detection and Contextual Retrieval Optimization for Dynamic Retrieval-Augmented Generation**  
-- 🗂 **Conference:** ACL 2025 (The 63rd Annual Meeting of the Association for Computational Linguistics)  
+- 🗂 **Conference:** [*ACL 2025*](https://2025.aclweb.org/) (The 63rd Annual Meeting of the Association for Computational Linguistics)  
 - 🏅 **Level:** CCF-A  
 - 👥 **Authors:** **Hanghui Guo**, Jia Zhu\*, Shimin Di\*, Weijie Shi\*, Zhangze Chen, Jiajie Xu
 
 ---
 
 ### 🔹 **RaDIO: Real-Time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation**  
-- 🗂 **Conference:** AAAI 2025 (Proceedings of the AAAI Conference on Artificial Intelligence)  
+- 🗂 **Conference:** [*AAAI 2025*](https://aaai.org/conference/aaai/aaai-25/) (Proceedings of the AAAI Conference on Artificial Intelligence)  
 - 🏅 **Level:** CCF-A  
 - 👥 **Authors:** Jia Zhu, **Hanghui Guo**, Weijie Shi\*, Zhangze Chen, Pasquale De Meo
 
 ---
 
 ### 🔹 **FGRCAT: A Fine-Grained Reasoning Framework Through Causality and Adversarial Training**  
-- 📰 **Journal:** *Expert Systems with Applications (ESWA)*  
+- 📰 **Journal:** [*ESWA*](https://www.sciencedirect.com/journal/expert-systems-with-applications) (Expert Systems with Applications)  
 - 🏅 **Level:** SCI Q1 TOP  
 - 👥 **Authors:** **Hanghui Guo**, Shimin Di, Zhangze Chen, Changfan Pan, Chaojun Meng, Jia Zhu\*
 
 ---
 
 ### 🔹 **Adaptive Exploration: Elevating Educational Impact of Unsupervised Knowledge Graph Question Answering**  
-- 🗂 **Conference:** APWeb-WAIM Joint International Conference on Web and Big Data  
+- 🗂 **Conference:** [*APWEB 2024*](https://apweb2024.zjnu.edu.cn/) (APWeb-WAIM Joint International Conference on Web and Big Data)  
 - 🏅 **Level:** CCF-C  
 - 👥 **Authors:** Xi Yang, Zhangze Chen\*, **Hanghui Guo\***, Tetiana Shestakevych
 
