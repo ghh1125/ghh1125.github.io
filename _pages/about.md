@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## 👨‍🎓 Biography
+## 👨‍🎓 About me
 
 **Hanghui Guo** received his B.E. degree in **Data Science and Big Data Technology** from the *College of Computer Science and Artificial Intelligence, Wenzhou University* (2019–2023).  
 
