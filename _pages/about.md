@@ -13,6 +13,8 @@ redirect_from:
 
 He is currently pursuing an M.E. degree in **Computer Science and Technology** at the *School of Computer Science and Technology, Zhejiang Normal University* (2023–2026), under the supervision of [**Prof. Jia Zhu**](https://scholar.google.com/citations?user=KO3MIkQAAAAJ&hl=en) in the *Zhejiang Key Laboratory of Intelligent Education Technology and Application*.  
 
+From 2026 to 2030, he will pursue a Ph.D. degree in **Computer Science and Engineering** at the *School of Computer Science and Engineering, Southeast University*, under the supervision of [**Prof. Shimin Di**](https://sdiaa.github.io/).  
+
 His research interests include:  **Data Mining** , **Large Language Models (LLMs)** , **Retrieval-Augmented Generation (RAG)** , **Agents**.
 
 ---
