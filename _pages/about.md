@@ -15,7 +15,7 @@ He is currently pursuing an M.E. degree in **Computer Science and Technology** a
 
 <!--  From 2026 to 2030, he will pursue a Ph.D. degree in **Computer Science and Technology** at the *School of Computer Science and Engineering, Southeast University*, under the supervision of [**Prof. Shimin Di**](https://sdiaa.github.io/).  -->
 
-His research interests include:  **Data Mining** , **Large Language Models (LLMs)** , **Retrieval-Augmented Generation (RAG)** , **Agents**.
+His research interests include:  **Large Language Model (LLM)** , **Retrieval Augmented Generation (RAG)** , **Agents**.
 
 ---
 
