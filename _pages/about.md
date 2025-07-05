@@ -27,6 +27,13 @@ His research interests include:  **Large Language Model (LLM)** , **Retrieval Au
 
 ---
 
+### 🔹 **Consistent and Invariant Generalization Learning for Short-video Misinformation Detection**  
+- 🗂 **Conference:** [*ACM MM 2025*](https://acmmm2025.org/) (ACM Multimedia 2025)  
+- 🏅 **Level:** CCF-A  
+- 👥 **Authors:** **Hanghui Guo**, Weijie Shi, Mengze Li, Juncheng Li, Hao Chen, Yue Cui, Jiajie Xu, Jia Zhu, Jiawei Shen, Zhangze Chen, Sirui Han
+
+---
+
 ### 🔹 **DioR: Adaptive Cognitive Detection and Contextual Retrieval Optimization for Dynamic Retrieval-Augmented Generation**  
 - 🗂 **Conference:** [*ACL 2025 Main*](https://2025.aclweb.org/) (The 63rd Annual Meeting of the Association for Computational Linguistics)  
 - 🏅 **Level:** CCF-A  
