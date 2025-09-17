@@ -80,14 +80,14 @@ His research interests focus on **Large Language Model**, with a particular focu
 
 
 # 🎖 Honors and Awards
-- *2024* Second-Class Postgraduate Scholarship, Zhejiang Normal University
-- *2024* Silver Award of Zhejiang International College Student Innovation Competition
-- *2022* First Prize, Zhejiang Province College Students’ Advanced Mathematics (Calculus) Competition
-- *2022* First Prize, National College Student Mathematics Competition (Zhejiang Province)
-- *2022* Third-Class Scholarship, Wenzhou University
-- *2020* Third-Class Scholarship, Wenzhou University
-- *2019* Second Prize, Wenzhou University Programming Competition
-- *2018* Second Prize, National Olympiad in Biology (Zhejiang Province) 
+- *2024*, Second-Class Postgraduate Scholarship, Zhejiang Normal University
+- *2024*, Silver Award of Zhejiang International College Student Innovation Competition
+- *2022*, First Prize, Zhejiang Province College Students’ Advanced Mathematics (Calculus) Competition
+- *2022*, First Prize, National College Student Mathematics Competition (Zhejiang Province)
+- *2022*, Third-Class Scholarship, Wenzhou University
+- *2020*, Third-Class Scholarship, Wenzhou University
+- *2019*, Second Prize, Wenzhou University Programming Competition
+- *2018*, Second Prize, National Olympiad in Biology (Zhejiang Province) 
 
 # 📖 Educations
 - *2023.09 - 2026.06*, M.E. in **Computer Science and Technology**, School of Computer Science and Technology, Zhejiang Normal University
