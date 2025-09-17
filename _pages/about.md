@@ -92,6 +92,6 @@ His research interests focus on **Large Language Model**, with a particular focu
 
 
 # 🏛 Academic Service
-- Reviewer for Knowledge-based systems (Sci Q1 TOP, IF 7.6)
-- Reviewer for Neurocomputing (Sci Q2, IF 6.5)
-- Reviewer for Pattern recognition letters (Sci Q3, IF 3.3)
+- Reviewer for Knowledge-based systems (SCI Q1 TOP, IF 7.6)
+- Reviewer for Neurocomputing (SCI Q2, IF 6.5)
+- Reviewer for Pattern recognition letters (SCI Q3, IF 3.3)
