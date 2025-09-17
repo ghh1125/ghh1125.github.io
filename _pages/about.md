@@ -23,7 +23,7 @@ redirect_from:
 
 His research interests focus on **Large Language Model**, with a particular focus on retrieval augmented generation and their applications in scientific domains.
 
-📊 Google Scholar Citations: <span class='show_citations' data='total_citations'></span>
+
 
 <!--
 # 🔥 News
@@ -89,6 +89,7 @@ His research interests focus on **Large Language Model**, with a particular focu
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
+
 
 # 🏛 Academic Service
 - Reviewer for Knowledge-based systems (Sci Q1 TOP, IF 7.6)
