@@ -47,7 +47,12 @@ His research interests focus on **Large Language Model**, with a particular focu
 
 - Changfan Pan, Qing Wang, Jia Zhu\*, Xinran Cao, **Hanghui Guo**, Changqin Huang. *Stable Attribution with Local Surrogate Model.* **ChineseCSCW** (CCF Conference, EI), 2024.  
 
-- Qing Wang, Jia Zhu, Changfan Pan, Jianyang Shi\*, Chaojun Meng, **Hanghui Guo**. *Dual Trustworthy Mechanism for Illness Classification with Multi-Modality Data.* **ICDM Workshop** (CCF B), 2023.  
+- Qing Wang, Jia Zhu, Changfan Pan, Jianyang Shi\*, Chaojun Meng, **Hanghui Guo**. *Dual Trustworthy Mechanism for Illness Classification with Multi-Modality Data.* **ICDM Workshop** (CCF B), 2023.
+
+---
+†  Equal Contribution
+
+\* Corresponding Author
 
 
 <!--
