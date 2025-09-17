@@ -21,7 +21,7 @@ redirect_from:
 
 <!--  From 2026 to 2030, he will pursue a Ph.D. degree in **Computer Science and Technology** at the *School of Computer Science and Engineering, Southeast University*, under the supervision of [**Prof. Shimin Di**](https://sdiaa.github.io/).  -->
 
-His research interests focus on **Large Language Model**, with a particular focus on retrieval augmented generation and their applications in scientific domains.
+His research interests focus on **Large Language Model**, with a particular emphasis on retrieval augmented generation, reasoning capabilities, and their applications in scientific domains.
 
 
 
