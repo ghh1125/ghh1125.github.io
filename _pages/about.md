@@ -90,8 +90,8 @@ His research interests focus on **Large Language Model**, with a particular focu
 - *2018* Second Prize, National Olympiad in Biology (Zhejiang Province) 
 
 # 📖 Educations
-- *2023.09 - 2026.06*, M.E. in **Computer Science and Technology**, School of Computer Science and Technology, Zhejiang Normal University, under the supervision of Prof. Jia Zhu
-- *2019.09 - 2023.06*, B.E. in **Data Science and Big Data Technology**, College of Computer Science and Artificial Intelligence, Wenzhou University (wzu.edu.cn)  
+- *2023.09 - 2026.06*, M.E. in **Computer Science and Technology**, School of Computer Science and Technology, Zhejiang Normal University
+- *2019.09 - 2023.06*, B.E. in **Data Science and Big Data Technology**, College of Computer Science and Artificial Intelligence, Wenzhou University
 
 
 # 💬 Invited Talks
