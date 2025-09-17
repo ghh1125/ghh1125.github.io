@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Hanghui Guo** is currently pursuing an M.E. degree in **Computer Science and Technology** at the *School of Computer Science and Technology, Zhejiang Normal University* (2023–2026), under the supervision of [**Prof. Jia Zhu**](https://scholar.google.com/citations?user=KO3MIkQAAAAJ&hl=en) in the *Zhejiang Key Laboratory of Intelligent Education Technology and Application*.  
+**Hanghui Guo** is currently pursuing an M.E. degree in **Computer Science and Technology** at the *School of Computer Science and Technology, Zhejiang Normal University* (2023–2026), under the supervision of [**Prof. Jia Zhu**](https://scholar.google.com/citations?user=KO3MIkQAAAAJ&hl=en) in the *Zhejiang Key Laboratory of Intelligent Education Technology and Application*. Prior to this, he obtained his B.E. degree in **Data Science and Big Data Technology** from the *College of Computer Science and Artificial Intelligence, Wenzhou University* (2019–2023).
 
 <!--  From 2026 to 2030, he will pursue a Ph.D. degree in **Computer Science and Technology** at the *School of Computer Science and Engineering, Southeast University*, under the supervision of [**Prof. Shimin Di**](https://sdiaa.github.io/).  -->
 
@@ -25,10 +25,16 @@ His research interests focus on **Large Language Model**, with a particular focu
 
 
 
-<!--
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+- *2025.07*: One paper accepted by **ACM MM 2025**
+- *2025.06*: One paper accepted by **Scientific Data**
+- *2025.05*: One paper accepted by **ACL 2025 Main**
+- *2025.02*: One paper accepted by **Applied Soft Computing**
+- *2025.01*: One paper accepted by **Expert Systems with Applications**
+- *2024.12*: One paper accepted by **AAAI 2025**
+- *2024.08*: One paper accepted by **APWeb-WAIM 2024 Workshop**
+- *2024.06*: One paper accepted by **ChineseCSCW 2024**
+- *2023.09*: One paper accepted by **ICDM 2023 Workshop**
 
 # 📝 Publications 
 
@@ -72,23 +78,28 @@ His research interests focus on **Large Language Model**, with a particular focu
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 
-<!--
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-<!--
+# 🎖 Honors and Awards
+- *2024* Second-Class Postgraduate Scholarship, Zhejiang Normal University
+- *2024* Silver Award of Zhejiang International College Student Innovation Competition
+- *2022* First Prize, Zhejiang Province College Students’ Advanced Mathematics (Calculus) Competition
+- *2022* First Prize, National College Student Mathematics Competition (Zhejiang Province)
+- *2022* Third-Class Scholarship, Wenzhou University
+- *2020* Third-Class Scholarship, Wenzhou University
+- *2019* Second Prize, Wenzhou University Programming Competition
+- *2018* Second Prize, National Olympiad in Biology (Zhejiang Province) 
+
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
+- *2023.09 - 2026.06*, M.E. in **Computer Science and Technology**, School of Computer Science and Technology, Zhejiang Normal University, under the supervision of Prof. Jia Zhu
+- *2019.09 - 2023.06*, B.E. in **Data Science and Big Data Technology**, College of Computer Science and Artificial Intelligence, Wenzhou University (wzu.edu.cn)  
+
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- None
 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
+- None
 
 
 # 🏛 Academic Service
