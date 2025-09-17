@@ -88,3 +88,8 @@ His research interests focus on **Large Language Model**, with a particular focu
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
+
+# 🏛 Academic Service
+- Reviewer for Knowledge-based systems (Sci Q1 TOP, IF 7.6)
+- Reviewer for Neurocomputing (Sci Q2, IF 6.5)
+- Reviewer for Pattern recognition letters (Sci Q3, IF 3.3)
