@@ -38,7 +38,7 @@ His research interests focus on **Large Language Model**, with a particular emph
 
 # 📝 Publications 
 
-- **Hanghui Guo†**, Weijie Shi†, Mengze Li\*, Juncheng Li, Hao Chen, Yue Cui, Jiajie Xu, Jia Zhu\*, Jiawei Shen, Zhangze Chen, Sirui Han. *Consistent and Invariant Generalization Learning for Short-video Misinformation Detection.* **ACM MM** (CCF A, CORE A\*), 2025.  
+- **Hanghui Guo**†, Weijie Shi†, Mengze Li\*, Juncheng Li, Hao Chen, Yue Cui, Jiajie Xu, Jia Zhu\*, Jiawei Shen, Zhangze Chen, Sirui Han. *Consistent and Invariant Generalization Learning for Short-video Misinformation Detection.* **ACM MM** (CCF A, CORE A\*), 2025.  
 
 - **Hanghui Guo**, Jia Zhu\*, Shimin Di\*, Weijie Shi\*, Zhangze Chen, Jiajie Xu. *DioR: Adaptive Cognitive Detection and Contextual Retrieval Optimization for Dynamic Retrieval-Augmented Generation.* **ACL Main** (CCF A, CORE A\*), 2025.  
 
@@ -50,7 +50,7 @@ His research interests focus on **Large Language Model**, with a particular emph
   
 - Chaojun Meng, Changfan Pan, Hongji Shu, Qing Wang, **Hanghui Guo**, Jia Zhu\*. *Heterogeneous Collaborative Filtering Contrastive Learning for Social Recommendation.* **Applied Soft Computing** (SCI Q2 TOP, IF 6.6), 2025.
   
-- Xi Yang, Zhangze Chen\*, **Hanghui Guo\***, Tetiana Shestakevych. *Adaptive Exploration: Elevating Educational Impact of Unsupervised Knowledge Graph Question Answering.* **APWeb-WAIM Workshop** (CCF C), 2024.  
+- Xi Yang, Zhangze Chen\*, **Hanghui Guo**\*, Tetiana Shestakevych. *Adaptive Exploration: Elevating Educational Impact of Unsupervised Knowledge Graph Question Answering.* **APWeb-WAIM Workshop** (CCF C), 2024.  
 
 - Changfan Pan, Qing Wang, Jia Zhu\*, Xinran Cao, **Hanghui Guo**, Changqin Huang. *Stable Attribution with Local Surrogate Model.* **ChineseCSCW** (EI), 2024.  
 
