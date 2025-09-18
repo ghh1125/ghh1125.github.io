@@ -17,11 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Hanghui Guo** is currently pursuing a Master’s degree in Computer Science and Technology at the *School of Computer Science and Technology, Zhejiang Normal University* (2023–2026), under the supervision of [**Prof. Jia Zhu**](https://scholar.google.com/citations?user=KO3MIkQAAAAJ&hl=en) in the *Zhejiang Key Laboratory of Intelligent Education Technology and Application*. Prior to this, he obtained his Bachelor’s degree in Data Science and Big Data Technology from the *College of Computer Science and Artificial Intelligence, Wenzhou University* (2019–2023).
+I am currently pursuing a Master’s degree in Computer Science and Technology at the *School of Computer Science and Technology, Zhejiang Normal University* (2023–2026), under the supervision of [**Prof. Jia Zhu**](https://scholar.google.com/citations?user=KO3MIkQAAAAJ&hl=en) in the *Zhejiang Key Laboratory of Intelligent Education Technology and Application*. Prior to this, I obtained my Bachelor’s degree in Data Science and Big Data Technology from the *College of Computer Science and Artificial Intelligence, Wenzhou University* (2019–2023).  
 
-<!--  From 2026 to 2030, he will pursue a Ph.D. degree in **Computer Science and Technology** at the *School of Computer Science and Engineering, Southeast University*, under the supervision of [**Prof. Shimin Di**](https://sdiaa.github.io/).  -->
+My research interests focus on **Large Language Models**, with a particular emphasis on retrieval-augmented generation, reasoning capabilities, and their applications in scientific domains.
 
-His research interests focus on **Large Language Model**, with a particular emphasis on retrieval augmented generation, reasoning capabilities, and their applications in scientific domains.
 
 
 
