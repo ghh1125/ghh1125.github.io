@@ -90,8 +90,8 @@ His research interests focus on **Large Language Model**, with a particular emph
 - *2018*, Second Prize, National Olympiad in Biology (Zhejiang Province) 
 
 # 📖 Educations
-- *2023.09 - 2026.06*, Master in Computer Science and Technology, School of Computer Science and Technology, Zhejiang Normal University
-- *2019.09 - 2023.06*, Bachelor in Data Science and Big Data Technology, College of Computer Science and Artificial Intelligence, Wenzhou University
+- *2023.09 - 2026.06*, MS student, Computer Science and Technology, School of Computer Science and Technology, Zhejiang Normal University
+- *2019.09 - 2023.06*, Undergrad student, Data Science and Big Data Technology, College of Computer Science and Artificial Intelligence, Wenzhou University
 
 
 # 💬 Invited Talks
