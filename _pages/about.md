@@ -51,7 +51,7 @@ My research interests focus on **Large Language Models**, with a particular emph
   
 - Xi Yang, Zhangze Chen\*, **Hanghui Guo**\*, Tetiana Shestakevych. *Adaptive Exploration: Elevating Educational Impact of Unsupervised Knowledge Graph Question Answering.* **APWeb-WAIM Workshop** (CCF C), 2024.  
 
-- Changfan Pan, Qing Wang, Jia Zhu\*, Xinran Cao, **Hanghui Guo**, Changqin Huang. *Stable Attribution with Local Surrogate Model.* **ChineseCSCW** (EI), 2024.  
+- Changfan Pan, Qing Wang, Jia Zhu\*, Xinran Cao, **Hanghui Guo**, Changqin Huang. *Stable Attribution with Local Surrogate Model.* **ChineseCSCW** (EI Conference), 2024.  
 
 - Qing Wang, Jia Zhu, Changfan Pan, Jianyang Shi\*, Chaojun Meng, **Hanghui Guo**. *Dual Trustworthy Mechanism for Illness Classification with Multi-Modality Data.* **ICDM Workshop** (CCF B), 2023.
 
