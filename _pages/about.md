@@ -39,15 +39,15 @@ My research interests focus on **Large Language Models**, with a particular emph
 
 - **Hanghui Guo**†, Weijie Shi†, Mengze Li\*, Juncheng Li, Hao Chen, Yue Cui, Jiajie Xu, Jia Zhu\*, Jiawei Shen, Zhangze Chen, Sirui Han. *Consistent and Invariant Generalization Learning for Short-video Misinformation Detection.* **ACM MM** (CCF A, CORE A\*), 2025.  
 
-- **Hanghui Guo**, Jia Zhu\*, Shimin Di\*, Weijie Shi\*, Zhangze Chen, Jiajie Xu. *DioR: Adaptive Cognitive Detection and Contextual Retrieval Optimization for Dynamic Retrieval-Augmented Generation.* **ACL Main** (CCF A, CORE A\*), 2025.  
+- Chenglei Huang†, Jia Zhu†\*, Yilong Ji\*, Weijie Shi, Min Yang, **Hanghui Guo**, Jianxia Ling, Pasquale De Meo, Zilong Li, Zhangze Chen. *A Multi-Modal Dataset for Teacher Behavior Analysis in Offline Classrooms.* **Scientific Data** (SCI Q2, IF 6.9), 2025.
 
-- Jia Zhu, **Hanghui Guo**, Weijie Shi\*, Zhangze Chen, Pasquale De Meo. *RaDIO: Real-Time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation.* **AAAI** (CCF A, CORE A\*), 2025.  
+- **Hanghui Guo**, Jia Zhu\*, Shimin Di\*, Weijie Shi\*, Zhangze Chen, Jiajie Xu. *DioR: Adaptive Cognitive Detection and Contextual Retrieval Optimization for Dynamic Retrieval-Augmented Generation.* **ACL Main** (CCF A, CORE A\*), 2025.  
+  
+- Chaojun Meng, Changfan Pan, Hongji Shu, Qing Wang, **Hanghui Guo**, Jia Zhu\*. *Heterogeneous Collaborative Filtering Contrastive Learning for Social Recommendation.* **Applied Soft Computing** (SCI Q2 TOP, IF 6.6), 2025.
 
 - **Hanghui Guo**, Shimin Di, Zhangze Chen, Changfan Pan, Chaojun Meng, Jia Zhu\*. *FGRCAT: A Fine-Grained Reasoning Framework Through Causality and Adversarial Training.* **Expert Systems with Applications** (SCI Q1 TOP, IF 7.5), 2025. 
 
-- Chenglei Huang†, Jia Zhu†\*, Yilong Ji\*, Weijie Shi, Min Yang, **Hanghui Guo**, Jianxia Ling, Pasquale De Meo, Zilong Li, Zhangze Chen. *A Multi-Modal Dataset for Teacher Behavior Analysis in Offline Classrooms.* **Scientific Data** (SCI Q2, IF 6.9), 2025.
-  
-- Chaojun Meng, Changfan Pan, Hongji Shu, Qing Wang, **Hanghui Guo**, Jia Zhu\*. *Heterogeneous Collaborative Filtering Contrastive Learning for Social Recommendation.* **Applied Soft Computing** (SCI Q2 TOP, IF 6.6), 2025.
+- Jia Zhu, **Hanghui Guo**, Weijie Shi\*, Zhangze Chen, Pasquale De Meo. *RaDIO: Real-Time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation.* **AAAI** (CCF A, CORE A\*), 2025.  
   
 - Xi Yang, Zhangze Chen\*, **Hanghui Guo**\*, Tetiana Shestakevych. *Adaptive Exploration: Elevating Educational Impact of Unsupervised Knowledge Graph Question Answering.* **APWeb-WAIM Workshop** (CCF C), 2024.  
 
