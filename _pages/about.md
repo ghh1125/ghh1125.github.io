@@ -83,7 +83,7 @@ My research interests focus on **Large Language Models**, with a particular emph
 - *2024*, Second-Class Postgraduate Scholarship, Zhejiang Normal University
 - *2024*, Silver Award of Zhejiang International College Student Innovation Competition
 - *2022*, First Prize, Zhejiang Province College Students’ Advanced Mathematics (Calculus) Competition
-- *2022*, First Prize, National College Student Mathematics Competition (Zhejiang Province)
+- *2022*, First Prize, The Chinese Mathematics Competitions (Zhejiang Province)
 - *2022*, Third-Class Scholarship, Wenzhou University
 - *2020*, Third-Class Scholarship, Wenzhou University
 - *2019*, Second Prize, Wenzhou University Programming Competition
