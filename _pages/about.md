@@ -58,6 +58,13 @@ My research interests focus on **Large Language Models**, with a particular emph
 - Changfan Pan, Qing Wang, Jia Zhu\*, Xinran Cao, **Hanghui Guo**, Changqin Huang. *Stable Attribution with Local Surrogate Model.* **ChineseCSCW** (EI Conference), 2024.  
 
 - Qing Wang, Jia Zhu, Changfan Pan, Jianyang Shi\*, Chaojun Meng, **Hanghui Guo**. *Dual Trustworthy Mechanism for Illness Classification with Multi-Modality Data.* **ICDM Workshop** (CCF B), 2023.
+  
+---
+
+
+- Guoqing Ma, Jia Zhu, **Hanghui Guo**, Weijie Shi, Jiawei Shen, Jingjiang Liu, Yidan Liang. *Automatic Failure Attribution and Critical Step Prediction Method for Multi-Agent Systems Based on Causal Inference.* **Preprint**, 2025.
+
+- Dongjie Xu, Yue Cui, Weijie Shi, Qingzhi Ma, **Hanghui Guo**, Jiaming Li, Yao Zhao, Ruiyuan Zhang, Shimin Di, Jia Zhu, Kai Zheng, Jiajie Xu. *E3-Rewrite: Learning to Rewrite SQL for Executability, Equivalence, and Efficiency.* **Preprint**, 2025.
 
 ---
 †  Equal Contribution
