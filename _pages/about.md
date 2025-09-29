@@ -25,16 +25,16 @@ My research interests focus on **Large Language Models**, with a particular emph
 
 
 # 🔥 News
-- *2025.08*: One paper accepted by **ACAIT 2025**
-- *2025.07*: One paper accepted by **ACM MM 2025**
-- *2025.06*: One paper accepted by **Scientific Data**
-- *2025.05*: One paper accepted by **ACL 2025 Main**
-- *2025.02*: One paper accepted by **Applied Soft Computing**
-- *2025.01*: One paper accepted by **Expert Systems with Applications**
-- *2024.12*: One paper accepted by **AAAI 2025**
-- *2024.08*: One paper accepted by **APWeb-WAIM 2024 Workshop**
-- *2024.06*: One paper accepted by **ChineseCSCW 2024**
-- *2023.09*: One paper accepted by **ICDM 2023 Workshop**
+- *2025.08*: One paper accepted by [**ACAIT 2025**](https://2025.acaitconf.com/)
+- *2025.07*: One paper accepted by [**ACM MM 2025**](https://acmmm2025.org/)
+- *2025.06*: One paper accepted by [**Scientific Data**](https://www.nature.com/sdata/)
+- *2025.05*: One paper accepted by [**ACL 2025 Main**](https://2025.aclweb.org/)
+- *2025.02*: One paper accepted by [**Applied Soft Computing**](https://www.sciencedirect.com/journal/applied-soft-computing)
+- *2025.01*: One paper accepted by [**Expert Systems with Applications**](https://www.sciencedirect.com/journal/expert-systems-with-applications)
+- *2024.12*: One paper accepted by [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/)
+- *2024.08*: One paper accepted by [**APWeb-WAIM 2024 Workshop**](https://apweb2024.zjnu.edu.cn/)
+- *2024.06*: One paper accepted by [**ChineseCSCW 2024**](https://conf.scholat.com/ccscw/2024)
+- *2023.09*: One paper accepted by [**ICDM 2023 Workshop**](https://www.cloud-conf.net/icdm2023/)
 
 # 📝 Publications 
 
@@ -107,6 +107,6 @@ My research interests focus on **Large Language Models**, with a particular emph
 
 
 # 🏛 Academic Services
-- Reviewer for Knowledge-based Systems (SCI Q1 TOP, IF 7.6)
-- Reviewer for Neurocomputing (SCI Q2, IF 6.5)
-- Reviewer for Pattern Recognition Letters (SCI Q3, IF 3.3)
+- Reviewer for [**Knowledge-based Systems**](https://www.sciencedirect.com/journal/knowledge-based-systems) (SCI Q1 TOP, IF 7.6)
+- Reviewer for [**Neurocomputing**](https://www.sciencedirect.com/journal/neurocomputing) (SCI Q2, IF 6.5)
+- Reviewer for [**Pattern Recognition Letters**](https://www.sciencedirect.com/journal/pattern-recognition-letters) Letters (SCI Q3, IF 3.3)
