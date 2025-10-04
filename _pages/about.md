@@ -53,11 +53,11 @@ My research interests focus on **Large Language Models**, with a particular emph
 
 - Jia Zhu, **Hanghui Guo**, Weijie Shi\*, Zhangze Chen, Pasquale De Meo. *RaDIO: Real-Time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation.* **AAAI** (CCF A, CORE A\*), 2025.  
   
-- Xi Yang, Zhangze Chen\*, **Hanghui Guo**\*, Tetiana Shestakevych. *Adaptive Exploration: Elevating Educational Impact of Unsupervised Knowledge Graph Question Answering.* **APWeb-WAIM Workshop** (CCF C), 2024.  
+- Xi Yang, Zhangze Chen\*, **Hanghui Guo**\*, Tetiana Shestakevych. *Adaptive Exploration: Elevating Educational Impact of Unsupervised Knowledge Graph Question Answering.* **APWeb-WAIM Workshop** (CCF C, CORE C), 2024.  
 
 - Changfan Pan, Qing Wang, Jia Zhu\*, Xinran Cao, **Hanghui Guo**, Changqin Huang. *Stable Attribution with Local Surrogate Model.* **ChineseCSCW** (EI Conference), 2024.  
 
-- Qing Wang, Jia Zhu, Changfan Pan, Jianyang Shi\*, Chaojun Meng, **Hanghui Guo**. *Dual Trustworthy Mechanism for Illness Classification with Multi-Modality Data.* **ICDM Workshop** (CCF B), 2023.
+- Qing Wang, Jia Zhu, Changfan Pan, Jianyang Shi\*, Chaojun Meng, **Hanghui Guo**. *Dual Trustworthy Mechanism for Illness Classification with Multi-Modality Data.* **ICDM Workshop** (CCF B, CORE A\*), 2023.
   
 ---
 
