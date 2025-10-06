@@ -28,12 +28,13 @@ My research interests focus on **Large Language Models**, with a particular emph
 - *2025.08*: One paper accepted by [**ACAIT 2025**](https://2025.acaitconf.com/)
 - *2025.07*: One paper accepted by [**ACM MM 2025**](https://acmmm2025.org/)
 - *2025.06*: One paper accepted by [**Scientific Data**](https://www.nature.com/sdata/)
-- *2025.05*: One paper accepted by [**ACL 2025 Main**](https://2025.aclweb.org/)
+- *2025.05*: One paper accepted by [**ACL 2025**](https://2025.aclweb.org/)
 - *2025.02*: One paper accepted by [**Applied Soft Computing**](https://www.sciencedirect.com/journal/applied-soft-computing)
 - *2025.01*: One paper accepted by [**Expert Systems with Applications**](https://www.sciencedirect.com/journal/expert-systems-with-applications)
 - *2024.12*: One paper accepted by [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/)
 - *2024.08*: One paper accepted by [**APWeb-WAIM 2024 Workshop**](https://apweb2024.zjnu.edu.cn/)
 - *2024.06*: One paper accepted by [**ChineseCSCW 2024**](https://conf.scholat.com/ccscw/2024)
+- *2024.03*: One paper accepted by [**GCCCE 2024**](https://gccce2024.swu.edu.cn/index_en.htm)
 - *2023.09*: One paper accepted by [**ICDM 2023 Workshop**](https://www.cloud-conf.net/icdm2023/)
 
 # 📝 Publications 
@@ -56,6 +57,8 @@ My research interests focus on **Large Language Models**, with a particular emph
 - Xi Yang, Zhangze Chen\*, **Hanghui Guo**\*, Tetiana Shestakevych. *Adaptive Exploration: Elevating Educational Impact of Unsupervised Knowledge Graph Question Answering.* **APWeb-WAIM Workshop** (CCF C, CORE C), 2024.  
 
 - Changfan Pan, Qing Wang, Jia Zhu\*, Xinran Cao, **Hanghui Guo**, Changqin Huang. *Stable Attribution with Local Surrogate Model.* **ChineseCSCW** (EI Conference), 2024.  
+
+- Wanlu Zhang, Jia Zhu\*, Changfan Pan, **Hanghui Guo**, Zhangze Chen. *基于VR技术的电磁波教学平台设计与交互式开发.* **GCCCE 2024** (CORE C), 2024.
 
 - Qing Wang, Jia Zhu, Changfan Pan, Jianyang Shi\*, Chaojun Meng, **Hanghui Guo**. *Dual Trustworthy Mechanism for Illness Classification with Multi-Modality Data.* **ICDM Workshop** (CCF B, CORE A\*), 2023.
   
