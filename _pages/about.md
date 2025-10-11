@@ -25,7 +25,7 @@ My research interests focus on **Large Language Models**, with a particular emph
 
 
 # 🔥 News
-- *2025.10*: I was awarded the [**National Scholarship for Graduate Students**](https://cs.zjnu.edu.cn/2025/1011/c17683a529270/page.htm)
+- *2025.10*: I was awarded the **National Scholarship for Graduate Students**
 - *2025.08*: One paper accepted by [**ACAIT 2025**](https://2025.acaitconf.com/)
 - *2025.07*: One paper accepted by [**ACM MM 2025**](https://acmmm2025.org/)
 - *2025.06*: One paper accepted by [**Scientific Data**](https://www.nature.com/sdata/)
