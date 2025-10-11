@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hanghui Guo (郭杭辉)"
+title                    : "Hanghui Guo's Homepage"
 description              : "Master Student"
 repository               : "ghh1125/ghh1125.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hanghui Guo"
+  name             : "Hanghui Guo  (郭杭辉)"
   avatar           : "images/citations.jpeg"
   bio              : 
   location         : "Zhejiang, China"
