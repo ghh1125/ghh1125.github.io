@@ -25,6 +25,7 @@ My research interests focus on **Large Language Models**, with a particular emph
 
 
 # 🔥 News
+- *2025.10*: One paper accepted by [**Arabian Journal for Science and Engineering**](https://link.springer.com/journal/13369?utm_medium=display&utm_source=letpub&utm_content=text_link&utm_term=null&utm_campaign=MPSR_13369_AWA1_CN_CNPL_letpb_mp)
 - *2025.10*: I was awarded the **National Scholarship for Graduate Students** and **Outstanding Graduate Student**
 - *2025.08*: One paper accepted by [**ACAIT 2025**](https://2025.acaitconf.com/)
 - *2025.07*: One paper accepted by [**ACM MM 2025**](https://acmmm2025.org/)
@@ -40,6 +41,7 @@ My research interests focus on **Large Language Models**, with a particular emph
 
 # 📝 Publications 
 
+- **Hanghui Guo**, Jia Zhu\*, Changfan Pan, Qing Wang, Cong Zhou, Chaojun Meng. *KE-LPG: Towards Semantic Refinement for Lesson Plan Generation.* **Arabian Journal for Science and Engineering** (SCI Q4, IF 2.9), 2025.  
 
 - Zilong Li, Jia Zhu\*, Chenglei Huang, Zhangze Chen, **Hanghui Guo**. *RG-MEO: Relation-Guided Modality Embedding Optimization for Multimodal Knowledge Graph Completion.* **ACAIT** (EI Conference), 2025.  
 
