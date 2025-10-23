@@ -43,7 +43,7 @@ My research interests focus on **Large Language Models**, with a particular emph
 
 - **Hanghui Guo**, Jia Zhu\*, Changfan Pan, Qing Wang, Cong Zhou, Chaojun Meng. *KE-LPG: Towards Semantic Refinement for Lesson Plan Generation.* **Arabian Journal for Science and Engineering** (SCI Q4, IF 2.9), 2025.  
 
-- Zilong Li, Jia Zhu\*, Chenglei Huang, Zhangze Chen, **Hanghui Guo**. *RG-MEO: Relation-Guided Modality Embedding Optimization for Multimodal Knowledge Graph Completion.* **ACAIT** (EI Conference), 2025.  
+- Zilong Li, Jia Zhu\*, Chenglei Huang, Zhangze Chen, **Hanghui Guo**, Jianxia Ling. *RG-MEO: Relation-Guided Modality Embedding Optimization for Multimodal Knowledge Graph Completion.* **ACAIT** (EI Conference), 2025.  
 
 - **Hanghui Guo**^, Weijie Shi^, Mengze Li\*, Juncheng Li, Hao Chen, Yue Cui, Jiajie Xu, Jia Zhu\*, Jiawei Shen, Zhangze Chen, Sirui Han. *Consistent and Invariant Generalization Learning for Short-video Misinformation Detection.* **ACM MM** (CCF A, CORE A\*), 2025.  
 
