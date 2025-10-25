@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing a Master’s degree in Computer Science and Technology at the *School of Computer Science and Technology, Zhejiang Normal University* (2023–2026), under the supervision of [**Prof. Jia Zhu**](https://scholar.google.com/citations?user=KO3MIkQAAAAJ&hl=en) in the *Zhejiang Key Laboratory of Intelligent Education Technology and Application*. Prior to this, I obtained my Bachelor’s degree in Data Science and Big Data Technology from the *College of Computer Science and Artificial Intelligence, Wenzhou University* (2019–2023).  
+I am currently pursuing a Master’s degree in Computer Science and Technology at the *School of Computer Science and Technology, Zhejiang Normal University*, under the supervision of [**Prof. Jia Zhu**](https://scholar.google.com/citations?user=KO3MIkQAAAAJ&hl=en) in the *Zhejiang Key Laboratory of Intelligent Education Technology and Application*. 
 
 My research interests focus on **Large Language Models**, with a particular emphasis on **Retrieval Augmented Generation**, **Reasoning Capabilities**, **Reinforcement Learning for Large Reasoning Models**, and **Applications in Scientific Domains**.
 
@@ -109,9 +109,8 @@ My research interests focus on **Large Language Models**, with a particular emph
 - *2019*, Second Prize, Wenzhou University Programming Competition
 - *2018*, Second Prize, National Olympiad in Biology (Zhejiang Province) 
 
-# 📖 Educations
-- *2023.09 - 2026.06*, MS student, Computer Science and Technology, School of Computer Science and Technology, Zhejiang Normal University
-- *2019.09 - 2023.06*, Undergrad student, Data Science and Big Data Technology, College of Computer Science and Artificial Intelligence, Wenzhou University
+# 📖 Teaching
+- None
 
 
 # 💬 Invited Talks
