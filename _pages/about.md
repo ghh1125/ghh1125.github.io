@@ -110,7 +110,7 @@ My research interests focus on **Large Language Models**, with a particular emph
 - *2018*, Second Prize, National Olympiad in Biology (Zhejiang Province) 
 
 # 📖 Teaching
-- None
+- Introduction to Intelligent Educational Technology and Applications, Fall 2024
 
 
 # 💬 Invited Talks
