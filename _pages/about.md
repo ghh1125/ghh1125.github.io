@@ -54,7 +54,6 @@ My research interests focus on **Large Language Models**, with a particular emph
 
 - **Hanghui Guo**^, Weijie Shi^, Mengze Li\*, Juncheng Li, Hao Chen, Yue Cui, Jiajie Xu, Jia Zhu\*, Jiawei Shen, Zhangze Chen, Sirui Han. *Consistent and Invariant Generalization Learning for Short-video Misinformation Detection.* **ACM MM** (CCF A, CORE A\*), 2025.  
 
-
 - **Hanghui Guo**, Jia Zhu\*, Shimin Di\*, Weijie Shi\*, Zhangze Chen, Jiajie Xu. *DioR: Adaptive Cognitive Detection and Contextual Retrieval Optimization for Dynamic Retrieval-Augmented Generation.* **ACL Main** (CCF A, CORE A\*), 2025.  
 
 - Jia Zhu, **Hanghui Guo**, Weijie Shi\*, Zhangze Chen, Pasquale De Meo. *RaDIO: Real-Time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation.* **AAAI** (CCF A, CORE A\*), 2025.  
@@ -63,7 +62,7 @@ My research interests focus on **Large Language Models**, with a particular emph
 
 - Changfan Pan, Qing Wang, Jia Zhu\*, Xinran Cao, **Hanghui Guo**, Changqin Huang. *Stable Attribution with Local Surrogate Model.* **ChineseCSCW** (EI Conference), 2024.  
 
-- Wanlu Zhang, Jia Zhu\*, Changfan Pan, **Hanghui Guo**, Zhangze Chen. *基于VR技术的电磁波教学平台设计与交互式开发.* **GCCCE 2024** (CORE C), 2024.
+- Wanlu Zhang, Jia Zhu\*, Changfan Pan, **Hanghui Guo**, Zhangze Chen. *基于VR技术的电磁波教学平台设计与交互式开发.* **GCCCE** (CORE C), 2024.
 
 - Qing Wang, Jia Zhu, Changfan Pan, Jianyang Shi\*, Chaojun Meng, **Hanghui Guo**. *Dual Trustworthy Mechanism for Illness Classification with Multi-Modality Data.* **ICDM Workshop** (CCF B, CORE A\*), 2023.
   
