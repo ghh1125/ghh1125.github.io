@@ -25,7 +25,6 @@ My research interests focus on **Large Language Models**, with a particular emph
 
 
 # 🔥 News
-- *2025.10*: One paper accepted by [**Arabian Journal for Science and Engineering**](https://link.springer.com/journal/13369?utm_medium=display&utm_source=letpub&utm_content=text_link&utm_term=null&utm_campaign=MPSR_13369_AWA1_CN_CNPL_letpb_mp)
 - *2025.10*: I was awarded the **National Scholarship for Graduate Students** and **Outstanding Graduate Student**
 - *2025.07*: One paper accepted by [**ACM MM 2025**](https://acmmm2025.org/)
 - *2025.05*: One paper accepted by [**ACL 2025**](https://2025.aclweb.org/)
