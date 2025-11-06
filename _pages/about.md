@@ -100,6 +100,7 @@ My research interests focus on **Large Language Models**, with a particular emph
 
 
 # 🎖 Honors and Awards
+- *2025*, Outstanding Graduate (Master’s Degree), Zhejiang Normal University
 - *2025*, Outstanding Graduate Student, Zhejiang Normal University
 - *2025*, National Scholarship for Graduate Students
 - *2025*, First-Class Postgraduate Scholarship, Zhejiang Normal University
