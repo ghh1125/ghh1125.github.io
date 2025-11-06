@@ -25,7 +25,7 @@ My research interests focus on **Large Language Models**, with a particular emph
 
 
 # 🔥 News
-- *2025.10*: I was awarded the **National Scholarship for Graduate Students** and **Outstanding Graduate Student**
+- *2025.10*: I was awarded the **National Scholarship for Graduate Students**
 - *2025.07*: One paper accepted by [**ACM MM 2025**](https://acmmm2025.org/)
 - *2025.05*: One paper accepted by [**ACL 2025**](https://2025.aclweb.org/)
 - *2025.01*: One paper accepted by [**Expert Systems with Applications**](https://www.sciencedirect.com/journal/expert-systems-with-applications)
@@ -59,7 +59,7 @@ My research interests focus on **Large Language Models**, with a particular emph
 ## Journal
 
 
-- **Hanghui Guo**, Shimin Di, Zhangze Chen, Changfan Pan, Chaojun Meng, Jia Zhu\*. *FGRCAT: A Fine-Grained Reasoning Framework Through Causality and Adversarial Training.* **Expert Systems with Applications** (SCI Q1 TOP, IF 7.5), 2025.
+- **Hanghui Guo**, Shimin Di, Zhangze Chen, Changfan Pan, Chaojun Meng, Jia Zhu\*. *FGRCAT: A Fine-Grained Reasoning Framework Through Causality and Adversarial Training.* **Expert Systems with Applications** (SCI Q1 TOP, IF 7.5, CCF C), 2025.
 
 - Chenglei Huang^, Jia Zhu^\*, Yilong Ji\*, Weijie Shi, Min Yang, **Hanghui Guo**, Jianxia Ling, Pasquale De Meo, Zilong Li, Zhangze Chen. *A Multi-Modal Dataset for Teacher Behavior Analysis in Offline Classrooms.* **Scientific Data** (SCI Q2, IF 6.9), 2025.
 
