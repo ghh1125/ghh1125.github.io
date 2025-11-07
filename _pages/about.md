@@ -37,7 +37,12 @@ My research interests focus on **Large Language Models**, with a particular emph
 
 
 ## Conference
- 
+
+- Yanping Chen, Weijie Shi, Mengze Li, Yue Cui, Jiaming Li, Ruiyuan Zhang, Hao Chen, **Hanghui Guo**, Shimin Di, Ziyi Liu, Jia Zhu, Jiajie Xu. *Active Multi-source Domain Adaptation for Multimodal Fake News Detection.* **AAAI** (CCF A, CORE A\*), 2026.  
+
+- Zilong Li, Jia Zhu, Chenglei Huang, Zhangze Chen, **Hanghui Guo**, Guoqing Ma, Jianxia Ling. *Capturing Dynamic User Interests under Modality Imbalance for Multimodal Sequential Recommendation.* **AAAI** (CCF A, CORE A\*), 2026.  
+
+- Yi Cao, Weijie Shi, Wei-Jie Xu, Yucheng Shen, Yue Cui, **Hanghui Guo**, Shimin Di, Ziyi Liu, Jiaming Li, Alexander Zhou, Jia Zhu, Jiajie Xu. *TIV: Thought Injection via Vectors for Efficient Reasoning in Large Reasoning Models.* **AAAI** (CCF A, CORE A\*), 2026.  
 
 - **Hanghui Guo**^, Weijie Shi^, Mengze Li\*, Juncheng Li, Hao Chen, Yue Cui, Jiajie Xu, Jia Zhu\*, Jiawei Shen, Zhangze Chen, Sirui Han. *Consistent and Invariant Generalization Learning for Short-video Misinformation Detection.* **ACM MM** (CCF A, CORE A\*), 2025.  
 
