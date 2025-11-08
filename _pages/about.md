@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently pursuing a Master’s degree in Computer Science and Technology at the *School of Computer Science and Technology, Zhejiang Normal University*, under the supervision of [**Prof. Jia Zhu**](https://scholar.google.com/citations?user=KO3MIkQAAAAJ&hl=en) in the *Zhejiang Key Laboratory of Intelligent Education Technology and Application*. Prior to this, I obtained my Bachelor’s degree in Data Science and Big Data Technology from the *College of Computer Science and Artificial Intelligence, Wenzhou University*.
 
-My research interests focus on **Large Language Models**, with a particular emphasis on **Retrieval Augmented Generation**, **Reasoning Capabilities**, **Reinforcement Learning for Large Reasoning Models**, and **Applications in Scientific Domains**.
+My research interests focus on **Large Language Models**, with a particular emphasis on **Retrieval Augmented Generation**, **Agentic RL**, **Reinforcement Learning for Large Reasoning Models**, and **Applications in Scientific Domains**.
 
 
 
