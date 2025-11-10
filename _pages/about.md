@@ -73,13 +73,7 @@ My research interests focus on **Large Language Models**, with a particular emph
 - **Hanghui Guo**, Jia Zhu\*, Changfan Pan, Qing Wang, Cong Zhou, Chaojun Meng. *KE-LPG: Towards Semantic Refinement for Lesson Plan Generation.* **Arabian Journal for Science and Engineering** (SCI Q4, IF 2.9), 2025.
 
 
-## Preprint
 
-- **Hanghui Guo**, Shimin Di, Pasquale De Meo, Zhangze Chen, Jia Zhu. *MuPlon: Multi-Path Causal Optimization for Claim Verification through Controlling Confounding.* **Preprint**, 2025.
-
-- Guoqing Ma, Jia Zhu, **Hanghui Guo**, Weijie Shi, Jiawei Shen, Jingjiang Liu, Yidan Liang. *Automatic Failure Attribution and Critical Step Prediction Method for Multi-Agent Systems Based on Causal Inference.* **Preprint**, 2025.
-
-- Dongjie Xu, Yue Cui, Weijie Shi, Qingzhi Ma, **Hanghui Guo**, Jiaming Li, Yao Zhao, Ruiyuan Zhang, Shimin Di, Jia Zhu, Kai Zheng, Jiajie Xu. *E3-Rewrite: Learning to Rewrite SQL for Executability, Equivalence, and Efficiency.* **Preprint**, 2025.
 
 ---
 ^  Equal Contribution
