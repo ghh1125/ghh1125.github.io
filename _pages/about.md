@@ -70,7 +70,7 @@ My research interests focus on **Large Language Models**, with a particular emph
 
 - Chaojun Meng, Changfan Pan, Hongji Shu, Qing Wang, **Hanghui Guo**, Jia Zhu\*. *Heterogeneous Collaborative Filtering Contrastive Learning for Social Recommendation.* **Applied Soft Computing** (SCI Q2 TOP, IF 6.6), 2025.
 
-- **Hanghui Guo**, Jia Zhu\*, Changfan Pan, Qing Wang, Cong Zhou, Chaojun Meng. *KE-LPG: Towards Semantic Refinement for Lesson Plan Generation.* **Arabian Journal for Science and Engineering** (SCI Q4, IF 2.9), 2025.
+- **Hanghui Guo\***, Jia Zhu, Changfan Pan, Qing Wang, Cong Zhou, Chaojun Meng. *KE-LPG: Towards Semantic Refinement for Lesson Plan Generation.* **Arabian Journal for Science and Engineering** (SCI Q4, IF 2.9), 2025.
 
 
 
