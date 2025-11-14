@@ -24,14 +24,6 @@ My research interests focus on **Large Language Models**, with a particular emph
 
 
 
-# 🔥 News
-- *2025.10*: I was awarded the **National Scholarship for Graduate Students**
-- *2025.07*: One paper accepted by [**ACM MM 2025**](https://acmmm2025.org/)
-- *2025.05*: One paper accepted by [**ACL 2025**](https://2025.aclweb.org/)
-- *2025.01*: One paper accepted by [**Expert Systems with Applications**](https://www.sciencedirect.com/journal/expert-systems-with-applications)
-- *2024.12*: One paper accepted by [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/)
-
-
 # 📝 Publications 
 
 
@@ -114,6 +106,9 @@ My research interests focus on **Large Language Models**, with a particular emph
 
 # 📖 Teaching
 - Teaching Assistant, *Introduction to Intelligent Educational Technology and Applications*, Fall 2024
+
+# 👥 Group
+- None
 
 
 # 💬 Invited Talks
