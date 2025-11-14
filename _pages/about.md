@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+I am currently pursuing a Master’s degree in Computer Science and Technology at the *School of Computer Science and Technology, Zhejiang Normal University*, under the supervision of [**Prof. Jia Zhu**](https://scholar.google.com/citations?user=KO3MIkQAAAAJ&hl=en) in the *Zhejiang Key Laboratory of Intelligent Education Technology and Application*. Prior to this, I obtained my Bachelor’s degree in Data Science and Big Data Technology from the *College of Computer Science and Artificial Intelligence, Wenzhou University*.
+
+<!--
 I am currently pursuing my Ph.D. degree at the *School of Computer Science and Engineering, Southeast University*, under the supervision of [**Prof. Shimin Di**](https://sdiaa.github.io/) in the **PaLM Lab (Pattern Learning and Mining), School of Computer Science and Engineering, Southeast University**.
 Previously, I obtained my M.S. degree in **Computer Science and Technology** from the *School of Computer Science and Technology, Zhejiang Normal University*, supervised by [**Prof. Jia Zhu**](https://scholar.google.com/citations?user=KO3MIkQAAAAJ&hl=en) in the **Zhejiang Key Laboratory of Intelligent Education Technology and Application**.
 I received my B.S. degree in **Data Science and Big Data Technology** from the *College of Computer Science and Artificial Intelligence, Wenzhou University*.
+-->
 
 My research interests focus on **Large Language Models**, with a particular emphasis on **Retrieval Augmented Generation**, **Agentic RL**, **Agent**, and **Applications in Scientific Domains**.
 
