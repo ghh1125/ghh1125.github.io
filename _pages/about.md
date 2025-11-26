@@ -25,7 +25,7 @@ Previously, I obtained my M.S. degree in **Computer Science and Technology** fro
 I received my B.S. degree in **Data Science and Big Data Technology** from the *College of Computer Science and Artificial Intelligence, Wenzhou University*.
 -->
 
-My research interests focus on **Large Language Models**, with a particular emphasis on **Retrieval Augmented Generation**, **Agentic RL**, **Agent**, and **Applications in Scientific Domains**.
+My research interests focus on **Large Language Models**, with a particular emphasis on **Retrieval Augmented Generation**, **Agent**, and **Applications in Scientific Domains**.
 
 
 
@@ -114,7 +114,7 @@ Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multime
 - *2018*, Second Prize, National Olympiad in Biology (Zhejiang Province) 
 
 # 📖 Teaching
-- Teaching Assistant, *Introduction to Intelligent Educational Technology and Applications*, Fall 2024
+- Teaching Assistant, *Introduction to Intelligent Educational Technology and Applications*, Fall 2024, Zhejiang Normal University
 
 # 👥 Group
 - None
