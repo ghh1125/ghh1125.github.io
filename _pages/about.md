@@ -114,7 +114,7 @@ Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multime
 - *2018*, Second Prize, National Olympiad in Biology (Zhejiang Province) 
 
 # 📖 Teaching
-- Teaching Assistant, *Introduction to Intelligent Educational Technology and Applications*, Fall 2024, Zhejiang Normal University
+- *Introduction to Intelligent Educational Technology and Applications*, Fall 2024, Teaching Assistant, Zhejiang Normal University
 
 # 👥 Group
 - None
@@ -129,6 +129,6 @@ Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multime
 
 
 # 🏛 Academic Services
-- Reviewer for [**Knowledge-based Systems**](https://www.sciencedirect.com/journal/knowledge-based-systems) (SCI Q1 TOP, IF 7.6)
-- Reviewer for [**Neurocomputing**](https://www.sciencedirect.com/journal/neurocomputing) (SCI Q2, IF 6.5)
-- Reviewer for [**Pattern Recognition Letters**](https://www.sciencedirect.com/journal/pattern-recognition-letters) Letters (SCI Q3, IF 3.3)
+- Reviewer for **Knowledge-based Systems** (SCI Q1 TOP, IF 7.6)
+- Reviewer for **Neurocomputing** (SCI Q2, IF 6.5)
+- Reviewer for **Pattern Recognition Letters** (SCI Q3, IF 3.3)
