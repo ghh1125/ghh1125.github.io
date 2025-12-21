@@ -73,7 +73,17 @@ Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multime
 
 - **Hanghui Guo\***, Jia Zhu, Changfan Pan, Qing Wang, Cong Zhou, Chaojun Meng. *KE-LPG: Towards Semantic Refinement for Lesson Plan Generation.* **Arabian Journal for Science and Engineering** (SCI Q4, IF 2.9), 2025.
 
+## Preprint
 
+- Jiawei Shen, Jia Zhu, **Hanghui Guo**, Weijie Shi, Guoqing Ma, Yidan Liang, Jingjiang Liu, Hao Chen, Shimin Di. *DynaGen: Unifying Temporal Knowledge Graph Reasoning with Dynamic Subgraphs and Generative Regularization.* 2025.
+
+- Guoqing Ma, Jia Zhu, **Hanghui Guo**, Weijie Shi, Yue Cui, Jiawei Shen, Zilong Li, Yidan Liang. *EduEval: A Hierarchical Cognitive Benchmark for Evaluating Large Language Models in Chinese Education.* 2025.
+
+- **Hanghui Guo**, Shimin Di, Pasquale De Meo, Zhangze Chen, Jia Zhu. *MuPlon: Multi-Path Causal Optimization for Claim Verification through Controlling Confounding.* 2025.
+
+- Guoqing Ma, Jia Zhu, **Hanghui Guo**, Weijie Shi, Jiawei Shen, Jingjiang Liu, Yidan Liang. *Automatic Failure Attribution and Critical Step Prediction Method for Multi-Agent Systems Based on Causal Inference.* 2025.
+
+- Dongjie Xu, Yue Cui, Weijie Shi, Qingzhi Ma, **Hanghui Guo**, Jiaming Li, Yao Zhao, Ruiyuan Zhang, Shimin Di, Jia Zhu, Kai Zheng, Jiajie Xu. *E3-rewrite: Learning to rewrite sql for executability, equivalence, and efficiency.* 2025.
 
 
 ---
@@ -100,17 +110,10 @@ Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multime
 
 
 # 🎖 Honors and Awards
-- *2025*, Outstanding Graduate (Master’s Degree), Zhejiang Normal University
-- *2025*, Outstanding Graduate Student, Zhejiang Normal University
 - *2025*, National Scholarship for Graduate Students
-- *2025*, First-Class Postgraduate Scholarship, Zhejiang Normal University
-- *2024*, Second-Class Postgraduate Scholarship, Zhejiang Normal University
 - *2024*, Silver Award of Zhejiang International College Student Innovation Competition
 - *2022*, First Prize, Zhejiang Province College Students’ Advanced Mathematics (Calculus) Competition
 - *2022*, First Prize, The Chinese Mathematics Competitions (Zhejiang Province)
-- *2022*, Third-Class Scholarship, Wenzhou University
-- *2020*, Third-Class Scholarship, Wenzhou University
-- *2019*, Second Prize, Wenzhou University Programming Competition
 - *2018*, Second Prize, National Olympiad in Biology (Zhejiang Province) 
 
 # 📖 Teaching
