@@ -91,7 +91,7 @@ Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multime
 
 
 # 🎖 Honors and Awards
-- *2025*, Rank 1, National Scholarship.
+- *2025*, National Scholarship.
 - *2024*, Silver Award, Zhejiang Provincial College Student Innovation and Entrepreneurship Competition.
 - *2022*, First Prize, Zhejiang Province College Students’ Advanced Mathematics (Calculus) Competition.
 - *2022*, First Prize, The Chinese Mathematics Competitions (Zhejiang Province).
