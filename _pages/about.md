@@ -100,12 +100,6 @@ Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multime
 # 📖 Teaching
 - *Introduction to Intelligent Educational Technology and Applications*, Fall 2024, Teaching Assistant, Zhejiang Normal University
 
-# 👥 Group
-- None
-
-
-# 💬 Invited Talks
-- None
 
 
 # 💻 Internships
