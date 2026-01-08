@@ -51,9 +51,9 @@ My research interests focus on **Large Language Models**, with a particular emph
 
 ## Journal
 
-- **Hanghui Guo**, Shimin Di, Zhangze Chen, Changfan Pan, Chaojun Meng, Jia Zhu\*. *FGRCAT: A Fine-Grained Reasoning Framework Through Causality and Adversarial Training.* **Expert Systems with Applications** (SCI Q1 TOP, IF 7.5, CCF C), 2025.
 - Chenglei Huang, Jia Zhu\*, Zilong Li, **Hanghui Guo**, Jiajun Liu, Pasquale De Meo, Weijie Shi. *Video-Seer: A Hierarchical Scene Selection and Multi-View Analysis
-Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multimedia** (SCI Q1 TOP, IF 9.7, CCF B), 2025.
+Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multimedia** (SCI Q1 TOP, IF 9.7, CCF B), 2026.
+- **Hanghui Guo**, Shimin Di, Zhangze Chen, Changfan Pan, Chaojun Meng, Jia Zhu\*. *FGRCAT: A Fine-Grained Reasoning Framework Through Causality and Adversarial Training.* **Expert Systems with Applications** (SCI Q1 TOP, IF 7.5, CCF C), 2025.
 - Chenglei Huang^, Jia Zhu^\*, Yilong Ji\*, Weijie Shi, Min Yang, **Hanghui Guo**, Jianxia Ling, Pasquale De Meo, Zilong Li, Zhangze Chen. *A Multi-Modal Dataset for Teacher Behavior Analysis in Offline Classrooms.* **Scientific Data** (SCI Q2, IF 6.9), 2025.
 - Chaojun Meng, Changfan Pan, Hongji Shu, Qing Wang, **Hanghui Guo**, Jia Zhu\*. *Heterogeneous Collaborative Filtering Contrastive Learning for Social Recommendation.* **Applied Soft Computing** (SCI Q2 TOP, IF 6.6), 2025.
 - **Hanghui Guo\***, Jia Zhu, Changfan Pan, Qing Wang, Cong Zhou, Chaojun Meng. *KE-LPG: Towards Semantic Refinement for Lesson Plan Generation.* **Arabian Journal for Science and Engineering** (SCI Q4, IF 2.9), 2025.
