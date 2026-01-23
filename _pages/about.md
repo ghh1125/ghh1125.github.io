@@ -24,7 +24,7 @@ Previously, I obtained my Master degree in **Computer Science and Technology** f
 
 
 
-My research interests focus on **Large Language Models**, with a particular emphasis on **Retrieval Augmented Generation**, **Agent**, and **Applications in Scientific Domains**.
+My research interests focus on **Large Language Models**, with a particular emphasis on **Retrieval Augmented Generation**, **LLM Agent**, and **AI4Sci**.
 
 
 
