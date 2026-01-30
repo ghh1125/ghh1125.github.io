@@ -114,7 +114,7 @@ Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multime
 
 
 <!-- 访客地图 -->
-<section class="visitor-map">
+<section>
     <h3 data-en="Visitor Map">Visitor Map</h3>
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=pEzwGYdBEWYtAs38qgXw4MosZxUSbN7a7TCyNux4xCE&cl=ffffff&w=a"></script>
 </section>
