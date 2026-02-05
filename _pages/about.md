@@ -115,13 +115,14 @@ Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multime
 # 🌍 Visitor Map
 <!-- 🌍 Visitor Map -->
 <section style="
-    max-width: 360px;
-    margin: 2.5rem auto;
+    max-width: 720px;
+    margin: 3rem auto;
     text-align: center;
 ">
     <script
         type="text/javascript"
         id="clustrmaps"
-        src="//clustrmaps.com/map_v2.js?d=pEzwGYdBEWYtAs38qgXw4MosZxUSbN7a7TCyNux4xCE&cl=ffffff&w=340">
+        src="//clustrmaps.com/map_v2.js?d=pEzwGYdBEWYtAs38qgXw4MosZxUSbN7a7TCyNux4xCE&cl=ffffff&w=680">
     </script>
 </section>
+
