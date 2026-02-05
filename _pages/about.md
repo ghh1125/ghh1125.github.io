@@ -113,14 +113,15 @@ Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multime
 - Reviewer for **Pattern Recognition Letters** (SCI Q3, IF 3.3)
 
 # 🌍 Visitor Map
+<!-- 🌍 Visitor Map -->
 <section style="
-    max-width: 280px;
-    margin: 2rem auto;
+    max-width: 360px;
+    margin: 2.5rem auto;
     text-align: center;
 ">
     <script
         type="text/javascript"
         id="clustrmaps"
-        src="//clustrmaps.com/map_v2.js?d=pEzwGYdBEWYtAs38qgXw4MosZxUSbN7a7TCyNux4xCE&cl=ffffff&w=260">
+        src="//clustrmaps.com/map_v2.js?d=pEzwGYdBEWYtAs38qgXw4MosZxUSbN7a7TCyNux4xCE&cl=ffffff&w=340">
     </script>
 </section>
