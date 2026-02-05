@@ -112,8 +112,15 @@ Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multime
 - Reviewer for **Neurocomputing** (SCI Q2, IF 6.5)
 - Reviewer for **Pattern Recognition Letters** (SCI Q3, IF 3.3)
 
-
-<!-- 访客地图 -->
-<section>
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=pEzwGYdBEWYtAs38qgXw4MosZxUSbN7a7TCyNux4xCE&cl=ffffff&w=a"></script>
+# 🌍 Visitor Map
+<section style="
+    max-width: 280px;
+    margin: 2rem auto;
+    text-align: center;
+">
+    <script
+        type="text/javascript"
+        id="clustrmaps"
+        src="//clustrmaps.com/map_v2.js?d=pEzwGYdBEWYtAs38qgXw4MosZxUSbN7a7TCyNux4xCE&cl=ffffff&w=260">
+    </script>
 </section>
