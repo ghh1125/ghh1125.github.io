@@ -111,6 +111,7 @@ Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multime
 - Reviewer for **Knowledge-based Systems** (SCI Q1 TOP, IF 7.6)
 - Reviewer for **Neurocomputing** (SCI Q2, IF 6.5)
 - Reviewer for **Pattern Recognition Letters** (SCI Q3, IF 3.3)
+- Reviewer for **Frontiers in Artificial Intelligence** (SCI Q4, IF 4.7)
 
 # 🌍 Visitor Map
 <!-- 🌍 Visitor Map -->
