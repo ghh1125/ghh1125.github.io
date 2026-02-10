@@ -35,27 +35,27 @@ My research interests focus on **Large Language Models**, with a particular emph
 
 ## Conference
 
-- Yanping Chen, Weijie Shi, Mengze Li, Yue Cui, Jiaming Li, Ruiyuan Zhang, Hao Chen, **Hanghui Guo**, Shimin Di, Ziyi Liu, Jia Zhu, Jiajie Xu. *Active Multi-source Domain Adaptation for Multimodal Fake News Detection.* **AAAI** (CCF A, CORE A\*), 2026.  
-- Zilong Li, Jia Zhu, Chenglei Huang, Zhangze Chen, **Hanghui Guo**, Guoqing Ma, Jianxia Ling. *Capturing Dynamic User Interests under Modality Imbalance for Multimodal Sequential Recommendation.* **AAAI** (CCF A, CORE A\*), 2026.  
-- Yi Cao, Weijie Shi, Wei-Jie Xu, Yucheng Shen, Yue Cui, **Hanghui Guo**, Shimin Di, Ziyi Liu, Jiaming Li, Alexander Zhou, Jia Zhu, Jiajie Xu. *TIV: Thought Injection via Vectors for Efficient Reasoning in Large Reasoning Models.* **AAAI** (CCF A, CORE A\*), 2026.  
-- **Hanghui Guo**^, Weijie Shi^, Mengze Li\*, Juncheng Li, Hao Chen, Yue Cui, Jiajie Xu, Jia Zhu\*, Jiawei Shen, Zhangze Chen, Sirui Han. *Consistent and Invariant Generalization Learning for Short-video Misinformation Detection.* **ACM MM** (CCF A, CORE A\*), 2025.  
-- **Hanghui Guo**, Jia Zhu\*, Shimin Di\*, Weijie Shi\*, Zhangze Chen, Jiajie Xu. *DioR: Adaptive Cognitive Detection and Contextual Retrieval Optimization for Dynamic Retrieval-Augmented Generation.* **ACL Main** (CCF A, CORE A\*), 2025.  
-- Jia Zhu, **Hanghui Guo**, Weijie Shi\*, Zhangze Chen, Pasquale De Meo. *RaDIO: Real-Time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation.* **AAAI** (CCF A, CORE A\*), 2025.
-- Zilong Li, Jia Zhu\*, Chenglei Huang, Zhangze Chen, **Hanghui Guo**, Jianxia Ling. *RG-MEO: Relation-Guided Modality Embedding Optimization for Multimodal Knowledge Graph Completion.* **ACAIT** (EI Conference), 2025.  
-- Xi Yang, Zhangze Chen\*, **Hanghui Guo**\*, Tetiana Shestakevych. *Adaptive Exploration: Elevating Educational Impact of Unsupervised Knowledge Graph Question Answering.* **APWeb-WAIM Workshop** (CCF C, CORE C), 2024.  
-- Changfan Pan, Qing Wang, Jia Zhu\*, Xinran Cao, **Hanghui Guo**, Changqin Huang. *Stable Attribution with Local Surrogate Model.* **ChineseCSCW** (EI Conference), 2024.  
-- Wanlu Zhang, Jia Zhu\*, Changfan Pan, **Hanghui Guo**, Zhangze Chen. *基于VR技术的电磁波教学平台设计与交互式开发.* **GCCCE** (CORE C), 2024.
-- Qing Wang, Jia Zhu, Changfan Pan, Jianyang Shi\*, Chaojun Meng, **Hanghui Guo**. *Dual Trustworthy Mechanism for Illness Classification with Multi-Modality Data.* **ICDM Workshop** (CCF B, CORE A\*), 2023.
+- Yanping Chen, Weijie Shi, Mengze Li, Yue Cui, Jiaming Li, Ruiyuan Zhang, Hao Chen, **Hanghui Guo**, Shimin Di, Ziyi Liu, Jia Zhu, Jiajie Xu. *Active Multi-source Domain Adaptation for Multimodal Fake News Detection.* **AAAI** (CCF A), 2026.  
+- Zilong Li, Jia Zhu, Chenglei Huang, Zhangze Chen, **Hanghui Guo**, Guoqing Ma, Jianxia Ling. *Capturing Dynamic User Interests under Modality Imbalance for Multimodal Sequential Recommendation.* **AAAI** (CCF A), 2026.  
+- Yi Cao, Weijie Shi, Wei-Jie Xu, Yucheng Shen, Yue Cui, **Hanghui Guo**, Shimin Di, Ziyi Liu, Jiaming Li, Alexander Zhou, Jia Zhu, Jiajie Xu. *TIV: Thought Injection via Vectors for Efficient Reasoning in Large Reasoning Models.* **AAAI** (CCF A), 2026.  
+- **Hanghui Guo**^, Weijie Shi^, Mengze Li\*, Juncheng Li, Hao Chen, Yue Cui, Jiajie Xu, Jia Zhu\*, Jiawei Shen, Zhangze Chen, Sirui Han. *Consistent and Invariant Generalization Learning for Short-video Misinformation Detection.* **ACM MM** (CCF A), 2025.  
+- **Hanghui Guo**, Jia Zhu\*, Shimin Di\*, Weijie Shi\*, Zhangze Chen, Jiajie Xu. *DioR: Adaptive Cognitive Detection and Contextual Retrieval Optimization for Dynamic Retrieval-Augmented Generation.* **ACL Main** (CCF A), 2025.  
+- Jia Zhu, **Hanghui Guo**, Weijie Shi\*, Zhangze Chen, Pasquale De Meo. *RaDIO: Real-Time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation.* **AAAI** (CCF A), 2025.
+- Zilong Li, Jia Zhu\*, Chenglei Huang, Zhangze Chen, **Hanghui Guo**, Jianxia Ling. *RG-MEO: Relation-Guided Modality Embedding Optimization for Multimodal Knowledge Graph Completion.* **ACAIT**, 2025.  
+- Xi Yang, Zhangze Chen\*, **Hanghui Guo**\*, Tetiana Shestakevych. *Adaptive Exploration: Elevating Educational Impact of Unsupervised Knowledge Graph Question Answering.* **APWeb-WAIM Workshop** (CCF C), 2024.  
+- Changfan Pan, Qing Wang, Jia Zhu\*, Xinran Cao, **Hanghui Guo**, Changqin Huang. *Stable Attribution with Local Surrogate Model.* **ChineseCSCW**, 2024.  
+- Wanlu Zhang, Jia Zhu\*, Changfan Pan, **Hanghui Guo**, Zhangze Chen. *基于VR技术的电磁波教学平台设计与交互式开发.* **GCCCE**, 2024.
+- Qing Wang, Jia Zhu, Changfan Pan, Jianyang Shi\*, Chaojun Meng, **Hanghui Guo**. *Dual Trustworthy Mechanism for Illness Classification with Multi-Modality Data.* **ICDM Workshop** (CCF B), 2023.
 
 
 ## Journal
 
 - Chenglei Huang, Jia Zhu\*, Zilong Li, **Hanghui Guo**, Jiajun Liu, Pasquale De Meo, Weijie Shi. *Video-Seer: A Hierarchical Scene Selection and Multi-View Analysis
-Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multimedia** (SCI Q1 TOP, IF 9.7, CCF B), 2026.
-- **Hanghui Guo**, Shimin Di, Zhangze Chen, Changfan Pan, Chaojun Meng, Jia Zhu\*. *FGRCAT: A Fine-Grained Reasoning Framework Through Causality and Adversarial Training.* **Expert Systems with Applications** (SCI Q1 TOP, IF 7.5, CCF C), 2025.
-- Chenglei Huang^, Jia Zhu^\*, Yilong Ji\*, Weijie Shi, Min Yang, **Hanghui Guo**, Jianxia Ling, Pasquale De Meo, Zilong Li, Zhangze Chen. *A Multi-Modal Dataset for Teacher Behavior Analysis in Offline Classrooms.* **Scientific Data** (SCI Q2, IF 6.9), 2025.
-- Chaojun Meng, Changfan Pan, Hongji Shu, Qing Wang, **Hanghui Guo**, Jia Zhu\*. *Heterogeneous Collaborative Filtering Contrastive Learning for Social Recommendation.* **Applied Soft Computing** (SCI Q2 TOP, IF 6.6), 2025.
-- **Hanghui Guo\***, Jia Zhu, Changfan Pan, Qing Wang, Cong Zhou, Chaojun Meng. *KE-LPG: Towards Semantic Refinement for Lesson Plan Generation.* **Arabian Journal for Science and Engineering** (SCI Q4, IF 2.9), 2025.
+Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multimedia** (SCI Q1 TOP, CCF B), 2026.
+- **Hanghui Guo**, Shimin Di, Zhangze Chen, Changfan Pan, Chaojun Meng, Jia Zhu\*. *FGRCAT: A Fine-Grained Reasoning Framework Through Causality and Adversarial Training.* **Expert Systems with Applications** (SCI Q1 TOP, CCF C), 2025.
+- Chenglei Huang^, Jia Zhu^\*, Yilong Ji\*, Weijie Shi, Min Yang, **Hanghui Guo**, Jianxia Ling, Pasquale De Meo, Zilong Li, Zhangze Chen. *A Multi-Modal Dataset for Teacher Behavior Analysis in Offline Classrooms.* **Scientific Data** (SCI Q2), 2025.
+- Chaojun Meng, Changfan Pan, Hongji Shu, Qing Wang, **Hanghui Guo**, Jia Zhu\*. *Heterogeneous Collaborative Filtering Contrastive Learning for Social Recommendation.* **Applied Soft Computing** (SCI Q2 TOP), 2025.
+- **Hanghui Guo\***, Jia Zhu, Changfan Pan, Qing Wang, Cong Zhou, Chaojun Meng. *KE-LPG: Towards Semantic Refinement for Lesson Plan Generation.* **Arabian Journal for Science and Engineering** (SCI Q4), 2025.
 
 ## Preprint
 
@@ -108,10 +108,10 @@ Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multime
 
 
 # 🏛 Academic Services
-- Reviewer for **Knowledge-based Systems** (SCI Q1 TOP, IF 7.6)
-- Reviewer for **Neurocomputing** (SCI Q2, IF 6.5)
-- Reviewer for **Pattern Recognition Letters** (SCI Q3, IF 3.3)
-- Reviewer for **Frontiers in Artificial Intelligence** (SCI Q4, IF 4.7)
+- Reviewer for **Knowledge-based Systems** (SCI Q1 TOP)
+- Reviewer for **Neurocomputing** (SCI Q2)
+- Reviewer for **Pattern Recognition Letters** (SCI Q3)
+- Reviewer for **Frontiers in Artificial Intelligence** (SCI Q4)
 
 # 🌍 Visitor Map
 <!-- 🌍 Visitor Map -->
