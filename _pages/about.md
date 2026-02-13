@@ -19,8 +19,8 @@ redirect_from:
 
 
 
-I am currently pursuing my PhD degree in **Computer Science and Technology** from the *School of Computer Science and Engineering, Southeast University*, under the supervision of [**Prof. Shimin Di**](https://sdiaa.github.io/).
-Previously, I obtained my Master degree in **Computer Science and Technology** from the *School of Computer Science and Technology, Zhejiang Normal University*, supervised by [**Prof. Jia Zhu**](https://scholar.google.com/citations?user=KO3MIkQAAAAJ&hl=en) in the **Zhejiang Key Laboratory of Intelligent Education Technology and Application**.
+I am currently pursuing my PhD degree in **Computer Science and Technology** from the **School of Computer Science and Engineering, Southeast University**, under the supervision of [**Prof. Shimin Di**](https://sdiaa.github.io/).
+Previously, I obtained my Master degree in **Computer Science and Technology** from the **School of Computer Science and Technology, Zhejiang Normal University**, supervised by [**Prof. Jia Zhu**](https://scholar.google.com/citations?user=KO3MIkQAAAAJ&hl=en) in the **Zhejiang Key Laboratory of Intelligent Education Technology and Application**.
 
 
 
