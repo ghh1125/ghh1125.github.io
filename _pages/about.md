@@ -51,7 +51,7 @@ My research interests focus on **Large Language Models**, with a particular emph
 ## Journal
 
 - Chenglei Huang, Jia Zhu\*, Zilong Li, **Hanghui Guo**, Jiajun Liu, Pasquale De Meo, Weijie Shi. *Video-Seer: A Hierarchical Scene Selection and Multi-View Analysis
-Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multimedia** (SCI Q1 TOP, CCF B), 2026.
+Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multimedia** (SCI Q1 TOP, CCF A), 2026.
 - **Hanghui Guo**, Shimin Di, Zhangze Chen, Changfan Pan, Chaojun Meng, Jia Zhu\*. *FGRCAT: A Fine-Grained Reasoning Framework Through Causality and Adversarial Training.* **Expert Systems with Applications** (SCI Q1 TOP, CCF C), 2025.
 - Chenglei Huang^, Jia Zhu^\*, Yilong Ji\*, Weijie Shi, Min Yang, **Hanghui Guo**, Jianxia Ling, Pasquale De Meo, Zilong Li, Zhangze Chen. *A Multi-Modal Dataset for Teacher Behavior Analysis in Offline Classrooms.* **Scientific Data** (SCI Q2), 2025.
 - Chaojun Meng, Changfan Pan, Hongji Shu, Qing Wang, **Hanghui Guo**, Jia Zhu\*. *Heterogeneous Collaborative Filtering Contrastive Learning for Social Recommendation.* **Applied Soft Computing** (SCI Q2 TOP), 2025.
