@@ -59,6 +59,7 @@ Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multime
 
 ## Preprint
 
+- Shimin Di, Xujie Yuan, **Hanghui Guo**, Chaoqian Ouyang, Zhangze Chen, Ling Yue, Libin Zheng, Jia Zhu, Shaowu Pan, Jian Yin, Min-Ling Zhang, Yong Rui. *ToolRosetta: Bridging Open-Source Repositories and Large Language Model Agents through Automated Tool Standardization.* 2026.
 - Jiawei Shen, Jia Zhu, **Hanghui Guo**, Weijie Shi, Yue Cui, Qingyu Niu, Guoqing Ma, Yidan Liang, Jingjiang Liu, Yiling Wang, Shimin Di, Jiajie Xu. *ACR: Adaptive Context Refactoring via Context Refactoring Operators for Multi-Turn Dialogue.* 2026.
 - Jiawei Shen, Jia Zhu, **Hanghui Guo**, Weijie Shi, Guoqing Ma, Yidan Liang, Jingjiang Liu, Hao Chen, Shimin Di. *DynaGen: Unifying Temporal Knowledge Graph Reasoning with Dynamic Subgraphs and Generative Regularization.* 2025.
 - Guoqing Ma, Jia Zhu, **Hanghui Guo**, Weijie Shi, Yue Cui, Jiawei Shen, Zilong Li, Yidan Liang. *EduEval: A Hierarchical Cognitive Benchmark for Evaluating Large Language Models in Chinese Education.* 2025.
