@@ -109,10 +109,10 @@ Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multime
 
 
 # 🏛 Academic Services
-- Reviewer for **Knowledge-based Systems** (CAS SCI Q1 TOP)
-- Reviewer for **Neurocomputing** (CAS SCI Q2)
-- Reviewer for **Pattern Recognition Letters** (CAS SCI Q3)
-- Reviewer for **Frontiers in Artificial Intelligence** (CAS SCI Q4)
+- Reviewer for **Knowledge-based Systems** 
+- Reviewer for **Neurocomputing** 
+- Reviewer for **Pattern Recognition Letters** 
+- Reviewer for **Frontiers in Artificial Intelligence** 
 
 # 🌍 Visitor Map
 <!-- 🌍 Visitor Map -->
