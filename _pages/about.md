@@ -51,11 +51,11 @@ My research interests focus on **Large Language Models**, with a particular emph
 ## Journal
 
 - Chenglei Huang, Jia Zhu\*, Zilong Li, **Hanghui Guo**, Jiajun Liu, Pasquale De Meo, Weijie Shi. *Video-Seer: A Hierarchical Scene Selection and Multi-View Analysis
-Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multimedia** (CAS SCI Q1 TOP, CCF A), 2026.
-- **Hanghui Guo**, Shimin Di, Zhangze Chen, Changfan Pan, Chaojun Meng, Jia Zhu\*. *FGRCAT: A Fine-Grained Reasoning Framework Through Causality and Adversarial Training.* **Expert Systems with Applications** (CAS SCI Q1 TOP, CCF C), 2025.
-- Chenglei Huang^, Jia Zhu^\*, Yilong Ji\*, Weijie Shi, Min Yang, **Hanghui Guo**, Jianxia Ling, Pasquale De Meo, Zilong Li, Zhangze Chen. *A Multi-Modal Dataset for Teacher Behavior Analysis in Offline Classrooms.* **Scientific Data** (CAS SCI Q2), 2025.
-- Chaojun Meng, Changfan Pan, Hongji Shu, Qing Wang, **Hanghui Guo**, Jia Zhu\*. *Heterogeneous Collaborative Filtering Contrastive Learning for Social Recommendation.* **Applied Soft Computing** (CAS SCI Q2 TOP), 2025.
-- **Hanghui Guo\***, Jia Zhu, Changfan Pan, Qing Wang, Cong Zhou, Chaojun Meng. *KE-LPG: Towards Semantic Refinement for Lesson Plan Generation.* **Arabian Journal for Science and Engineering** (CAS SCI Q3), 2025.
+Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multimedia**, 2026.
+- **Hanghui Guo**, Shimin Di, Zhangze Chen, Changfan Pan, Chaojun Meng, Jia Zhu\*. *FGRCAT: A Fine-Grained Reasoning Framework Through Causality and Adversarial Training.* **Expert Systems with Applications**, 2025.
+- Chenglei Huang^, Jia Zhu^\*, Yilong Ji\*, Weijie Shi, Min Yang, **Hanghui Guo**, Jianxia Ling, Pasquale De Meo, Zilong Li, Zhangze Chen. *A Multi-Modal Dataset for Teacher Behavior Analysis in Offline Classrooms.* **Scientific Data**, 2025.
+- Chaojun Meng, Changfan Pan, Hongji Shu, Qing Wang, **Hanghui Guo**, Jia Zhu\*. *Heterogeneous Collaborative Filtering Contrastive Learning for Social Recommendation.* **Applied Soft Computing**, 2025.
+- **Hanghui Guo\***, Jia Zhu, Changfan Pan, Qing Wang, Cong Zhou, Chaojun Meng. *KE-LPG: Towards Semantic Refinement for Lesson Plan Generation.* **Arabian Journal for Science and Engineering**, 2025.
 
 ## Preprint
 
