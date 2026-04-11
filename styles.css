@@ -1151,9 +1151,9 @@ footer {
     float: right;
     max-width: 30%;
     border: 0px solid #fff;
-    -webkit-border-radius: 15%;
-    -moz-border-radius: 15%;
-    border-radius: 15%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
     margin-bottom: 1rem
 }
 
