@@ -34,9 +34,9 @@ My research interests focus on **Large Language Models**, with a particular emph
 
 
 ## Conference
-- Jingjiang Liu, Jia Zhu, **Hanghui Guo**, Weijie Shi, Yue Cui, Xiaokang Jin, Yilin Wang, Qingyu Niu, Jiawei Shen, Guoqing Ma, Yidan Liang, Shimin Di, Jiajie Xu. *KCVR: Knowledge-Centric Video Reconstruction for Structured Pedagogical Summarization via Dynamic Graph Planning.* **ACL Main** (CCF A), 2026.
-- Yidan Liang, Jia Zhu, Weijie Shi, **Hanghui Guo**, Yue Cui, Jiawei Shen, Guoqing Ma, Jingjiang Liu, Qingyu Niu, Yilin Wang, Shimin Di, Jiajie Xu. *RSDA: Restoring Stale Data Affinity via Dynamic Renovation Strategy for Mitigating Data Scarcity.* **ACL Main** (CCF A), 2026.
-- Jiawei Shen, Jia Zhu, **Hanghui Guo**, Weijie Shi, Yue Cui, Qingyu Niu, Guoqing Ma, Yidan Liang, Jingjiang Liu, Yiling Wang, Shimin Di, Jiajie Xu. *ACR: Adaptive Context Refactoring via Context Refactoring Operators for Multi-Turn Dialogue.* **ACL Findings** (CCF A), 2026.
+- Jingjiang Liu^, Jia Zhu^\*, **Hanghui Guo**, Weijie Shi, Yue Cui, Xiaokang Jin, Yilin Wang, Qingyu Niu, Jiawei Shen, Guoqing Ma, Yidan Liang, Shimin Di, Jiajie Xu\*. *KCVR: Knowledge-Centric Video Reconstruction for Structured Pedagogical Summarization via Dynamic Graph Planning.* **ACL Main** (CCF A), 2026.
+- Yidan Liang^, Jia Zhu^\*, Weijie Shi, **Hanghui Guo**, Yue Cui, Jiawei Shen, Guoqing Ma, Jingjiang Liu, Qingyu Niu, Yilin Wang, Shimin Di, Jiajie Xu\*. *RSDA: Restoring Stale Data Affinity via Dynamic Renovation Strategy for Mitigating Data Scarcity.* **ACL Main** (CCF A), 2026.
+- Jiawei Shen^, Jia Zhu^\*, **Hanghui Guo**, Weijie Shi, Yue Cui, Qingyu Niu, Guoqing Ma, Yidan Liang, Jingjiang Liu, Yiling Wang, Shimin Di, Jiajie Xu\*. *ACR: Adaptive Context Refactoring via Context Refactoring Operators for Multi-Turn Dialogue.* **ACL Findings** (CCF A), 2026.
 - Yanping Chen, Weijie Shi, Mengze Li, Yue Cui, Jiaming Li, Ruiyuan Zhang, Hao Chen, **Hanghui Guo**, Shimin Di, Ziyi Liu, Jia Zhu, Jiajie Xu\*. *Active Multi-source Domain Adaptation for Multimodal Fake News Detection.* **AAAI** (CCF A), 2026.  
 - Zilong Li, Jia Zhu\*, Chenglei Huang, Zhangze Chen, **Hanghui Guo**, Guoqing Ma, Jianxia Ling. *Capturing Dynamic User Interests under Modality Imbalance for Multimodal Sequential Recommendation.* **AAAI** (CCF A), 2026.  
 - Yi Cao, Weijie Shi\*, Wei-Jie Xu, Yucheng Shen, Yue Cui, **Hanghui Guo**, Shimin Di, Ziyi Liu\*, Jiaming Li, Alexander Zhou, Jia Zhu\*, Jiajie Xu\*. *TIV: Thought Injection via Vectors for Efficient Reasoning in Large Reasoning Models.* **AAAI** (CCF A), 2026.  
