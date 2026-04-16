@@ -60,7 +60,7 @@ Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multime
 - **Hanghui Guo\***, Jia Zhu, Changfan Pan, Qing Wang, Cong Zhou, Chaojun Meng. *KE-LPG: Towards Semantic Refinement for Lesson Plan Generation.* **Arabian Journal for Science and Engineering**, 2025.
 
 ## Preprint
-
+- Kai Qian, Weijie Shi, Jiaqi Wang, Mengze Li, Hao Chen, Yue Cui, **Hanghui Guo**, Ziyi Liu, Jia Zhu, Jiajie Xu. *Head-wise Modality Specialization within MLLMs for Robust Fake News Detection under Missing Modality.* 2026.
 - Shimin Di, Xujie Yuan, **Hanghui Guo**, Chaoqian Ouyang, Zhangze Chen, Ling Yue, Libin Zheng, Jia Zhu, Shaowu Pan, Jian Yin, Min-Ling Zhang, Yong Rui. *ToolRosetta: Bridging Open-Source Repositories and Large Language Model Agents through Automated Tool Standardization.* 2026.
 - Jiawei Shen, Jia Zhu, **Hanghui Guo**, Weijie Shi, Guoqing Ma, Yidan Liang, Jingjiang Liu, Hao Chen, Shimin Di. *DynaGen: Unifying Temporal Knowledge Graph Reasoning with Dynamic Subgraphs and Generative Regularization.* 2025.
 - Guoqing Ma, Jia Zhu, **Hanghui Guo**, Weijie Shi, Yue Cui, Jiawei Shen, Zilong Li, Yidan Liang. *EduEval: A Hierarchical Cognitive Benchmark for Evaluating Large Language Models in Chinese Education.* 2025.
