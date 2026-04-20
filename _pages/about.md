@@ -110,10 +110,9 @@ Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multime
 
 
 # 🏛 Academic Services
-- Reviewer for **Knowledge-based Systems** 
-- Reviewer for **Neurocomputing** 
-- Reviewer for **Pattern Recognition Letters** 
-- Reviewer for **Frontiers in Artificial Intelligence** 
+
+- Conferences: ACM MM 2026  
+- Journals: Knowledge-Based Systems, Neurocomputing, Pattern Recognition Letters, Frontiers in Artificial Intelligence
 
 # 🌍 Visitor Map
 <!-- 🌍 Visitor Map -->
