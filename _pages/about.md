@@ -110,7 +110,7 @@ Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multime
 
 
 # 💻 Internships
-- **R&D Intern** @ **Haining Chenying Technology Co., Ltd.** · *Jun 2026 – May 2027*
+- R&D Intern, **Haining Chenying Technology Co., Ltd.**  Jun 2026 – May 2027
 
 
 # 🏛 Academic Services
