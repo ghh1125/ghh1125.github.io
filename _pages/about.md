@@ -97,7 +97,7 @@ Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multime
 
 
 # 🎖 Selected Honors
-
+- *2026*, President’s Special Award, Zhejiang Normal University.
 - *2025*, National Scholarship.
 - *2024*, Silver Award, Zhejiang Provincial College Student Innovation and Entrepreneurship Competition.
 - *2022*, First Prize, Zhejiang Province College Students’ Advanced Mathematics (Calculus) Competition.
