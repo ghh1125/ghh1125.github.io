@@ -118,17 +118,4 @@ Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multime
 - Conferences: ACM MM 2026  
 - Journals: Knowledge-Based Systems, Neurocomputing, Pattern Recognition Letters, Frontiers in Artificial Intelligence, Expert Systems
 
-# 🌍 Visitor Map
-<!-- 🌍 Visitor Map -->
-<section style="
-    max-width: 720px;
-    margin: 3rem auto;
-    text-align: center;
-">
-    <script
-        type="text/javascript"
-        id="clustrmaps"
-        src="//clustrmaps.com/map_v2.js?d=pEzwGYdBEWYtAs38qgXw4MosZxUSbN7a7TCyNux4xCE&cl=ffffff&w=680">
-    </script>
-</section>
 
