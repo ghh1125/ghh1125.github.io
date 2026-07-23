@@ -116,7 +116,8 @@ Approach for Zero-Shot Video Question Answering.* **IEEE Transactions on Multime
 
 # 🏛 Academic Services
 
-- Conferences: ACM MM 2026  
-- Journals: Knowledge-Based Systems, Expert Systems With Applications, Neurocomputing, Pattern Recognition Letters, Frontiers in Artificial Intelligence, Expert Systems
+- Program Committee Member: AAAI 2027
+- Conference Reviewer: ACM MM 2026  
+- Journal Reviewer: Knowledge-Based Systems, Expert Systems With Applications, Neurocomputing, Pattern Recognition Letters, Frontiers in Artificial Intelligence, Expert Systems
 
 
