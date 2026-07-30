@@ -1,6 +1,7 @@
 import json
 import os
 import re
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -32,26 +33,38 @@ if scraper_api_key:
     candidate_urls = [candidate_urls[0]]
 
 for candidate_url in candidate_urls:
-    try:
-        if scraper_api_key:
-            candidate = requests.get(
-                "https://api.scraperapi.com/",
-                params={
-                    "api_key": scraper_api_key,
-                    "url": candidate_url,
-                },
-                headers=headers,
-                timeout=60,
-            )
-        else:
-            candidate = requests.get(candidate_url, headers=headers, timeout=30)
-        candidate.raise_for_status()
-        response = candidate
-        profile_url = candidate_url
+    for attempt in range(1, 4):
+        try:
+            if scraper_api_key:
+                candidate = requests.get(
+                    "https://api.scraperapi.com/",
+                    params={
+                        "api_key": scraper_api_key,
+                        "url": candidate_url,
+                    },
+                    headers=headers,
+                    timeout=60,
+                )
+            else:
+                candidate = requests.get(candidate_url, headers=headers, timeout=30)
+
+            # A 403 is an IP/block decision, so move to the next Scholar domain
+            # rather than repeatedly sending the same blocked request.
+            if candidate.status_code == 403:
+                raise requests.HTTPError("403 Forbidden", response=candidate)
+            candidate.raise_for_status()
+            response = candidate
+            profile_url = candidate_url
+            break
+        except requests.RequestException as error:
+            source = "ScraperAPI" if scraper_api_key else candidate_url
+            errors.append(f"{source} (attempt {attempt}): {error}")
+            status = getattr(getattr(error, "response", None), "status_code", None)
+            if status == 403 or attempt == 3:
+                break
+            time.sleep(5 * attempt)
+    if response is not None:
         break
-    except requests.RequestException as error:
-        source = "ScraperAPI" if scraper_api_key else candidate_url
-        errors.append(f"{source}: {error}")
 
 if response is None:
     raise RuntimeError("All Google Scholar endpoints failed: " + " | ".join(errors))
