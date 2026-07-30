@@ -1205,41 +1205,52 @@ footer {
     margin-bottom: 1rem
 }
 
-.scholar-metrics-box {
-    display: inline-flex;
+.scholar-badges {
+    display: flex;
     flex-wrap: wrap;
-    align-items: center;
-    gap: .55rem;
+    gap: .45rem;
     margin: .15rem 0 1rem;
-    padding: .4rem .65rem;
-    border: 1px solid #d7d7d7;
-    border-radius: 5px;
-    background: #fafafa;
-    color: #555;
-    font-size: .82rem;
-    line-height: 1.2;
 }
 
-.scholar-metric {
+.scholar-badge {
     display: inline-flex;
-    align-items: baseline;
-    gap: .25rem;
-    white-space: nowrap;
+    align-items: stretch;
+    overflow: hidden;
+    border: 1px solid #d7d7d7;
+    border-radius: 4px;
+    color: #555;
+    font-size: .78rem;
+    line-height: 1;
+    text-decoration: none;
 }
 
-.scholar-metric + .scholar-metric {
-    padding-left: .55rem;
-    border-left: 1px solid #d7d7d7;
+.scholar-badge-label,
+.scholar-badge-value {
+    display: inline-flex;
+    align-items: center;
+    padding: .36rem .48rem;
 }
 
-.scholar-metric b {
-    color: #222;
-    font-size: .95rem;
+.scholar-badge-label {
+    background: #eeeeee;
 }
 
-.scholar-source {
-    color: #268bd2;
-    white-space: nowrap;
+.scholar-badge-value {
+    min-width: 1.2rem;
+    justify-content: center;
+    background: #b7d1ea;
+    color: #294c6d;
+    font-size: .88rem;
+}
+
+.scholar-badge:hover .scholar-badge-label {
+    background: #e3e3e3;
+}
+
+.scholar-mark {
+    margin-right: .25rem;
+    color: #4285f4;
+    font-size: .75rem;
 }
 
 .scholar-updated {

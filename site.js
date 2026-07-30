@@ -34,22 +34,38 @@
   const metrics = document.getElementById("scholar-metrics");
   if (!metrics) return;
 
-  fetch(`scholar-metrics.json?ts=${Date.now()}`, { cache: "no-store" })
-    .then((response) => response.ok ? response.json() : null)
-    .then((data) => {
-      if (!data) return;
-      const fields = {
-        "scholar-citations": data.citations,
-        "scholar-h-index": data.h_index,
-        "scholar-i10-index": data.i10_index,
-        "scholar-updated": data.updated
-      };
-      Object.entries(fields).forEach(([id, value]) => {
-        if (value !== undefined && value !== null) {
-          const element = document.getElementById(id);
-          if (element) element.textContent = value;
-        }
-      });
-    })
-    .catch(() => {});
+  const cacheBuster = Date.now();
+  const sources = [
+    `https://raw.githubusercontent.com/ghh1125/ghh1125.github.io/google-scholar-stats/gs_data.json?ts=${cacheBuster}`,
+    `scholar-metrics.json?ts=${cacheBuster}`
+  ];
+
+  const applyMetrics = (data) => {
+    if (!data) return;
+    const fields = {
+      "scholar-citations": data.citedby ?? data.citations,
+      "scholar-h-index": data.hindex ?? data.h_index,
+      "scholar-i10-index": data.i10index ?? data.i10_index,
+      "scholar-updated": data.updated
+    };
+    Object.entries(fields).forEach(([id, value]) => {
+      if (value !== undefined && value !== null) {
+        const element = document.getElementById(id);
+        if (element) element.textContent = value;
+      }
+    });
+  };
+
+  const fetchSource = (index) => {
+    if (index >= sources.length) return Promise.resolve();
+    return fetch(sources[index], { cache: "no-store" })
+      .then((response) => {
+        if (!response.ok) throw new Error("Scholar data unavailable");
+        return response.json();
+      })
+      .then(applyMetrics)
+      .catch(() => fetchSource(index + 1));
+  };
+
+  fetchSource(0);
 })();
