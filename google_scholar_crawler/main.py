@@ -8,22 +8,34 @@ import requests
 
 
 scholar_id = os.environ.get("GOOGLE_SCHOLAR_ID") or "S34GF9wAAAAJ"
-profile_url = (
-    "https://scholar.google.com/citations"
-    f"?user={scholar_id}&hl=en"
-)
-response = requests.get(
-    profile_url,
-    headers={
-        "User-Agent": (
-            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-            "Chrome/126.0 Safari/537.36"
-        ),
-        "Accept-Language": "en-US,en;q=0.9",
-    },
-    timeout=30,
-)
-response.raise_for_status()
+headers = {
+    "User-Agent": (
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+        "Chrome/126.0 Safari/537.36"
+    ),
+    "Accept-Language": "en-US,en;q=0.9",
+}
+response = None
+profile_url = None
+errors = []
+for host in (
+    "scholar.google.com",
+    "scholar.google.co.uk",
+    "scholar.google.ca",
+    "scholar.google.com.au",
+):
+    candidate_url = f"https://{host}/citations?user={scholar_id}&hl=en"
+    try:
+        candidate = requests.get(candidate_url, headers=headers, timeout=30)
+        candidate.raise_for_status()
+        response = candidate
+        profile_url = candidate_url
+        break
+    except requests.RequestException as error:
+        errors.append(f"{host}: {error}")
+
+if response is None:
+    raise RuntimeError("All Google Scholar endpoints failed: " + " | ".join(errors))
 
 table_match = re.search(
     r'<table id="gsc_rsb_st".*?</table>', response.text, flags=re.DOTALL
