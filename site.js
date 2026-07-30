@@ -2,8 +2,8 @@
   const nav = [
     ["About", "index.html", "about"],
     ["Publications", "research.html", "publications"],
-    ["Honors & Service", "group.html", "honors"],
-    ["Teaching & Work", "getinvolved.html", "work"]
+    ["Group", "group.html", "group"],
+    ["Openings", "getinvolved.html", "opening"]
   ];
   const current = document.body.dataset.page || "about";
   const header = document.getElementById("site-header");
