@@ -1,24 +1,54 @@
 import json
 import os
+import re
 from datetime import datetime, timezone
 from pathlib import Path
 
-from scholarly import scholarly
+import requests
 
 
-scholar_id = os.environ.get("GOOGLE_SCHOLAR_ID")
-if not scholar_id:
-    raise RuntimeError(
-        "GOOGLE_SCHOLAR_ID is missing. Add it as a repository Actions secret."
+scholar_id = os.environ.get("GOOGLE_SCHOLAR_ID") or "S34GF9wAAAAJ"
+profile_url = (
+    "https://scholar.google.com/citations"
+    f"?user={scholar_id}&hl=en"
+)
+response = requests.get(
+    profile_url,
+    headers={
+        "User-Agent": (
+            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+            "Chrome/126.0 Safari/537.36"
+        ),
+        "Accept-Language": "en-US,en;q=0.9",
+    },
+    timeout=30,
+)
+response.raise_for_status()
+
+table_match = re.search(
+    r'<table id="gsc_rsb_st".*?</table>', response.text, flags=re.DOTALL
+)
+if not table_match:
+    raise RuntimeError("Google Scholar metrics table was not found")
+
+values = [
+    int(value.replace(",", ""))
+    for value in re.findall(
+        r'class="gsc_rsb_std">([0-9][0-9,]*)</td>', table_match.group(0)
     )
+]
+if len(values) < 5:
+    raise RuntimeError(f"Expected Scholar metrics, found: {values}")
 
-author = scholarly.search_author_id(scholar_id)
-scholarly.fill(author, sections=["basics", "indices", "counts", "publications"])
-author["updated"] = datetime.now(timezone.utc).isoformat()
-author["publications"] = {
-    publication["author_pub_id"]: publication
-    for publication in author.get("publications", [])
-    if publication.get("author_pub_id")
+author = {
+    "scholar_id": scholar_id,
+    "name": "Hanghui Guo",
+    "citedby": values[0],
+    "hindex": values[2],
+    "i10index": values[4],
+    "updated": datetime.now(timezone.utc).isoformat(),
+    "profile_url": profile_url,
+    "publications": {},
 }
 
 results = Path("results")
@@ -32,7 +62,7 @@ results.mkdir(exist_ok=True)
         {
             "schemaVersion": 1,
             "label": "citations",
-            "message": str(author.get("citedby", 0)),
+            "message": str(author["citedby"]),
         },
         ensure_ascii=False,
     )

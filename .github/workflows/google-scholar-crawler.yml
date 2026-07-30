@@ -9,6 +9,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: google-scholar-crawler
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -26,6 +30,7 @@ jobs:
 
       - name: Crawl Google Scholar
         working-directory: google_scholar_crawler
+        timeout-minutes: 5
         env:
           # The Scholar ID is public; the secret is preferred, with a fallback
           # so a missing/misnamed secret does not prevent the public crawl.
