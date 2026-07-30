@@ -18,12 +18,12 @@
         Southeast University<br>
         Nanjing, China</p>
       <p class="profile-links">
-        <a href="mailto:ghh1125@zjnu.edu.cn">Email</a> |
         <a href="https://scholar.google.com/citations?user=S34GF9wAAAAJ&hl=en">Google Scholar</a> |
         <a href="https://www.researchgate.net/profile/Hanghui-Guo">ResearchGate</a> |
         <a href="https://www.linkedin.com/in/hanghui-guo-b58a03399/">LinkedIn</a> |
         <a href="https://dblp.org/pid/368/0534.html">DBLP</a> |
-        <a href="https://github.com/ghh1125">GitHub</a>
+        <a href="https://github.com/ghh1125">GitHub</a> |
+        <a href="https://www.semanticscholar.org/author/Hanghui-Guo/2283536492">Semantic Scholar</a>
       </p>
       <div id="menu">${nav.map(([label, href, key]) =>
         `<div class="${current === key ? "now" : ""}"><a href="${href}">${label}</a></div>`).join("")}</div>
