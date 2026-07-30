@@ -18,21 +18,40 @@ headers = {
 response = None
 profile_url = None
 errors = []
-for host in (
-    "scholar.google.com",
-    "scholar.google.co.uk",
-    "scholar.google.ca",
-    "scholar.google.com.au",
-):
-    candidate_url = f"https://{host}/citations?user={scholar_id}&hl=en"
+candidate_urls = [
+    f"https://{host}/citations?user={scholar_id}&hl=en"
+    for host in (
+        "scholar.google.com",
+        "scholar.google.co.uk",
+        "scholar.google.ca",
+        "scholar.google.com.au",
+    )
+]
+scraper_api_key = os.environ.get("SCRAPERAPI_KEY")
+if scraper_api_key:
+    candidate_urls = [candidate_urls[0]]
+
+for candidate_url in candidate_urls:
     try:
-        candidate = requests.get(candidate_url, headers=headers, timeout=30)
+        if scraper_api_key:
+            candidate = requests.get(
+                "https://api.scraperapi.com/",
+                params={
+                    "api_key": scraper_api_key,
+                    "url": candidate_url,
+                },
+                headers=headers,
+                timeout=60,
+            )
+        else:
+            candidate = requests.get(candidate_url, headers=headers, timeout=30)
         candidate.raise_for_status()
         response = candidate
         profile_url = candidate_url
         break
     except requests.RequestException as error:
-        errors.append(f"{host}: {error}")
+        source = "ScraperAPI" if scraper_api_key else candidate_url
+        errors.append(f"{source}: {error}")
 
 if response is None:
     raise RuntimeError("All Google Scholar endpoints failed: " + " | ".join(errors))

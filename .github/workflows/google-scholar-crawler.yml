@@ -38,6 +38,7 @@ jobs:
           # The Scholar ID is public; the secret is preferred, with a fallback
           # so a missing/misnamed secret does not prevent the public crawl.
           GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID || 'S34GF9wAAAAJ' }}
+          SCRAPERAPI_KEY: ${{ secrets.SCRAPERAPI_KEY }}
         run: python main.py
 
       - name: Publish citation data branch

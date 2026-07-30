@@ -17,6 +17,15 @@ Before enabling the workflow, add this repository Actions secret:
 - Name: `GOOGLE_SCHOLAR_ID`
 - Value: `S34GF9wAAAAJ`
 
+Because GitHub-hosted runner IPs can receive a 403 from Google Scholar, add a
+second secret for the proxy-backed crawl:
+
+- Name: `SCRAPERAPI_KEY`
+- Value: your ScraperAPI key
+
+The workflow uses ScraperAPI when this secret is present and otherwise tries
+the public Scholar domains directly.
+
 The workflow also has this public ID as a fallback, so a temporary secret
 configuration problem will not stop the crawler.
 
