@@ -18,7 +18,6 @@ html {
 
 @media (min-width: 54rem) {
     html {
-        color: blue;
         font-size: 17px !important
     }
 }
@@ -242,9 +241,52 @@ blockquote p:last-child {
     color: inherit;
   }
   
-  #menu a:hover {
+#menu a:hover {
     text-decoration: none;
   }
+
+.name-cn {
+    font-family: STFangsong, "STFangSong", serif;
+    font-weight: 400;
+    margin-left: .2rem;
+}
+
+.contact-line,
+.role-line,
+.affiliation-line {
+    margin-bottom: .55rem;
+}
+
+.profile-links {
+    line-height: 1.8;
+}
+
+.publications {
+    padding-left: 1.35rem;
+}
+
+.publications li {
+    margin-bottom: 1rem;
+}
+
+.publication-title {
+    color: #1f57b8;
+    font-weight: 600;
+}
+
+.publication-note {
+    color: #777;
+    font-size: .9rem;
+}
+
+#footer {
+    margin-top: 3rem;
+    padding-top: 1rem;
+    border-top: 1px solid #eee;
+    color: #888;
+    font-size: .85rem;
+    text-align: center;
+}
 
 .message {
     margin-bottom: 1rem;

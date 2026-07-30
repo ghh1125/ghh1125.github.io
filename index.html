@@ -1,224 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<!-- 
-The design of this website is based on https://nlp.stanford.edu/~johnhew/ and modified by Wenxuan Zhang (isakzhang AT gmail).
-PLS ask for permission & add a link to this website before you directly copy and apply to yours 
--->
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <title> Wenxuan Zhang's Homepage </title>
-  <meta name="author" content="Wenxuan Zhang">
-  <meta name="keywords" content="Wenxuan Zhang, 张雯轩, Wenxuan Zhang SUTD, Wenxuan Zhang CUHK, Isaac, NLP, Wenxuan Zhang Isaac">
-  <meta name="robots" content="index,follow">
-  <meta name="description" content="Homepage of Wenxuan Zhang">
+  <title>Hanghui Guo - Homepage</title>
+  <meta name="author" content="Hanghui Guo">
+  <meta name="description" content="Hanghui Guo's academic homepage">
   <link rel="stylesheet" href="./styles.css">
-  <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-134238626-1"></script>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'UA-134238626-1');
-  </script>
+  <script src="./site.js" defer></script>
 </head>
+<body data-page="about">
+  <div class="container content"><main><div class="home">
+    <div id="site-header"></div>
 
-<body>
-  <div class="container content"> 
-  <main>
-  <div class="home">
+    <h3 id="about">About Me</h3>
+    <p>I am currently pursuing my PhD degree in <strong>Computer Science and Technology</strong> at the <strong>School of Computer Science and Engineering, Southeast University</strong>, under the supervision of <a href="https://sdiaa.github.io/"><strong>Prof. Shimin Di</strong></a>, as a member of the <a href="https://sdiaa.tech/"><strong>DEFENSE Group</strong></a> led by him.</p>
+    <p>Previously, I obtained my Master's degree in Computer Science and Technology from the <strong>School of Computer Science and Technology, Zhejiang Normal University</strong>, supervised by <a href="https://scholar.google.com/citations?user=KO3MIkQAAAAJ&hl=en"><strong>Prof. Jia Zhu</strong></a> in the Zhejiang Key Laboratory of Intelligent Education Technology and Application.</p>
 
-  <div class="mini-intro">
-  <img class="avatar" src="img/wxzhang-2025-square.jpg" alt="wxzhang-photo">
-
-  <h1 id="wxzhang">Wenxuan Zhang  <span style="font-family:STFangsong">张雯轩</span></h1>
-  
-  <p style="margin: 8px 0 12px;">
-  <code class="language-plaintext highlighter-rouge">wxzhang [at] sutd.edu.sg</code>
-  </p>
-
-  <p style="margin: 0 0 12px; ">
-    National Research Foundation (NRF) Fellow
-  </p>
-
-  <p style="margin: 0 0 16px; line-height: 1.6;">
-    SUTD Assistant Professor<br>
-    Information Systems Technology and Design Pillar<br>
-    Singapore University of Technology and Design
-  </p>
-
-
-  <a href="https://www.sutd.edu.sg/profile/zhang-wenxuan">Faculty Page</a> | <a href="https://scholar.google.com/citations?user=tr7MWA4AAAAJ&hl=en">Google Scholar</a> | <a href="https://www.linkedin.com/in/wenxuan-zhang-608b88153/">LinkedIn</a> | <a href="https://x.com/Wenxuan__Zhang">X (Twitter)</a> | <a href="https://www.xiaohongshu.com/user/profile/64c1d8c40000000014038c63"><span style="font-family:STFangsong">小红书</span></a>
-
-  <br><br>
-
-  <!--Navigation bar-->
-  <div id="menu">
-    <div>
-      <a href="index.html">About</a>
-    </div>
-    <div>
-      <a href="research.html">Publications</a>
-    </div>
-    <div>
-      <a href="group.html">Group</a>
-    </div>
-    <div>
-      <a href="getinvolved.html">Openings</a>
-    </div>
-    <script>
-      $(function () {
-        const current = window.location.pathname.split("/");
-        $('#menu div a').each(function(){
-          const $this = $(this);
-          // if the current path is like this link, make it active
-          if (current.indexOf($this.attr("href")) !== -1) {
-            $this.parent().addClass("now");
-          }
-        })
-      });
-    </script>
-  </div>
-  <!--end of Navigation bar-->
-  
-  <h3>About me</h3><!-- <font size="4.5">[<a href="">Short bio</a>]</font>-->
-  I'm an Assistant Professor at the <a href="https://www.sutd.edu.sg/istd">Information Systems Technology and Design (ISTD) Pillar</a>, <a href="https://www.sutd.edu.sg/">Singapore University of Technology and Design (SUTD)</a>, under the <a href=https://www.sutd.edu.sg/about/careers/assistant-professorships/sutd-assistant-professorships>SAP research award</a>. I'm also a Singapore <a href="https://www.nrf.gov.sg/grants/nrff/">National Research Foundation (NRF) Fellow</a> (Class of 2026). Before this, I was a research scientist at Alibaba Group Singapore with the Ali Star award. I received my Ph.D. from <a href="https://www.cuhk.edu.hk/">The Chinese University of Hong Kong</a>, advised by <a href="http://www1.se.cuhk.edu.hk/~textmine/">Prof. Wai Lam</a>.
-
-  <br><br>My research interests lie broadly in natural language processing, large language models, and LLM agents. I lead the <a href="./group.html">iNLP Lab</a> where we aim to build AI systems that work reliably and efficiently for diverse people, languages, and real-world settings. Currently, we focus on:
-  <p>
-  <ul>
-    <li>
-      [<strong>Multilingual & Multicultural LLMs</strong>] Building (and understanding) LLMs for diverse languages and cultural contexts (<a href="https://damo-nlp-sg.github.io/SeaLLMs/">SeaLLMs</a>, <a href="https://babel-llm.github.io/babel-llm//">Babel</a>, <a href="https://damo-nlp-sg.github.io/SeaLLMs-Audio/">SeaLLMs-Audio</a>, <a href="https://arxiv.org/abs/2506.09890">Abstract-Thought</a>, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/41365">a recent overview talk</a>)
-    </li>
-    <li>
-      [<strong>Social World Models</strong>] How AI agents can model social environments, simulate interactions, and predict behavior in culturally and socially diverse settings (<a href="https://inlp-lab.github.io/MoltNet/">MoltNet</a>, <a href="https://arxiv.org/abs/2512.07195">MASim</a>)
-    </li>
-    <li> 
-      [<strong>Efficiency & Small LMs</strong>] Making LLMs/agentic systems more efficient and trustworthy under real-world resource constraints (e.g., <a href="https://arxiv.org/abs/2506.02561">Custom Pruning</a>, <a href="https://arxiv.org/pdf/2510.08026">PEAR</a>)
-    </li>
-    <li> 
-      [<strong>Evaluate -> Improve</strong>] Dynamic evaluation in interactive settings (<a href="https://arxiv.org/pdf/2306.05179.pdf">M3Exam</a>, <a href="https://auto-arena.github.io/">Auto-Arena</a>, <a href="https://inlp-lab.github.io/DR-Arena/">DR-Arena</a>)
-    </li>
-  </ul>
-  </p>
-
-  📍<span style="color:orangered;">We have multiple fully-funded positions (Postdoc / PhD (2027 Spring) / Visiting) available — see <a href="https://isakzhang.github.io/getinvolved.html">[details]</a>. Feel free to email me if you're interested. Students with relevant research or publication experience will be preferred.</span>
-
-
-  <h3 id="news">News</h3>
-  (<i>I have to admit this section doesn't get updated as often as my <a href="https://www.linkedin.com/in/wenxuan-zhang-608b88153/">social media</a> accounts do</i>)
-  <div style="max-height: 200px; overflow-y: auto;">
+    <h3 id="research-interests">Research Interests</h3>
+    <p>My research interests primarily focus on <strong>Large Language Models (LLMs)</strong>, especially:</p>
     <ul>
-      <li>[Apr 2026] We have 6 papers accepted to ACL 2026, see you in San Diego :)</li>
-      <li>[Feb 2026] Excited to share that I'm awarded NRF Fellow (Class of 2026)! </li>
-      <li>[Jan 2026] Happy to share that we have 4 papers accepted to ICLR 2026 (out of 4 submissions!)
-      <li>[Jan 2026] Invited to serve as Registration Chair for AACL 2026
-      <li>[Jan 2026] Invited to serve as Area Chair for COLM 2026
-      <li>[Dec 2025] Excited to share that our project about "Culturally-Aware Proactive Conversational AI" has been awarded <strong>SGD 1M</strong> in funding under the AISG Research-Governance Grant!
-      <li>[Nov 2025] Invited to serve as an area chair at ICML 2026
-      <li>[Nov 2025] Happy to share that I will give a talk at AAAI 2026 New Faculty Highlight Programme! 
-      <li>[Oct 2025] Glad to give a talk at China-Singapore InnovateConnect 2025 on "Culturally Intelligent AI"
-      <li>[Sep 2025] Glad to be listed as a Stanford Top 2% Scientist this year!
-      <li>[Aug 2025] Invited to serve as an area chair for ICLR 2026
-      <li>[May 2025] Glad to share that we have 8 (out of 8 submissions!) papers accepted to <a href="https://2025.aclweb.org/">ACL 2025</a>, huge congrats to all students, and see you in Vienna 🇦🇹! (Coffee chats are welcome!)
-      <li>[Apr 2025] I was interviewed at AIMX Podcast to share my thoughts on various topics of multilingual LLMs, also got the chance to share SeaLLMs-Audio and Babel project, <a href="https://open.spotify.com/episode/5BKRSUdU1jh3dGzCVeEUf7">check it out on Spotify</a>!
-      <li>[Mar 2025] I will serve as an area chair for COLM 2025 and NeurIPS 2025
-      <li>[Mar 2025] We release <a href="https://damo-nlp-sg.github.io/SeaLLMs-Audio/">SeaLLMs-Audio</a> - the multimodal (audio) extension of SeaLLMs and the first large audio-language model designed to support multiple Southeast Asian languages!
-      <li>[Mar 2025] We release <a href="https://babel-llm.github.io/babel-llm//">Babel</a> - open-source multilingual LLMs that serve over 90% of global speakers. Two sizes of models (9B and 83B) have been released, both base and chat versions are open-sourced!
-      <li>[Feb 2025] I officially joined SUTD!
-      <li>[Jan 2025] Thrilled to receive the prestigious "<a href="https://www.sutd.edu.sg/about/careers/assistant-professorships/sutd-assistant-professorships">SUTD Assistant Professorship (SAP)</a>" award</li>
-      <li>[Oct 2024] Glad to be invited to give a keynote talk at SSNLP 2024.</li>
-      <li>[Aug 2024] I will serve as an Area Chair for ICLR 2025</li>
-      <li>[July 2024] <a href="https://huggingface.co/collections/SeaLLMs/seallms-v3-668f3a52e1e6fbaad5752cdb">SeaLLMs 3</a> is here - the latest iteration of SeaLLMs with SOTA performance of diverse tasks while specifically enhanced to be more trustworthy. Check out the <a href="https://huggingface.co/collections/SeaLLMs/seallms-v3-668f3a52e1e6fbaad5752cdb">model</a> and <a href="https://arxiv.org/abs/2407.19672">paper</a>!</li>
-      <li>[June 2024] SeaLLMs was awarded the <i>"Best Innovate for Impact Award"</i> by The International Telecommunication Union (ITU) of United Nations.</li>
-      <li>[May 2024] M3Exam was officialy used to <a href="https://openai.com/index/hello-gpt-4o/">evaluate GPT-4o's multilingual and multimodal capability</a>.</li>
-      <li>[Apr 2024] I am honored to speak at SCS and IMDA about our SeaLLMs project and the evaluation / safety measures we've implemented during the development. </li>
-      <!--<li>[Jan 2024] Two papers accepted to ICLR 2024: <a href="https://arxiv.org/abs/2310.06474">multilingual jailbreak challenge</a> & <a href="https://arxiv.org/abs/2311.00262">plug-and-play policy planner for LLM-based dialog agent.</a></li>-->
-      <li>[Nov 2023] We release <a href="https://github.com/DAMO-NLP-SG/SeaLLMs">SeaLLMs</a> - the first LLM dedicated to languages in Southeast Asia region.</li>
-      <!--
-      <li><span style="color:#B08519">[Sep 2023]</span> Two papers accepted to NeurIPS 2023.</li>
-      <li><span style="color:#B08519">[June 2023]</span> We release <strong>M3Exam</strong>, a novel benchmark sourced from real and official human exam questions for evaluating LLMs in a multilingual, multimodal, and multilevel context. <a href="https://arxiv.org/pdf/2306.05179.pdf">[paper]</a> <a href="https://github.com/DAMO-NLP-SG/M3Exam">[data]</a></li>
-      <li><span style="color:#B08519">[May 2023]</span> We conducted a reality check on current large language models for various sentiment analysis tasks, the <a href="https://arxiv.org/abs/2305.15005">paper</a> is available on arXiv now.</li> -->
-      <!-- <li><span style="color:#B08519">[Apr 2023]</span> Our tutorial "Sentiment Analysis and Beyond in the Era of Enlarged Language Models" was accepted to IJCAI-2023. Check it <a href="https://isakzhang.github.io/talks/ijcai23-sentiment-tutorial.html">here</a>!</li> -->
+      <li><strong>Retrieval-Augmented Generation (RAG)</strong>: improving retrieval, context use, and factual reliability.</li>
+      <li><strong>LLM Agents</strong>: building adaptive, tool-using, and self-improving multi-agent systems.</li>
+      <li><strong>AI for Science (AI4Sci)</strong>: applying language-model reasoning to scientific discovery and experimentation.</li>
     </ul>
-  </div>
 
-<h3><a name="awards"></a>Awards</h3>
-  <ul>
-    <li> National Research Foundation (NRF) Fellow, 2026 </li>
-    <li> Forbes 30 Under 30 Asia, 2026 </li>
-    <li> AAAI New Faculty Highlight, 2026 </li>
-    <li> World's Top 2% Scientists (by Stanford and Elsevier), 2025 </li>
-    <li> SUTD Assistant Professorship (SAP) award, 2025</li>
-    <li> Alibaba Star (阿里星), Alibaba Group, 2022</li>
-    <li> National Cyber Security Scholarship (only 100 undergrads awarded annually in China), 2017</li>
-    <li> National Scholarship, 2016 & 2017</li>
-  </ul>
+    <h3 id="selected-work">Selected Work</h3>
+    <p>My recent work spans trustworthy retrieval-augmented generation, multimodal understanding, educational AI, and agentic systems. A complete list of publications is available on the <a href="research.html">publications page</a> and my <a href="https://scholar.google.com/citations?user=S34GF9wAAAAJ&hl=en">Google Scholar profile</a>.</p>
+    <div class="message"><strong>Open to collaboration.</strong> I am interested in research collaborations, internships, and opportunities to build reliable AI systems. Please feel free to reach out by email.</div>
 
-<h3><a name="professional"></a>Service</h3>
-  <ul>
-    <li> Organizing Committee: 
-      <ul>
-        <li>Organizer, <a href="https://plurvallm2026.github.io/index.html">The First Workshop on Pluralistic Value Alignment of LLMs (PlurVA-LLM)</a>
-        <li>Registration Chair, <a href="https://2026.aaclnet.org/">AACL 2026</a> </li>
-        <li>General Chair, <a href="https://ssnlp2026.github.io/">SSNLP 2026</a></li>
-      </ul> 
-    </li>
-    <li>Area Chair: 
-      <ul>
-        <li>2026: ACL 2026, ICML 2026, COLM 2026, ICLR 2026, NLPCC 2026
-        <li>2025: EMNLP 2025, NeurIPS 2025, ACL 2025, COLM 2025, ICLR 2025, NAACL 2025
-        <li>2024: EMNLP 2024
-      </ul>
-    <li> Journal Reviewer: Computational Linguistics (CL), ACM Transactions on Information Systems (TOIS), IEEE Transactions on Knowledge and Data Engineering (TKDE), ACM Transactions on the Web (TWEB), Neurocomputing, Transactions on Audio, Speech and Language Processing (TASLP) </li>
-  </ul>
-
-  <h3><a name="talks"></a>Recent Talks</h3>
-  <ul>
-    <li>Mar 2026: invited talk "What Happens When AI Agents Interact with Each Other?" at <a href="https://lorong.ai/">LorongAI</a></li>
-    <li>Jan 2026: invited panel discussion "LLM Localization: Challenges and Opportunities" at <a href="https://aaai.org/conference/aaai/aaai-26/iaai-26-program/">IAAI 2026</a>
-    <li>Nov 2025: invited panel discussion at <a href="https://sea-lion.ai/blog/sea-lion-summit-2025-powering-southeast-asias-ai-future/">SEA-LION Summit @ AIMX 2025</a>
-    <li>Oct 2025: invited talk at InnovateConnect 2025 on "Culturally Intelligent AI"
-    <li><i>Previous talks can be found <a href="">here</a></i>
-    <!--
-    <li>Nov 2024: invited keynote talk on LLM evaluation at <a href="https://wing-nus.github.io/SSNLP-2024/">SSNLP 2024</a></li>
-    <li>Oct 2024: invited talk and panel discussion at <a href="https://www.switchsg.org/">Singapore Week of Innovation Technology (SWITCH) 2024</a></li>
-    <li>July 2024: invited keynote talk at <a href="https://kdd.sg/singapore-acm-sigkdd-symposium-2024/">Singapore ACM SIGKDD Symposium 2024</a>.</li>
-    
-    <li>Apr 2024: invited talk on the SeaLLMs project at <a href="https://www.scs.org.sg/events/details/transforming-analytics-with-gen-ai-and-site-visit-to-ibm">Singapore Computer Society (SCS)</a>
-    <li> Apr 2024: invited talk at <a href="https://www.imda.gov.sg/activities/activities-catalogue/technical-sharing-session-on-ai-safety"> Infocomm Media Development Authority (IMDA)</a> of Singapore</li>
-    <li> Sep 2023: invited talk on M3Exam at multilingual & multimodal LLMs session of <a href="http://mlnlp.world/mlnlp2023/">MLNLP 2023</a></li>
-    <li> Aug 2023: half-day tutorial "<a href="https://isakzhang.github.io/talks/ijcai23-sentiment-tutorial.html">Sentiment Analysis in the Era of LLMs</a>" at IJCAI 2023. [<a href="https://docs.google.com/presentation/d/1fjH6ZxfCPtJPI1eU8eqhG9qdS1w3DPwxrYG6-SRmCMU/edit?usp=sharing">slides</a>]</li>
-    <li> Mar 2023: invited talk "A Survey on Aspect-Based Sentiment Analysis" at <a href="https://s3a.sentic.net/">Singapore Symposium
-      on Sentiment Analysis (S3A)</a>.</li>
-    <li> Guest lecture "<i>Neural models for text</i>" for SEEM5680 Text Mining Models and Applications at CUHK</li>
-    <li> TA for ECLT5810 E-Commerce Data Mining Technique (for Msc, 2018-19 Spring, 2020-2021 Spring) </li>
-    <li> TA for SEEM3440 Operations Research II (for UG, 2020 Fall)</li>
-    <li> TA for SEEM3460/ESTR3504 Computer Processing System Concepts (for UG, 2018-19 Fall, 2019-2020 Fall, 2020-2021 Fall)</li>
-    -->
-  </ul>
-
-
-  <h3><a name="teaching"></a>Teaching</h3>
-  <ul>
-    <li><a href="https://www.sutd.edu.sg/course/multimodal-generative-ai/">51.511 Multimodal Generative AI</a>: 2026 Spring</li>
-    <li><a href="https://isakzhang.github.io/courses/50040-nlp.html">50.040 Natural Language Processing</a>: 2025 Fall (check the course website for a brand new NLP course!)</li>
-    <li><a href="https://www.sutd.edu.sg/course/50-043-database-systems/">50.043 Database Systems</a>: 2025 Summer</li>
-  </ul>
-
-</div>
-
-<div id='footer'>
-  <p style="text-align:center;">Last updated: Apr 2026</p>
-</div>
-
+    <div id="footer"><p>Last updated: July 2026</p></div>
+  </div></main></div>
 </body>
-
 </html>

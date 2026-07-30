@@ -1,496 +1,60 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<!-- The design of this website is based on https://nlp.stanford.edu/~johnhew/ and modified by Wenxuan Zhang.
-     PLS ask for permission & add a link to this website before you directly copy and apply to yours -->
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <title> Wenxuan Zhang's Homepage </title>
-  <!-- link rel="icon" href="images/nlp_logo.jpg" / -->
-  <meta name="author" content="Wenxuan Zhang">
-  <meta name="keywords" content="Wenxuan Zhang, 张雯轩, Wenxuan Zhang CUHK, Isaac, NLP, Wenxuan Zhang Isaac">
-  <meta name="robots" content="index,follow">
-  <meta name="description" content="Homepage of Wenxuan Zhang">
+  <title>Hanghui Guo - Publications</title>
+  <meta name="author" content="Hanghui Guo">
+  <meta name="description" content="Publications by Hanghui Guo">
   <link rel="stylesheet" href="./styles.css">
-  <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-134238626-1"></script>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-134238626-1');
-  </script>
-
+  <script src="./site.js" defer></script>
 </head>
+<body data-page="publications">
+  <div class="container content"><main><div class="home">
+    <div id="site-header"></div>
+    <p>For a complete and up-to-date list, please visit my <a href="https://scholar.google.com/citations?user=S34GF9wAAAAJ&hl=en">Google Scholar profile</a>.</p>
+    <p class="publication-note"><sup>^</sup> Equal contribution &nbsp; <sup>*</sup> Corresponding author</p>
 
-<body>
-  <div class="container content"> 
-  <main>
-  <div class="home">
-
-  <div class="mini-intro">
-  <img class="avatar" src="img/wxzhang-2025-square.jpg" alt="wxzhang-photo">
-
-  <h1 id="wxzhang">Wenxuan Zhang  <span style="font-family:STFangsong">张雯轩</span></h1>
-  
-  <p style="margin: 8px 0 12px;">
-  <code class="language-plaintext highlighter-rouge">wxzhang [at] sutd.edu.sg</code>
-  </p>
-
-  <p style="margin: 0 0 12px; ">
-    National Research Foundation (NRF) Fellow
-  </p>
-
-  <p style="margin: 0 0 16px; line-height: 1.6;">
-    SUTD Assistant Professor<br>
-    Information Systems Technology and Design Pillar<br>
-    Singapore University of Technology and Design
-  </p>
-
-
-  <a href="https://www.sutd.edu.sg/profile/zhang-wenxuan">Faculty Page</a> | <a href="https://scholar.google.com/citations?user=tr7MWA4AAAAJ&hl=en">Google Scholar</a> | <a href="https://www.linkedin.com/in/wenxuan-zhang-608b88153/">LinkedIn</a> | <a href="https://x.com/Wenxuan__Zhang">X (Twitter)</a> | <a href="https://www.xiaohongshu.com/user/profile/64c1d8c40000000014038c63"><span style="font-family:STFangsong">小红书</span></a>
-
-  <br><br>
-
-  <!--Navigation bar-->
-  <div id="menu">
-    <div>
-      <a href="index.html">About</a>
-    </div>
-    <div>
-      <a href="research.html">Publications</a>
-    </div>
-    <div>
-      <a href="group.html">Group</a>
-    </div>
-    <div>
-      <a href="getinvolved.html">Openings</a>
-    </div>
-    <script>
-      $(function () {
-        const current = window.location.pathname.split("/");
-        $('#menu div a').each(function(){
-          const $this = $(this);
-          // if the current path is like this link, make it active
-          if (current.indexOf($this.attr("href")) !== -1) {
-            $this.parent().addClass("now");
-          }
-        })
-      });
-    </script>
-  </div>
-  <!--end of Navigation bar-->
-
-  
-  <!--(*: equal contribution, ☨: corresponding author / major supervision)-->
-  For a complete and up-to-date list of publications, see my <a href="https://scholar.google.com/citations?user=tr7MWA4AAAAJ&hl=en">Google Scholar profile</a>.
-
-  <h3><a name="pub"></a>Recent Preprints</h3> 
-    <ul>    
-      <li>
-        <div id="text" style = "color:#1f57b8"> <span style="color:#c30"><i>[NEW]</i></span> MoltNet: Understanding Social Behavior of AI Agents in the Agent-Native MoltBook </div>
-        Yi Feng, Chen Huang, Zhibo Man, Ryner Tan, Long P. Hoang, Shaoyang Xu, <strong>Wenxuan Zhang</strong>
-        <br>arXiv 2602.13458
-        [<a href="https://arxiv.org/pdf/2602.13458">paper</a>] [<a href="https://inlp-lab.github.io/MoltNet/">project page</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8"> Seallms-audio: Large audio-language models for southeast asia</div>
-        Chaoqun Liu, Mahani Aljunied, Guizhen Chen, Hou Pong Chan, Weiwen Xu, Yu Rong, <strong>Wenxuan Zhang</strong>
-        <br>arXiv 2511.01670
-        [<a href="https://arxiv.org/pdf/2511.01670">paper</a>] [<a href="https://damo-nlp-sg.github.io/SeaLLMs-Audio/">project page</a>] [<a href="https://huggingface.co/SeaLLMs/SeaLLMs-Audio-7B">open models</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8"> Babel - Open Multilingual Large Language Models Serving Over 90% of Global Speakers</div>
-        Yiran Zhao, Chaoqun Liu, Yue Deng, Jiahao Ying, Mahani Aljunied, Zhaodonghui Li, Lidong Bing, Hou Pong Chan, Yu Rong, Deli Zhao, <strong>Wenxuan Zhang</strong>
-        <br>arXiv 2503.00865
-        [<a href="https://arxiv.org/pdf/2503.00865">paper</a>] [<a href="https://babel-llm.github.io/babel-llm/">project page</a>] [<a href="https://huggingface.co/collections/Tower-Babel/babel-67c172157372d4d6c4b4c6d5">open models</a>]
-      </li>
-      <p> </p>
+    <h3 id="conference">Conference</h3>
+    <ul class="publications">
+      <li><span class="publication-title">KCVR: Knowledge-Centric Video Reconstruction for Structured Pedagogical Summarization via Dynamic Graph Planning.</span><br>Jingjiang Liu^, Jia Zhu^*, <strong>Hanghui Guo</strong>, Weijie Shi, Yue Cui, Xiaokang Jin, Yilin Wang, Qingyu Niu, Jiawei Shen, Guoqing Ma, Yidan Liang, Shimin Di, Jiajie Xu*.<br><strong>ACL Main (CCF A), 2026.</strong></li>
+      <li><span class="publication-title">RSDA: Restoring Stale Data Affinity via Dynamic Renovation Strategy for Mitigating Data Scarcity.</span><br>Yidan Liang^, Jia Zhu^*, Weijie Shi, <strong>Hanghui Guo</strong>, Yue Cui, Jiawei Shen, Guoqing Ma, Jingjiang Liu, Qingyu Niu, Yilin Wang, Shimin Di, Jiajie Xu*.<br><strong>ACL Main (CCF A), 2026.</strong></li>
+      <li><span class="publication-title">ACR: Adaptive Context Refactoring via Context Refactoring Operators for Multi-Turn Dialogue.</span><br>Jiawei Shen^, Jia Zhu^*, <strong>Hanghui Guo</strong>, Weijie Shi, Yue Cui, Qingyu Niu, Guoqing Ma, Yidan Liang, Jingjiang Liu, Yiling Wang, Shimin Di, Jiajie Xu*.<br><strong>ACL Findings (CCF A), 2026.</strong></li>
+      <li><span class="publication-title">Active Multi-source Domain Adaptation for Multimodal Fake News Detection.</span><br>Yanping Chen, Weijie Shi, Mengze Li, Yue Cui, Jiaming Li, Ruiyuan Zhang, Hao Chen, <strong>Hanghui Guo</strong>, Shimin Di, Ziyi Liu, Jia Zhu, Jiajie Xu*.<br><strong>AAAI (CCF A), 2026.</strong></li>
+      <li><span class="publication-title">Capturing Dynamic User Interests under Modality Imbalance for Multimodal Sequential Recommendation.</span><br>Zilong Li, Jia Zhu*, Chenglei Huang, Zhangze Chen, <strong>Hanghui Guo</strong>, Guoqing Ma, Jianxia Ling.<br><strong>AAAI (CCF A), 2026.</strong></li>
+      <li><span class="publication-title">TIV: Thought Injection via Vectors for Efficient Reasoning in Large Reasoning Models.</span><br>Yi Cao, Weijie Shi*, Wei-Jie Xu, Yucheng Shen, Yue Cui, <strong>Hanghui Guo</strong>, Shimin Di, Ziyi Liu*, Jiaming Li, Alexander Zhou, Jia Zhu*, Jiajie Xu*.<br><strong>AAAI (CCF A), 2026.</strong></li>
+      <li><span class="publication-title">Consistent and Invariant Generalization Learning for Short-video Misinformation Detection.</span><br><strong>Hanghui Guo</strong>^, Weijie Shi^, Mengze Li*, Juncheng Li, Hao Chen, Yue Cui, Jiajie Xu, Jia Zhu*, Jiawei Shen, Zhangze Chen, Sirui Han.<br><strong>ACM MM (CCF A), 2025.</strong></li>
+      <li><span class="publication-title">DioR: Adaptive Cognitive Detection and Contextual Retrieval Optimization for Dynamic Retrieval-Augmented Generation.</span><br><strong>Hanghui Guo</strong>, Jia Zhu*, Shimin Di*, Weijie Shi*, Zhangze Chen, Jiajie Xu.<br><strong>ACL Main (CCF A), 2025.</strong></li>
+      <li><span class="publication-title">RaDIO: Real-Time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation.</span><br>Jia Zhu, <strong>Hanghui Guo</strong>, Weijie Shi*, Zhangze Chen, Pasquale De Meo.<br><strong>AAAI (CCF A), 2025.</strong></li>
+      <li><span class="publication-title">RG-MEO: Relation-Guided Modality Embedding Optimization for Multimodal Knowledge Graph Completion.</span><br>Zilong Li, Jia Zhu*, Chenglei Huang, Zhangze Chen, <strong>Hanghui Guo</strong>, Jianxia Ling.<br><strong>ACAIT, 2025.</strong></li>
+      <li><span class="publication-title">Adaptive Exploration: Elevating Educational Impact of Unsupervised Knowledge Graph Question Answering.</span><br>Xi Yang, Zhangze Chen*, <strong>Hanghui Guo</strong>*, Tetiana Shestakevych.<br><strong>APWeb-WAIM Workshop (CCF C), 2024.</strong></li>
+      <li><span class="publication-title">Stable Attribution with Local Surrogate Model.</span><br>Changfan Pan, Qing Wang, Jia Zhu*, Xinran Cao, <strong>Hanghui Guo</strong>, Changqin Huang.<br><strong>ChineseCSCW, 2024.</strong></li>
+      <li><span class="publication-title">基于VR技术的电磁波教学平台设计与交互式开发.</span><br>Wanlu Zhang, Jia Zhu*, Changfan Pan, <strong>Hanghui Guo</strong>, Zhangze Chen.<br><strong>GCCCE, 2024.</strong></li>
+      <li><span class="publication-title">Dual Trustworthy Mechanism for Illness Classification with Multi-Modality Data.</span><br>Qing Wang, Jia Zhu, Changfan Pan, Jianyang Shi*, Chaojun Meng, <strong>Hanghui Guo</strong>.<br><strong>ICDM Workshop (CCF B), 2023.</strong></li>
     </ul>
 
-  <h3><a name="pub"></a>Selected Publications</h3> 
-  <ul>
-      <li>
-        <div id="text" style = "color:#1f57b8">Language of Thought Shapes Output Diversity in Large Language Models</div>
-        Shaoyang Xu, <strong>Wenxuan Zhang</strong>
-        <br>ACL 2026
-        [<a href="https://arxiv.org/abs/2601.11227">paper</a>] [<a href="https://github.com/iNLP-Lab/Multilingual-LoT-Diversity">code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8">DR-Arena: an Automated Evaluation Framework for Deep Research Agents</div>
-        Yiwen Gao, Ruochen Zhao, Yang Deng, <strong>Wenxuan Zhang</strong>
-        <br>ACL 2026
-        [<a href="https://arxiv.org/abs/2601.10504">paper</a>] [<a href="https://inlp-lab.github.io/DR-Arena/">project page</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8">Pardon? Evaluating Conversational Repair in Large Audio-Language Models</div>
-        Shuanghong Huang, Jinlei Xu, Youchao Zhou, Yanghao Zhou, Xuan Zhao, Chong Feng, <strong>Wenxuan Zhang</strong>
-        <br>ACL-Findings 2026
-        [<a href="https://arxiv.org/pdf/2601.12973">paper</a>] [<a href="https://github.com/sheunghung/EAR">code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8"> Difficulty–Diversity Collaborative Filtering for Data-Efficient LLM Fine-Tuning</div>
-        Long P. Hoang, <strong>Wenxuan Zhang</strong>, Wei Lu 
-        <br>ICLR 2026
-        [<a href="https://openreview.net/forum?id=n9mXlqD2SJ">paper</a>] [<a href="">code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8"> PEAR: Phase Entropy Aware Reward for Efficient Reasoning</div>
-        Chen Huang, Wei Lu, <strong>Wenxuan Zhang</strong>
-        <br>ICLR 2026
-        [<a href="https://arxiv.org/pdf/2510.08026">paper</a>] [<a href="https://github.com/iNLP-Lab/PEAR">code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8"> SpaCE-Eval: A Benchmark for Real-World Multi-Modal Reasoning</div>
-        Xuyou Yang, Yucheng Zhao <strong>Wenxuan Zhang</strong>, Immanuel Koh 
-        <br>ICLR 2026
-        [<a href="https://openreview.net/forum?id=VAEkLS9VBr">paper</a>] [<a href="">code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8"> RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding </div>
-        Jiaang Li, Yifei Yuan, Wenyan Li, Mohammad Aliannejadi, Daniel Hershcovich, Anders Søgaard, Ivan Vulić, <strong>Wenxuan Zhang</strong>, Paul Pu Liang, Yang Deng, Serge Belongie
-        <br>ICLR 2026
-        [<a href="https://arxiv.org/pdf/2505.14462">paper</a>] [<a href="https://github.com/yfyuan01/RAVENEA">code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8"> The Emergence of Abstract Thought in Large Language Models Beyond Any Language </div>
-        Yuxin Chen*, Yiran Zhao*, Yang Zhang, An Zhang, Kenji Kawaguchi, Shafiq Joty, Junnan Li, Tat-Seng Chua, Michael Qizhe Shieh☨, <strong>Wenxuan Zhang☨</strong>
-        <br>NeurIPS 2025
-        [<a href="https://arxiv.org/abs/2506.09890">paper</a>] [<a href="https://github.com/chenyuxin1999/Abstract_Thought">code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8"> The Rise of Parameter Specialization for Knowledge Storage in Large Language Models </div>
-        Yihuai Hong, Yiran Zhao, Wei Tang, Yang Deng, Yu Rong, <strong>Wenxuan Zhang☨</strong>
-        <br>NeurIPS 2025
-        [<a href="https://arxiv.org/abs/2505.17260">paper</a>] [<a href="">code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8"> Reframe Your Life Story: Interactive Narrative Therapist and Innovative Moment Assessment with Large Language Models </div>
-        Yi Feng, Jiaqi Wang, <strong>Wenxuan Zhang</strong>, Zhuang Chen, Yutong Shen, Xiyao Xiao, Minlie Huang, Liping Jing, Jian Yu
-        <br>EMNLP 2025
-        [<a href="https://arxiv.org/pdf/2507.20241">paper</a>] [<a href="https://github.com/MIMIFY/narrative-therapy-llm">code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8">Disentangling Language and Culture for Evaluating Multilingual Large Language Models</div>
-        Jiahao Ying, Wei Tang, Yiran Zhao, Yixin Cao, Yu Rong, <strong>Wenxuan Zhang☨</strong>
-        <br>ACL 2025
-        [<a href="hhttps://arxiv.org/abs/2505.24635">paper</a>] [<a href="https://yingjiahao14.github.io/Dual-Evaluation/">project page</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8">Auto-Arena: Automating LLM Evaluations with Agent Peer Battles and Committee Discussions</div>
-        Ruochen Zhao, <strong>Wenxuan Zhang☨</strong>, Yew Ken Chia, Deli Zhao, Lidong Bing
-        <br>ACL 2025
-        [<a href="https://arxiv.org/abs/2405.20267">paper</a>] [<a href="https://auto-arena.github.io/">project page</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8">Pruning General Large Language Models into Customized Expert Models</div>
-        Yirao Zhao, Guizhen Chen, Kenji Kawaguchi, Lidong Bing, <strong>Wenxuan Zhang☨</strong>
-        <br>ACL-Findings 2025
-        [<a href="https://arxiv.org/abs/2506.02561">paper</a>] [<a href="https://github.com/zhaoyiran924/Custom-Prune">code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8">JsonTuning: Towards Generalizable, Robust, and Controllable Instruction Tuning</div>
-        Chang Gao, <strong>Wenxuan Zhang☨</strong>, Guizhen Chen, Wai Lam
-        <br>ACL-Findings 2025
-        [<a href="https://arxiv.org/abs/2310.02953">paper</a>] [<a href="https://github.com/gao-xiao-bai/JsonTuning">data&code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8">Assessing Judging Bias in Large Reasoning Models: An Empirical Study</div>
-        Qian Wang, Zhanzhi Lou, Zhenheng Tang, Nuo Chen, Xuandong Zhao, <strong>Wenxuan Zhang</strong>, Dawn Song, Bingsheng He
-        <br>COLM 2025
-        [<a href="https://arxiv.org/abs/2504.09946">paper</a>] [<a href="">code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8">Understanding and Enhancing Safety Mechanisms of LLMs via Safety-Specific Neuron</div>
-        Yiran Zhao, <strong>Wenxuan Zhang</strong>, Yuxi Xie, Anirudh Goyal, Kenji Kawaguchi, Michael Shieh
-        <br>ICLR 2025
-        [<a href="https://openreview.net/forum?id=yR47RmND1m">paper</a>] [<a href="https://github.com/zhaoyiran924/Safety-Neuron">data&code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8">SeaLLMs 3: Open Foundation and Chat Multilingual Large Language Models for Southeast Asian Languages</div>
-        <strong>Wenxuan Zhang*</strong>, Hou Pong Chan*, Yiran Zhao*, Mahani Aljunied*, Jianyu Wang*, Chaoqun Liu, Yue Deng, Zhiqiang Hu, Weiwen Xu, Yew Ken Chia, Xin Li, Lidong Bing
-        <br>NAACL 2025 System Demostration
-        [<a href="https://arxiv.org/abs/2407.19672">paper</a>] [<a href="https://damo-nlp-sg.github.io/SeaLLMs/">project page</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8"></span>Is Translation All You Need? A Study on Solving Multilingual Tasks with Large Language Models</div>
-        Chaoqun Liu, <strong>Wenxuan Zhang☨</strong>, Yiran Zhao, Anh Tuan Luu, Lidong Bing
-        <br>NAACL 2025
-        [<a href="https://arxiv.org/abs/2403.10258">paper</a>] [<a href="">code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8">AdaMergeX: Cross-Lingual Transfer with Large Language Models via Adaptive Adapter Merging        </div>
-        Yiran Zhao, <strong>Wenxuan Zhang☨</strong>, Huiming Wang, Kenji Kawaguchi, Lidong Bing
-        <br>NAACL 2025
-        [<a href="https://arxiv.org/abs/2402.18913">paper</a>] [<a href="https://github.com/DAMO-NLP-SG/AdaMergeX">data&code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8"> Zero-to-Strong Generalization: Eliciting Strong Capabilities of Large Language Models Iteratively without Gold Labels </div>
-        Chaoqun Liu, Qin Chao, <strong>Wenxuan Zhang☨</strong>, Xiaobao Wu, Boyang Li, Anh Tuan Luu, Lidong Bing
-        <br>COLING 2025
-        [<a href="https://arxiv.org/abs/2409.12425">paper</a>] [<a href="">code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8">How do Large Language Models Handle Multilingualism?</div>
-        Yiran Zhao, <strong>Wenxuan Zhang☨</strong>, Guizhen Chen, Kenji Kawaguchi, Lidong Bing
-        <br>NeurIPS 2024
-        [<a href="https://arxiv.org/abs/2402.18815">paper</a>] [<a href="https://github.com/DAMO-NLP-SG/multilingual_analysis">data&code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8"> On the Multi-turn Instruction Following for Conversational Web Agents </div>
-        Yang Deng*, Xuan Zhang*, <strong>Wenxuan Zhang</strong>, Yifei Yuan, See-Kiong Ng, Tat-Seng Chua
-        <br>ACL 2024
-        [<a href="https://arxiv.org/pdf/2402.15057">paper</a>] [<a href="https://github.com/magicgh/self-map">code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8"> SeaLLMs -- Large Language Models for Southeast Asia </div>
-        Xuan-Phi Nguyen*, <strong>Wenxuan Zhang*</strong>, Xin Li*, Mahani Aljunied*, Qingyu Tan, Liying Cheng, Guanzheng Chen, Yue Deng, Sen Yang, Chaoqun Liu, Hang Zhang, Lidong Bing
-        <br>ACL 2024 System Demostration
-        [<a href="https://arxiv.org/abs/2312.00738">paper</a>] [<a href="https://github.com/DAMO-NLP-SG/SeaLLMs">code</a>] [<a href="https://huggingface.co/SeaLLMs/SeaLLM-Chat-13b">demo</a>] 
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8"> Multilingual Jailbreak Challenges in Large Language Models</div>
-        Yue Deng, <strong>Wenxuan Zhang☨</strong>, Sinno Jialin Pan, Lidong Bing
-        <br>ICLR 2024
-        [<a href="https://arxiv.org/abs/2310.06474">paper</a>] [<a href="https://github.com/DAMO-NLP-SG/multilingual-safety-for-LLMs">data&code</a>]
-        <br><span style="color:orangered;">Top 3% cited papers at ICLR 2024 (<a href="https://github.com/qianlanwyd/paper-citation-ranking/tree/master">as of Dec 2024</a>)</span>
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8">Plug-and-Play Policy Planner for Large Language Model Powered Dialogue Agents</div>
-        Yang Deng, <strong>Wenxuan Zhang☨</strong>, Wai Lam, See-Kiong Ng, Tat-Seng Chua
-        <br>ICLR 2024 
-        [<a href="https://arxiv.org/abs/2311.00262">paper</a>] [<a href="">data&code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8">Sentiment Analysis in the Era of Large Language Models: A Reality Check</div>
-        <strong>Wenxuan Zhang</strong>*, Yue Deng*, Bing Liu, Sinno Jialin Pan, Lidong Bing
-        <br>Findings of NAACL 2024
-        [<a href="https://arxiv.org/abs/2305.15005">paper</a>] [<a href="https://github.com/DAMO-NLP-SG/LLM-Sentiment">data&code</a>]
-      </li>
-      <p> </p>
-      
-      <li>
-        <div id="text" style = "color:#1f57b8">M3Exam: A Multilingual, Multimodal, Multilevel Benchmark for Examining Large Language Models</div>
-        <strong>Wenxuan Zhang</strong>, Sharifah Mahani Aljunied, Chang Gao, Yew Ken Chia, Lidong Bing
-        <br>NeurIPS 2023 (Datasets and Benchmarks)
-        [<a href="https://arxiv.org/abs/2306.05179">paper</a>] [<a href="https://github.com/DAMO-NLP-SG/M3Exam">data&code</a>]
-      </li>
-      <p> </p>
-      
-      <li>
-        <div id="text" style = "color:#1f57b8">From Clozing to Comprehending: Retrofitting Pre-trained Language Model to Pre-trained Machine Reader</div>
-        Weiwen Xu, Xin Li, <strong>Wenxuan Zhang</strong>, Meng Zhou, Wai Lam, Luo Si, Lidong Bing.
-        <br>NeurIPS 2023 [<a href="hhttps://arxiv.org/abs/2212.04755">paper</a>] [<a href="https://github.com/DAMO-NLP-SG/PMR">data&code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8">SOUL: Towards Sentiment and Opinion Understanding of Language</div>
-        Yue Deng, <strong>Wenxuan Zhang☨</strong>, Sinno Jialin Pan, Lidong Bing.
-        <br>EMNLP 2023 [<a href="https://arxiv.org/abs/2310.17924">paper</a>] [<a href="https://github.com/DAMO-NLP-SG/SOUL">data&code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8">Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations</div>
-        Yang Deng, <strong>Wenxuan Zhang</strong>, Yifei Yuan, Wai Lam.
-        <br>ACL 2023 [<a href="">paper</a>] [<a href="">data&code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8">Product Question Answering in E-Commerce: A Survey</div>
-        Yang Deng, <strong>Wenxuan Zhang</strong>, Qian Yu, Wai Lam.
-        <br>ACL 2023 [<a href="">paper</a>] [<a href="">data&code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8">Bidirectional Generative Framework for Cross-domain Aspect-based Sentiment Analysis</div>
-        Yue Deng, <strong>Wenxuan Zhang☨</strong>, Sinno Jialin Pan, Lidong Bing.
-        <br>ACL 2023 [<a href="https://arxiv.org/abs/2305.09509/">paper</a>] [<a href="https://github.com/DAMO-NLP-SG/BGCA">data&code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8">Easy-to-Hard Learning for Information Extraction</div>
-        Chang Gao, <strong>Wenxuan Zhang☨</strong>, Wai Lam, Lidong Bing.
-        <br>Findings of ACL 2023 [<a href="https://arxiv.org/abs/2305.09193">paper</a>] [<a href="https://github.com/DAMO-NLP-SG/IE-E2H">data&code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8">Zero-Shot Text Classification via Self-Supervised Tuning</div>
-        Chaoqun Liu, <strong>Wenxuan Zhang☨</strong>, Guizhen Chen, Xiaobao Wu, Anh Tuan Luu, Chip Hong Chang, Lidong Bing.
-        <br>Findings of ACL 2023 [<a href="https://arxiv.org/abs/2305.11442">paper</a>] [<a href="https://github.com/DAMO-NLP-SG/SSTuning">data&code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8">A Unified Multi-task Learning Framework for Multi-goal Conversational Recommender Systems</div>
-        Yang Deng, <strong>Wenxuan Zhang☨</strong>, Weiwen Xu, Wenqiang Lei, Tat-Seng Chua, Wai Lam
-        <br>TOIS 2023 [<a href="https://arxiv.org/abs/2203.01054">paper</a>] [<a href="https://github.com/dengyang17/unimind">data&code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8">A Survey on Aspect-Based Sentiment Analysis: Tasks, Methods, and Challenges</div>
-        <strong>Wenxuan Zhang</strong>, Xin Li, Yang Deng, Lidong Bing, Wai Lam
-        <br>TKDE 2022 [<a href="https://arxiv.org/abs/2203.01054">paper</a>] [<a href="https://github.com/IsakZhang/ABSA-Survey">resources</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8">PACIFIC: Towards Proactive Conversational Question Answering over Tabular and Textual Data in Finance</div>
-        Yang Deng, Wenqiang Lei, <strong>Wenxuan Zhang</strong>, Wai Lam, Tat-Seng Chua.
-        <br>EMNLP 2022 [<a href="https://dengyang17.github.io/files/EMNLP22-PACIFIC.pdf">paper</a>] [<a href="https://github.com/dengyang17/PACIFIC">data&code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8">UniGDD: A Unified Generative Framework for Goal-Oriented Document-Grounded Dialogue</div>
-        Chang Gao, <strong>Wenxuan Zhang</strong>, Wai Lam
-        <br>ACL 2022 [<a href="https://aclanthology.org/2022.acl-short.66/">paper</a>] [<a href="https://github.com/gao-xiao-bai/UniGDD">data&code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8">User Satisfaction Estimation with Sequential Dialogue Act Modeling in Goal-oriented Conversational Systems</div>
-        Yang Deng, <strong>Wenxuan Zhang</strong>, Wai Lam, Hong Cheng, Helen Meng
-        <br>WWW 2022 [<a href="https://arxiv.org/abs/2202.02912">paper</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8">Aspect Sentiment Quad Prediction as Paraphrase Generation</div>
-        <strong>Wenxuan Zhang</strong>, Yang Deng, Xin Li, Yifei Yuan, Lidong Bing, Wai Lam
-        <br>EMNLP 2021 [<a href="https://aclanthology.org/2021.emnlp-main.726/">paper</a>] [<a href="https://github.com/isakzhang/absa-quad">data&code</a>]
-        <br><span style="color:orangered;">Top 2% cited papers at EMNLP 2021 (<a href="https://github.com/qianlanwyd/paper-citation-ranking/tree/master">as of Dec 2024</a>)</span>
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8">Cross-lingual Aspect-based Sentiment Analysis with Aspect Term Code-Switching</div>
-        <strong>Wenxuan Zhang</strong>, Ruidan He, Haiyun Peng, Lidong Bing, Wai Lam
-        <br>EMNLP 2021 [<a href="https://aclanthology.org/2021.emnlp-main.727/">paper</a>] [<a href="https://github.com/isakzhang/xabsa">data&code</a>]
-      </li>
-      <p> </p>
-
-      <li>
-        <div id="text" style = "color:#1f57b8">Aspect-based Sentiment Analysis in Question Answering Forums</div>
-        <strong>Wenxuan Zhang</strong>, Yang Deng, Xin Li, Lidong Bing, Wai Lam
-        <br>Findings of EMNLP 2021 [<a href="https://aclanthology.org/2021.findings-emnlp.390/">paper</a>] [<a href="https://github.com/isakzhang/absa-qa">code</a>]
-      </li>
-      <p> </p>
-      
-      <li>
-        <div id="text" style = "color:#1f57b8">Towards Generative Aspect-Based Sentiment Analysis</div>
-        <strong>Wenxuan Zhang</strong>, Xin Li, Yang Deng, Lidong Bing, Wai Lam.
-        <br>ACL 2021 [<a href="https://aclanthology.org/2021.acl-short.64.pdf">paper</a>] [<a href="https://github.com/IsakZhang/Generative-ABSA">code</a>]</li>
-        <span style="color:orangered;">Top 3% cited papers at ACL 2021 (<a href="https://github.com/qianlanwyd/paper-citation-ranking/tree/master">as of Dec 2024</a>)</span>
-      <p> </p>
-    
-      <li>
-        <div id="text" style = "color:#1f57b8">AnswerFact: Fact Checking in Product Question Answering</div>
-        <strong>Wenxuan Zhang</strong>, Yang Deng, Jing Ma, Wai Lam.
-        <br>EMNLP 2020 [<a href="https://www.aclweb.org/anthology/2020.emnlp-main.188/">paper</a>] [<a href="https://drive.google.com/file/d/1JAmbLlV0b8Fm03VnNeVEXmROvj1po2lN/view?usp=sharing">data</a>] </li>
-      <p> </p>
-    
-      <li> 
-        <div id="text" style = "color:#1f57b8">Multi-hop Inference for Question-driven Summarization</div>
-        Yang Deng, <strong>Wenxuan Zhang</strong>, Wai Lam.
-        <br>EMNLP 2020 [<a href="https://www.aclweb.org/anthology/2020.emnlp-main.547/">paper</a>] [<a href="https://github.com/dengyang17/msg">code</a>]</li>
-      <p> </p>
-    
-      <li>
-        <div id="text" style = "color:#1f57b8">Answer Ranking for Product-Related Questions via Multiple Semantic Relations Modeling</div>
-        <strong>Wenxuan Zhang</strong>, Yang Deng, Wai Lam.
-        <br>SIGIR 2020 [<a href="https://arxiv.org/abs/2006.15599">arXiv</a>] </li>
-      <p> </p>
-    
-      <li> 
-        <div id="text" style = "color:#1f57b8">Review-guided Helpful Answer Identification in E-commerce</div>
-        <strong>Wenxuan Zhang</strong>, Wai Lam, Yang Deng, Jing Ma.
-        <br>WWW 2020 
-        [<a href="https://dl.acm.org/doi/abs/10.1145/3366423.3380015">paper</a>]
-        [<a href="https://github.com/isakzhang/answer-helpfulness-prediction">code</a>]</li>
-      <p> </p>
-    
-      <li> 
-        <div id="text" style = "color:#1f57b8">Exploiting BERT for End-to-End Aspect-Based Sentiment Analysis</div>
-        Xin Li, Lidong Bing, <b>Wenxuan Zhang</b> and Wai Lam.
-        <br>W-NUT@EMNLP 2019 
-        [<a href="https://www.aclweb.org/anthology/D19-5505.pdf">paper</a>]
-        [<a href="https://github.com/lixin4ever/BERT-E2E-ABSA">code</a>]</li>
+    <h3 id="journal">Journal</h3>
+    <ul class="publications">
+      <li><span class="publication-title">Video-Seer: A Hierarchical Scene Selection and Multi-View Analysis Approach for Zero-Shot Video Question Answering.</span><br>Chenglei Huang, Jia Zhu*, Zilong Li, <strong>Hanghui Guo</strong>, Jiajun Liu, Pasquale De Meo, Weijie Shi.<br><strong>IEEE Transactions on Multimedia, 2026.</strong></li>
+      <li><span class="publication-title">FGRCAT: A Fine-Grained Reasoning Framework Through Causality and Adversarial Training.</span><br><strong>Hanghui Guo</strong>, Shimin Di, Zhangze Chen, Changfan Pan, Chaojun Meng, Jia Zhu*.<br><strong>Expert Systems with Applications, 2025.</strong></li>
+      <li><span class="publication-title">A Multi-Modal Dataset for Teacher Behavior Analysis in Offline Classrooms.</span><br>Chenglei Huang^, Jia Zhu*, Yilong Ji*, Weijie Shi, Min Yang, <strong>Hanghui Guo</strong>, Jianxia Ling, Pasquale De Meo, Zilong Li, Zhangze Chen.<br><strong>Scientific Data, 2025.</strong></li>
+      <li><span class="publication-title">Heterogeneous Collaborative Filtering Contrastive Learning for Social Recommendation.</span><br>Chaojun Meng, Changfan Pan, Hongji Shu, Qing Wang, <strong>Hanghui Guo</strong>, Jia Zhu*.<br><strong>Applied Soft Computing, 2025.</strong></li>
+      <li><span class="publication-title">KE-LPG: Towards Semantic Refinement for Lesson Plan Generation.</span><br><strong>Hanghui Guo</strong>*, Jia Zhu, Changfan Pan, Qing Wang, Cong Zhou, Chaojun Meng.<br><strong>Arabian Journal for Science and Engineering, 2025.</strong></li>
     </ul>
-</div>
 
-<div id='footer'>
-  <p style="text-align:center;">Last updated: Feb 2026</p>
-</div>
+    <h3 id="preprints">Preprints</h3>
+    <ul class="publications">
+      <li><span class="publication-title">DREvo: Distilling Recalibrated Historical Experience for Harness Self-Evolution.</span><br><strong>Hanghui Guo</strong>, Weijie Shi, Zhangze Chen, Shengxiang Xu, Yishu Wang, Yimei Zhang, Wangze Ni, Jia Zhu, Shimin Di. <strong>2026.</strong></li>
+      <li><span class="publication-title">Head-wise Modality Specialization within MLLMs for Robust Fake News Detection under Missing Modality.</span><br>Kai Qian, Weijie Shi, Jiaqi Wang, Mengze Li, Hao Chen, Yue Cui, <strong>Hanghui Guo</strong>, Ziyi Liu, Jia Zhu, Jiajie Xu. <strong>2026.</strong></li>
+      <li><span class="publication-title">ToolRosella: Translating Code Repositories into Standardized Tools for Scientific Agents.</span><br>Shimin Di, Xujie Yuan, <strong>Hanghui Guo</strong>, Chaoqian Ouyang, Yongxu Liu, Ling Yue, Zhangze Chen, Libin Zheng, Jia Zhu, Shaowu Pan, Jian Yin, Yong Rui, Min-Ling Zhang. <strong>2026.</strong></li>
+      <li><span class="publication-title">DynaGen: Unifying Temporal Knowledge Graph Reasoning with Dynamic Subgraphs and Generative Regularization.</span><br>Jiawei Shen, Jia Zhu, <strong>Hanghui Guo</strong>, Weijie Shi, Guoqing Ma, Yidan Liang, Jingjiang Liu, Hao Chen, Shimin Di. <strong>2025.</strong></li>
+      <li><span class="publication-title">EduEval: A Hierarchical Cognitive Benchmark for Evaluating Large Language Models in Chinese Education.</span><br>Guoqing Ma, Jia Zhu, <strong>Hanghui Guo</strong>, Weijie Shi, Yue Cui, Jiawei Shen, Zilong Li, Yidan Liang. <strong>2025.</strong></li>
+      <li><span class="publication-title">MuPlon: Multi-Path Causal Optimization for Claim Verification through Controlling Confounding.</span><br><strong>Hanghui Guo</strong>, Shimin Di, Pasquale De Meo, Zhangze Chen, Jia Zhu. <strong>2025.</strong></li>
+      <li><span class="publication-title">Automatic Failure Attribution and Critical Step Prediction Method for Multi-Agent Systems Based on Causal Inference.</span><br>Guoqing Ma, Jia Zhu, <strong>Hanghui Guo</strong>, Weijie Shi, Jiawei Shen, Jingjiang Liu, Yidan Liang. <strong>2025.</strong></li>
+      <li><span class="publication-title">E3-rewrite: Learning to Rewrite SQL for Executability, Equivalence, and Efficiency.</span><br>Dongjie Xu, Yue Cui, Weijie Shi, Qingzhi Ma, <strong>Hanghui Guo</strong>, Jiaming Li, Yao Zhao, Ruiyuan Zhang, Shimin Di, Jia Zhu, Kai Zheng, Jiajie Xu. <strong>2025.</strong></li>
+    </ul>
 
+    <div id="footer"><p>Last updated: July 2026</p></div>
+  </div></main></div>
 </body>
-
 </html>

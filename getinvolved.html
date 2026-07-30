@@ -1,159 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<!-- 
-The design of this website is based on https://nlp.stanford.edu/~johnhew/ and modified by Wenxuan Zhang (isakzhang AT gmail).
-PLS ask for permission & add a link to this website before you directly copy and apply to yours 
--->
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <title> Wenxuan Zhang's Homepage </title>
-  <!-- link rel="icon" href="images/nlp_logo.jpg" / -->
-  <meta name="author" content="Wenxuan Zhang">
-  <meta name="keywords" content="Wenxuan Zhang, 张雯轩, Wenxuan Zhang CUHK, Isaac, NLP, Wenxuan Zhang Isaac">
-  <meta name="robots" content="index,follow">
-  <meta name="description" content="Homepage of Wenxuan Zhang">
+  <title>Hanghui Guo - Teaching & Work</title>
+  <meta name="author" content="Hanghui Guo">
+  <meta name="description" content="Teaching and professional experience of Hanghui Guo">
   <link rel="stylesheet" href="./styles.css">
-  <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-134238626-1"></script>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'UA-134238626-1');
-  </script>
-
-  <style>
-    .hidden-content {
-        display: none;
-    }
-  </style>
+  <script src="./site.js" defer></script>
 </head>
+<body data-page="work">
+  <div class="container content"><main><div class="home">
+    <div id="site-header"></div>
 
-<body>
-  <div class="container content"> 
-  <main>
-  <div class="home">
+    <h3 id="teaching">Teaching</h3>
+    <ul>
+      <li><strong>Introduction to Intelligent Educational Technology and Applications</strong> — Fall 2024, Teaching Assistant, Zhejiang Normal University.</li>
+    </ul>
 
-  <div class="mini-intro">
-  <img class="avatar" src="img/wxzhang-2025-square.jpg" alt="wxzhang-photo">
+    <h3 id="internships">Internships</h3>
+    <ul>
+      <li><strong>R&amp;D Intern</strong>, Haining Chenying Technology Co., Ltd. — June 2026–present.</li>
+    </ul>
 
-  <h1 id="wxzhang">Wenxuan Zhang  <span style="font-family:STFangsong">张雯轩</span></h1>
-  
-  <p style="margin: 8px 0 12px;">
-  <code class="language-plaintext highlighter-rouge">wxzhang [at] sutd.edu.sg</code>
-  </p>
+    <h3 id="contact">Contact</h3>
+    <p>I welcome research discussions, collaboration, and questions about my work. The best way to reach me is <a href="mailto:ghh1125@zjnu.edu.cn">ghh1125@zjnu.edu.cn</a>. You can also find my latest work through <a href="https://scholar.google.com/citations?user=S34GF9wAAAAJ&amp;hl=en">Google Scholar</a> and <a href="https://github.com/ghh1125">GitHub</a>.</p>
 
-  <p style="margin: 0 0 12px; ">
-    National Research Foundation (NRF) Fellow
-  </p>
+    <div class="message"><strong>Note:</strong> This homepage is maintained as a lightweight static site. The source repository is available at <a href="https://github.com/ghh1125/isakzhang.github.io">github.com/ghh1125/isakzhang.github.io</a>.</div>
 
-  <p style="margin: 0 0 16px; line-height: 1.6;">
-    SUTD Assistant Professor<br>
-    Information Systems Technology and Design Pillar<br>
-    Singapore University of Technology and Design
-  </p>
-
-
-  <a href="https://www.sutd.edu.sg/profile/zhang-wenxuan">Faculty Page</a> | <a href="https://scholar.google.com/citations?user=tr7MWA4AAAAJ&hl=en">Google Scholar</a> | <a href="https://www.linkedin.com/in/wenxuan-zhang-608b88153/">LinkedIn</a> | <a href="https://x.com/Wenxuan__Zhang">X (Twitter)</a> | <a href="https://www.xiaohongshu.com/user/profile/64c1d8c40000000014038c63"><span style="font-family:STFangsong">小红书</span></a>
-
-  <br><br>
-
-  <!--Navigation bar-->
-  <div id="menu">
-    <div>
-      <a href="index.html">About</a>
-    </div>
-    <div>
-      <a href="research.html">Publications</a>
-    </div>
-    <div>
-      <a href="group.html">Group</a>
-    </div>
-    <div>
-      <a href="getinvolved.html">Openings</a>
-    </div>
-    <script>
-      $(function () {
-        const current = window.location.pathname.split("/");
-        $('#menu div a').each(function(){
-          const $this = $(this);
-          // if the current path is like this link, make it active
-          if (current.indexOf($this.attr("href")) !== -1) {
-            $this.parent().addClass("now");
-          }
-        })
-      });
-    </script>
-  </div>
-  <!--end of Navigation bar-->
-  
-  Thanks for your interest in working with us! 
-  We are looking for candidates working on LLMs / Agentic AI / Multimodal AI, and we are recruiting at all levels.
-  Please read through this page before dropping me an email.
-  
-
-  <!--<h3><a name="bio"></a>Readme</h3>
-  <button onclick="toggleText()">Here are some general information you might want to know:</button>
-    
-    <div id="myText" class="hidden-content">
-        <ul>
-    <li><strong>About Me</strong>: I obtained my PhD from The Chinese University of Hong Kong (CUHK) then joined Alibaba DAMO Academy (达摩院) Singapore with the Alistar Award (阿里星). I have both academic (e.g., analysing LLMs) and industry experience (e.g., training LLMs). A short bio is <a href="./bio.html">here</a> and you can get to know more about me from <a href="https://isakzhang.github.io/index.html">my homepage</a>.</li>
-    <li><strong>About SUTD</strong>: SUTD is Singapore's fourth public university established in collaboration with MIT. Though relatively young, its NLP area ranks <strong>No. 41</strong> around the world and <strong>No.16</strong> in Asia (according to CSRanking). I also suggest you checking out where the recent (AI-related) PhD graduates are working now - it's a great indicator if you are considering the PhD program in SUTD :)</li>
-    <li><strong>Research directions</strong>: My current research centers on NLP & LLMs, with some specific <a href="https://isakzhang.github.io/index.html">focus areas</a> listed on my main page. While it's great if your interests align with mine, I welcome students from diverse backgrounds working on topics they're passionate about. Feel free to discuss your vision with me.</li>
-    <li><strong>Mentoring</strong>: I have mentored students from various background - those without any / with few / with rich research experience, and undergraduate / Master / PhD students. Most of the students publish papers at top conferences and journals with me, and some as their first research papers. You can check out my <a href="isakzhang.github.io/research.html">publication page</a> for details.</li>
-
-  </ul>
-    </div>  
-  <br>
-  -->
-
-
-<h3>Current Openings (update on <span style="color:indianred;">June 2026</span>)</h3>
-  <ul>
-    <li><strong>Postdoc</strong>: 3 positions available, can start any time from now. Two of these positions are geared toward multi-agent systems and audio-language models respectively, while remaining open to all backgrounds.
-    <li><strong>PhD</strong>: 2 positions available for Spring 2027 intake (application deadline: Sep 2026)
-    <li><strong>On-site Visiting Students</strong> (Self-funded/CSC-funded/Financially supported by my grant, for 6-12 months): 1 position available. Priority will be given to students with relevant research / publication experience
-    <li><strong>RA</strong>: 1-2 positions available, only if you do not need a visa in Singapore
-  </ul>
-
-<h3>About the Roles</h3>
-  <ul>
-    <li><strong>Postdocs</strong>: PhD in related fields with an established publication record in top-tier NLP/ML venues. Beyond a (very) competitive salary and full research resources, I actively support postdocs in applying for their own fellowships and in recruiting/supervising student interns and RAs, to help you build an independent profile, and grow together with the group.</li>
-    <p>
-    <li><strong>PhDs</strong>: I recruit 0-2 PhD student(s) per intake (Spring & Fall). All PhD positions are fully funded via <a href="https://sutd.edu.sg/Admissions/Graduate/Scholarships">SUTD</a>/<a href="https://aisingapore.org/research/phd-fellowship-programme/">AISG</a>/<a href="https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa">SINGA</a>/industry scholarship. Our current students hold a diverse mix of scholarships, with highest offering a stipend of $6300/month. Please note that I prefer students to work with me before their official application, as this helps us both determine if we're a good match for this long-term commitment.</li>
-    <p>
-    <li><strong>Research interns / Visiting students</strong>: Welcome anytime. Positions can be either onsite (self-funded/CSC-funded/funded by me) or remote (without salary). Please note that all internships are research-oriented, requiring at least a 6-month commitment to drive one project through to a paper. Please consider your commitment level and available time first. If you are an undergraduate student at SUTD, please consider joining from <a href="https://www.sutd.edu.sg/campus-life/undergraduate-opportunities-programme/urop/overview/">UROP programme</a> or directly contact me :)</li>
-    <p>
-  </ul>
-
-
-  <h3></a>How to Apply</h3>
-  If you are interested in any positions mentioned above, feel free to send me an email with:
-  <br>
-  <ul>
-    <li>Email subject: <em>Position-Start Time-Name-Affiliation</em></li>
-    <li>Briefly share why you want to work with me and on which area </li>
-    <li>Attach your CV </li>
-    <li> Any other information / documents that you think would be helpful for me to know about you (e.g, research interests, research experience, transcripts, future plan, research proposal etc.)
-  </ul>
-
-  <br>
-  I will respond to shortlisted candidates within one week (Sorry I cannot reply to all).
-</div>
-
-
-<div id='footer'>
-  <p style="text-align:center;">Last updated: June 2026</p>
-</div>
-
+    <div id="footer"><p>Last updated: July 2026</p></div>
+  </div></main></div>
 </body>
-
 </html>
