@@ -1206,42 +1206,44 @@ footer {
 }
 
 .scholar-metrics-box {
-    display: inline-block;
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: .55rem;
     margin: .15rem 0 1rem;
-    padding: .55rem .75rem .5rem;
+    padding: .4rem .65rem;
     border: 1px solid #d7d7d7;
     border-radius: 5px;
     background: #fafafa;
     color: #555;
     font-size: .82rem;
-    line-height: 1.4;
+    line-height: 1.2;
 }
 
-.scholar-metrics-title {
-    margin-bottom: .25rem;
-    color: #444;
-    font-weight: 600;
+.scholar-metric {
+    display: inline-flex;
+    align-items: baseline;
+    gap: .25rem;
+    white-space: nowrap;
 }
 
-.scholar-metrics-values {
-    display: flex;
-    flex-wrap: wrap;
-    gap: .8rem;
+.scholar-metric + .scholar-metric {
+    padding-left: .55rem;
+    border-left: 1px solid #d7d7d7;
 }
 
-.scholar-metrics-values b {
+.scholar-metric b {
     color: #222;
     font-size: .95rem;
 }
 
-.scholar-metrics-footer {
-    margin-top: .25rem;
-    color: #888;
-    font-size: .72rem;
+.scholar-source {
+    color: #268bd2;
+    white-space: nowrap;
 }
 
-.scholar-metrics-footer a {
-    color: #268bd2;
+.scholar-updated {
+    display: none;
 }
 
 .featured-posts {
