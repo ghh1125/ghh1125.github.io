@@ -29,3 +29,26 @@
         `<div class="${current === key ? "now" : ""}"><a href="${href}">${label}</a></div>`).join("")}</div>
     </div>`;
 })();
+
+(function () {
+  const metrics = document.getElementById("scholar-metrics");
+  if (!metrics) return;
+
+  fetch(`scholar-metrics.json?ts=${Date.now()}`, { cache: "no-store" })
+    .then((response) => response.ok ? response.json() : null)
+    .then((data) => {
+      if (!data) return;
+      const fields = {
+        "scholar-citations": data.citations,
+        "scholar-h-index": data.h_index,
+        "scholar-i10-index": data.i10_index
+      };
+      Object.entries(fields).forEach(([id, value]) => {
+        if (value !== undefined && value !== null) {
+          const element = document.getElementById(id);
+          if (element) element.textContent = value;
+        }
+      });
+    })
+    .catch(() => {});
+})();
