@@ -41,7 +41,8 @@
       const fields = {
         "scholar-citations": data.citations,
         "scholar-h-index": data.h_index,
-        "scholar-i10-index": data.i10_index
+        "scholar-i10-index": data.i10_index,
+        "scholar-updated": data.updated
       };
       Object.entries(fields).forEach(([id, value]) => {
         if (value !== undefined && value !== null) {

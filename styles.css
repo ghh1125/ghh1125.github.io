@@ -1205,6 +1205,45 @@ footer {
     margin-bottom: 1rem
 }
 
+.scholar-metrics-box {
+    display: inline-block;
+    margin: .15rem 0 1rem;
+    padding: .55rem .75rem .5rem;
+    border: 1px solid #d7d7d7;
+    border-radius: 5px;
+    background: #fafafa;
+    color: #555;
+    font-size: .82rem;
+    line-height: 1.4;
+}
+
+.scholar-metrics-title {
+    margin-bottom: .25rem;
+    color: #444;
+    font-weight: 600;
+}
+
+.scholar-metrics-values {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .8rem;
+}
+
+.scholar-metrics-values b {
+    color: #222;
+    font-size: .95rem;
+}
+
+.scholar-metrics-footer {
+    margin-top: .25rem;
+    color: #888;
+    font-size: .72rem;
+}
+
+.scholar-metrics-footer a {
+    color: #268bd2;
+}
+
 .featured-posts {
     display: block
 }
