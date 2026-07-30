@@ -12,7 +12,7 @@
     <div class="mini-intro">
       <img class="avatar" src="img/hanghui-guo.jpg" alt="Hanghui Guo">
       <h1 id="hanghui-guo">Hanghui Guo</h1>
-      <p class="role-line">PhD Student in Computer Science and Technology</p>
+      <p class="role-line">PhD Student</p>
       <p class="affiliation-line">School of Computer Science and Engineering<br>
         Southeast University<br>
         Nanjing, China</p>
