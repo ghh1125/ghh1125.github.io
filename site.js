@@ -12,7 +12,7 @@
     <div class="mini-intro">
       <img class="avatar" src="img/hanghui-guo.jpg" alt="Hanghui Guo">
       <h1 id="hanghui-guo">Hanghui Guo <span class="name-cn">郭杭辉</span></h1>
-      <p class="contact-line"><code>ghh1125 [at] zjnu.edu.cn</code></p>
+      <p class="contact-line"><code>ghh1125 [at] zjnu [dot] edu [dot] cn</code></p>
       <p class="role-line">PhD Student in Computer Science and Technology</p>
       <p class="affiliation-line">School of Computer Science and Engineering<br>
         Southeast University<br>
