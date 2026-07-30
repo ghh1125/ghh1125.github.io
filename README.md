@@ -17,6 +17,9 @@ Before enabling the workflow, add this repository Actions secret:
 - Name: `GOOGLE_SCHOLAR_ID`
 - Value: `S34GF9wAAAAJ`
 
+The workflow also has this public ID as a fallback, so a temporary secret
+configuration problem will not stop the crawler.
+
 You can also run the workflow manually from **Actions → Update Google Scholar
 citation data → Run workflow**. The crawler updates once per run; Google
 Scholar itself does not provide a second-by-second live feed.
