@@ -1,6 +1,9 @@
 name: Update Google Scholar citation data
 
 on:
+  push:
+    branches:
+      - master
   page_build:
   schedule:
     - cron: "0 8 * * *"
