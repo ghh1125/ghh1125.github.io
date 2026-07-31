@@ -252,6 +252,7 @@ blockquote p:last-child {
 }
 
 .contact-line,
+.email-line,
 .role-line,
 .affiliation-line {
     margin-bottom: .55rem;
