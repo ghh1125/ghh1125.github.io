@@ -260,11 +260,12 @@ blockquote p:last-child {
 
 .email-line {
     display: inline-block;
-    padding: .2rem .6rem;
+    padding: .12rem .45rem;
     border-radius: 4px;
     background: #f8f8f8;
     color: #c45a64;
     font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+    font-size: .8rem;
     letter-spacing: .02em;
 }
 
