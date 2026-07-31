@@ -258,6 +258,16 @@ blockquote p:last-child {
     margin-bottom: .55rem;
 }
 
+.email-line {
+    display: inline-block;
+    padding: .2rem .6rem;
+    border-radius: 4px;
+    background: #f8f8f8;
+    color: #c45a64;
+    font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+    letter-spacing: .02em;
+}
+
 .profile-links {
     line-height: 1.8;
 }
