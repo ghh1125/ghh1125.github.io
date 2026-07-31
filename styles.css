@@ -279,10 +279,10 @@ blockquote p:last-child {
     display: inline-block;
     margin-right: .4rem;
     padding: .18rem .45rem;
-    border: 1px solid #b6cce4;
+    border: 1px solid #e5b8bd;
     border-radius: 4px;
-    background: #e5f0fc;
-    color: #285a87;
+    background: #fff0f1;
+    color: #a33d46;
     font-size: .82em;
     font-weight: 700;
     line-height: 1.2;
