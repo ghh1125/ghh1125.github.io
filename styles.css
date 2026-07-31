@@ -285,6 +285,12 @@ blockquote p:last-child {
     padding-right: .5rem;
 }
 
+.acceptance-rate {
+    color: #777;
+    font-size: .9em;
+    white-space: nowrap;
+}
+
 #footer {
     margin-top: 3rem;
     padding-top: 1rem;
