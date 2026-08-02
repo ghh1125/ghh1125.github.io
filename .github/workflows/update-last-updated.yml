@@ -1,0 +1,33 @@
+name: Update last updated date
+
+on:
+  push:
+    branches:
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  update-footer:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out homepage
+        uses: actions/checkout@v4
+
+      - name: Update footer month
+        run: |
+          CURRENT_MONTH="$(date -u '+%B %Y')"
+          sed -i -E "s/Last updated: [A-Za-z]+ [0-9]{4}/Last updated: ${CURRENT_MONTH}/g" *.html
+
+      - name: Commit updated date
+        run: |
+          if git diff --quiet; then
+            echo "Footer date is already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add *.html
+          git commit -m "Update last updated date"
+          git push
