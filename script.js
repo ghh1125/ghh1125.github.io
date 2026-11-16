@@ -156,10 +156,22 @@ function loadPublications() {
             }
 
             if (allContainer) {
-                renderAllPublicationsPage(allContainer, publications);
+                let filter = getPublicationFilter();
+                let category = 'all';
+                const render = () => renderAllPublicationsPage(allContainer, publications, filter, category);
+                render();
                 document.querySelectorAll('.filter-link[data-filter]').forEach(button => {
                     button.addEventListener('click', () => {
-                        renderAllPublicationsPage(allContainer, publications, button.dataset.filter);
+                        filter = button.dataset.filter;
+                        if (filter === 'all') category = 'all';
+                        if (filter === 'accepted' && category === 'arxiv') category = 'all';
+                        render();
+                    });
+                });
+                document.querySelectorAll('.filter-link[data-category]').forEach(button => {
+                    button.addEventListener('click', () => {
+                        category = category === button.dataset.category ? 'all' : button.dataset.category;
+                        render();
                     });
                 });
             }
@@ -191,7 +203,7 @@ function renderFeaturedPublications(container, publications) {
     container.appendChild(list);
 }
 
-function renderAllPublicationsPage(container, publications, filter = getPublicationFilter()) {
+function renderAllPublicationsPage(container, publications, filter = getPublicationFilter(), category = 'all') {
     const filterIndicator = document.getElementById('filter-indicator');
 
     let filtered = publications.slice();
@@ -210,7 +222,21 @@ function renderAllPublicationsPage(container, publications, filter = getPublicat
         filterIndicator.textContent = '';
     }
 
+    if (category !== 'all') {
+        filtered = filtered.filter(pub => pub.category === category);
+        if (filterIndicator) {
+            const labels = {conference: 'Conference', journal: 'Journal', arxiv: 'arXiv'};
+            filterIndicator.textContent += ` (${labels[category]})`;
+        }
+    }
+
     updateFilterButtons(filter);
+    document.querySelectorAll('.filter-link[data-category]').forEach(button => {
+        button.hidden = filter === 'accepted' && button.dataset.category === 'arxiv';
+        const selected = button.dataset.category === category;
+        button.classList.toggle('active', selected);
+        button.setAttribute('aria-pressed', String(selected));
+    });
     renderAllPublications(container, filtered);
 }
 
@@ -222,26 +248,17 @@ function renderAllPublications(container, publications) {
         return;
     }
 
-    const grouped = new Map();
-
-    publications
-        .slice()
-        .sort(compareAllPublications)
-        .forEach(pub => {
-            const yearLabel = getYearLabel(pub);
-            if (!grouped.has(yearLabel)) {
-                grouped.set(yearLabel, []);
-            }
-            grouped.get(yearLabel).push(pub);
-        });
-
-    Array.from(grouped.entries()).forEach(([year, items]) => {
+    const categories = [['conference', 'Conference'], ['journal', 'Journal'], ['arxiv', 'arXiv']];
+    categories.forEach(([category, label]) => {
+        const items = publications.filter(pub => pub.category === category).sort(compareAllPublications);
+        if (!items.length) return;
         const group = document.createElement('div');
-        group.className = 'pub-year-group';
+        group.className = 'pub-category-group';
+        group.dataset.category = category;
 
         const header = document.createElement('h3');
-        header.className = 'pub-year-header';
-        header.textContent = year;
+        header.className = 'pub-category-header';
+        header.textContent = label;
         group.appendChild(header);
 
         const list = document.createElement('ul');
@@ -476,7 +493,7 @@ function getPublicationFilter() {
 }
 
 function updateFilterButtons(filter) {
-    document.querySelectorAll('.filter-link').forEach(link => {
+    document.querySelectorAll('.filter-link[data-filter]').forEach(link => {
         link.classList.remove('active');
         link.setAttribute('aria-pressed', String(link.dataset.filter === filter));
     });

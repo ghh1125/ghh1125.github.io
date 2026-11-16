@@ -22,7 +22,7 @@
                     <h2 class="section-title">📄 All Publications <span class="subtitle-text" id="filter-indicator"></span></h2>
 
                     <p><sup>†</sup> Equal contribution &nbsp; <sup>‡</sup> Corresponding author</p>
-<div class="publication-filters" style="margin-top: 0; padding-top: 0; border-top: none;">
+                    <div class="publication-filters" style="margin-top: 0; padding-top: 0; border-top: none;" role="group" aria-label="Publication filters">
                         <button type="button" class="filter-link" id="filter-all" data-filter="all" aria-controls="all-publications-container" aria-pressed="false">
                             <i class="fas fa-list"></i> All Publications
                         </button>
@@ -33,6 +33,19 @@
                             <i class="fas fa-check-circle"></i> Accepted Papers
                         </button>
                     </div>
+
+                    <div class="publication-filters" role="group" aria-label="Publication categories">
+                        <button type="button" class="filter-link" data-category="conference" aria-controls="all-publications-container" aria-pressed="false">
+                            <i class="fas fa-users" aria-hidden="true"></i> Conference
+                        </button>
+                        <button type="button" class="filter-link" data-category="journal" aria-controls="all-publications-container" aria-pressed="false">
+                            <i class="fas fa-book-open" aria-hidden="true"></i> Journal
+                        </button>
+                        <button type="button" class="filter-link" data-category="arxiv" aria-controls="all-publications-container" aria-pressed="false">
+                            <i class="fas fa-file-alt" aria-hidden="true"></i> arXiv
+                        </button>
+                    </div>
+                    <p class="publication-filter-hint">Select a category to filter; select it again or choose All Publications to show all categories.</p>
 
                     <div class="content-block" style="margin-top: 30px;">
                         <div id="all-publications-container" class="publications-list"></div>

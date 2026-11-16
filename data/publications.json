@@ -14,7 +14,8 @@
         "link": "https://aclanthology.org/2026.acl-long.414.pdf"
       }
     ],
-    "thumbnail": "assets/publications/kcvr/framework.png"
+    "thumbnail": "assets/publications/kcvr/framework.png",
+    "category": "conference"
   },
   {
     "title": "RSDA: Restoring Stale Data Affinity via Dynamic Renovation Strategy for Mitigating Data Scarcity.",
@@ -31,7 +32,8 @@
         "link": "https://aclanthology.org/2026.acl-long.375.pdf"
       }
     ],
-    "thumbnail": "assets/publications/rsda/framework.png"
+    "thumbnail": "assets/publications/rsda/framework.png",
+    "category": "conference"
   },
   {
     "title": "ACR: Adaptive Context Refactoring via Context Refactoring Operators for Multi-Turn Dialogue.",
@@ -48,7 +50,8 @@
         "link": "https://aclanthology.org/2026.findings-acl.155.pdf"
       }
     ],
-    "thumbnail": "assets/publications/acr/framework.png"
+    "thumbnail": "assets/publications/acr/framework.png",
+    "category": "conference"
   },
   {
     "title": "Active Multi-source Domain Adaptation for Multimodal Fake News Detection.",
@@ -65,7 +68,8 @@
         "link": "https://ojs.aaai.org/index.php/AAAI/article/download/39125/43087"
       }
     ],
-    "thumbnail": "assets/publications/adose/framework.png"
+    "thumbnail": "assets/publications/adose/framework.png",
+    "category": "conference"
   },
   {
     "title": "Capturing Dynamic User Interests under Modality Imbalance for Multimodal Sequential Recommendation.",
@@ -82,7 +86,8 @@
         "link": "https://ojs.aaai.org/index.php/AAAI/article/download/38544/42506"
       }
     ],
-    "thumbnail": "assets/publications/duaf/framework.png"
+    "thumbnail": "assets/publications/duaf/framework.png",
+    "category": "conference"
   },
   {
     "title": "TIV: Thought Injection via Vectors for Efficient Reasoning in Large Reasoning Models.",
@@ -99,7 +104,8 @@
         "link": "https://ojs.aaai.org/index.php/AAAI/article/download/40264/44225"
       }
     ],
-    "thumbnail": "assets/publications/tiv/framework.png"
+    "thumbnail": "assets/publications/tiv/framework.png",
+    "category": "conference"
   },
   {
     "title": "Consistent and Invariant Generalization Learning for Short-video Misinformation Detection.",
@@ -117,7 +123,8 @@
       }
     ],
     "thumbnail": "assets/publications/doctor/framework.png",
-    "featuredOrder": 2
+    "featuredOrder": 2,
+    "category": "conference"
   },
   {
     "title": "DioR: Adaptive Cognitive Detection and Contextual Retrieval Optimization for Dynamic Retrieval-Augmented Generation.",
@@ -135,7 +142,8 @@
       }
     ],
     "thumbnail": "assets/publications/dior/framework.png",
-    "featuredOrder": 3
+    "featuredOrder": 3,
+    "category": "conference"
   },
   {
     "title": "RaDIO: Real-Time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation.",
@@ -152,7 +160,8 @@
         "link": "https://ojs.aaai.org/index.php/AAAI/article/download/34809/36964"
       }
     ],
-    "thumbnail": "assets/publications/radio/framework.png"
+    "thumbnail": "assets/publications/radio/framework.png",
+    "category": "conference"
   },
   {
     "title": "RG-MEO: Relation-Guided Modality Embedding Optimization for Multimodal Knowledge Graph Completion.",
@@ -169,7 +178,8 @@
         "text": "Paper",
         "link": "https://ieeexplore.ieee.org/abstract/document/11522626/"
       }
-    ]
+    ],
+    "category": "conference"
   },
   {
     "title": "Adaptive Exploration: Elevating Educational Impact of Unsupervised Knowledge Graph Question Answering.",
@@ -186,7 +196,8 @@
         "text": "Paper",
         "link": "https://link.springer.com/chapter/10.1007/978-981-96-0055-7_20"
       }
-    ]
+    ],
+    "category": "conference"
   },
   {
     "title": "Stable Attribution with Local Surrogate Model.",
@@ -203,7 +214,8 @@
         "text": "Paper",
         "link": "https://link.springer.com/chapter/10.1007/978-981-96-2376-1_14"
       }
-    ]
+    ],
+    "category": "conference"
   },
   {
     "title": "基于VR技术的电磁波教学平台设计与交互式开发.",
@@ -220,7 +232,8 @@
         "link": "https://gccce2024.swu.edu.cn/GCCCE2024dahuilunwenji_zhongwenlunwen.pdf#page=316"
       }
     ],
-    "thumbnail": "assets/publications/gccce/framework.png"
+    "thumbnail": "assets/publications/gccce/framework.png",
+    "category": "conference"
   },
   {
     "title": "Dual Trustworthy Mechanism for Illness Classification with Multi-Modality Data.",
@@ -237,7 +250,8 @@
         "link": "https://wq2581.github.io/papers/Dual%20trustworthy%20mechanism%20for%20illness%20classification%20with%20multi-modality%20data.pdf"
       }
     ],
-    "thumbnail": "assets/publications/dtmc/framework.png"
+    "thumbnail": "assets/publications/dtmc/framework.png",
+    "category": "conference"
   },
   {
     "title": "Multi-Path Causal Optimization for Claim Verification through Controlling Confounding.",
@@ -254,7 +268,8 @@
         "link": "https://doi.org/10.1016/j.engappai.2026.116117"
       }
     ],
-    "thumbnail": "assets/publications/muplon/framework.png"
+    "thumbnail": "assets/publications/muplon/framework.png",
+    "category": "journal"
   },
   {
     "title": "Video-Seer: A Hierarchical Scene Selection and Multi-View Analysis Approach for Zero-Shot Video Question Answering.",
@@ -271,7 +286,8 @@
         "text": "Paper",
         "link": "https://ieeexplore.ieee.org/abstract/document/11433110/"
       }
-    ]
+    ],
+    "category": "journal"
   },
   {
     "title": "KE-LPG: Toward Semantic Refinement for Lesson Plan Generation.",
@@ -288,7 +304,8 @@
         "link": "https://doi.org/10.1007/s13369-025-10808-4"
       }
     ],
-    "thumbnail": "assets/publications/kelpg/framework.png"
+    "thumbnail": "assets/publications/kelpg/framework.png",
+    "category": "journal"
   },
   {
     "title": "A Multi-Modal Dataset for Teacher Behavior Analysis in Offline Classrooms.",
@@ -305,7 +322,8 @@
         "link": "https://www.nature.com/articles/s41597-025-05426-6.pdf"
       }
     ],
-    "thumbnail": "assets/publications/sdata/framework.png"
+    "thumbnail": "assets/publications/sdata/framework.png",
+    "category": "journal"
   },
   {
     "title": "Heterogeneous Collaborative Filtering Contrastive Learning for Social Recommendation.",
@@ -322,7 +340,8 @@
         "link": "https://wq2581.github.io/papers/Heterogeneous%20collaborative%20filtering%20contrastive%20learning%20for%20social%20recommendation.pdf"
       }
     ],
-    "thumbnail": "assets/publications/hcfcl/framework.png"
+    "thumbnail": "assets/publications/hcfcl/framework.png",
+    "category": "journal"
   },
   {
     "title": "FGRCAT: A Fine-Grained Reasoning Framework Through Causality and Adversarial Training.",
@@ -339,7 +358,8 @@
         "link": "https://doi.org/10.1016/j.eswa.2025.126688"
       }
     ],
-    "thumbnail": "assets/publications/fgrcat/framework.png"
+    "thumbnail": "assets/publications/fgrcat/framework.png",
+    "category": "journal"
   },
   {
     "title": "TokenCast: Forecasting Token Consumption During LLM Agent Execution.",
@@ -356,7 +376,8 @@
         "link": "https://arxiv.org/pdf/2609.35760"
       }
     ],
-    "thumbnail": "assets/publications/tokencast/framework.png"
+    "thumbnail": "assets/publications/tokencast/framework.png",
+    "category": "arxiv"
   },
   {
     "title": "DREvo: Distilling Recalibrated Historical Experience for Harness Self-Evolution.",
@@ -374,7 +395,8 @@
       }
     ],
     "thumbnail": "assets/publications/drevo/framework.png",
-    "featuredOrder": 1
+    "featuredOrder": 1,
+    "category": "arxiv"
   },
   {
     "title": "Head-wise Modality Specialization within MLLMs for Robust Fake News Detection under Missing Modality.",
@@ -391,7 +413,8 @@
         "link": "https://arxiv.org/pdf/2604.09711v1"
       }
     ],
-    "thumbnail": "assets/publications/heads/framework.png"
+    "thumbnail": "assets/publications/heads/framework.png",
+    "category": "arxiv"
   },
   {
     "title": "ToolRosella: Translating Code Repositories into Standardized Tools for Scientific Agents.",
@@ -408,7 +431,8 @@
         "link": "https://arxiv.org/pdf/2603.09290"
       }
     ],
-    "thumbnail": "assets/publications/toolrosella/framework.png"
+    "thumbnail": "assets/publications/toolrosella/framework.png",
+    "category": "arxiv"
   },
   {
     "title": "DynaGen: Unifying Temporal Knowledge Graph Reasoning with Dynamic Subgraphs and Generative Regularization.",
@@ -425,7 +449,8 @@
         "link": "https://arxiv.org/pdf/2512.12669"
       }
     ],
-    "thumbnail": "assets/publications/dynagen/framework.png"
+    "thumbnail": "assets/publications/dynagen/framework.png",
+    "category": "arxiv"
   },
   {
     "title": "EduEval: A Hierarchical Cognitive Benchmark for Evaluating Large Language Models in Chinese Education.",
@@ -442,7 +467,8 @@
         "link": "https://arxiv.org/pdf/2512.00290"
       }
     ],
-    "thumbnail": "assets/publications/edueval/framework.png"
+    "thumbnail": "assets/publications/edueval/framework.png",
+    "category": "arxiv"
   },
   {
     "title": "Automatic Failure Attribution and Critical Step Prediction Method for Multi-Agent Systems Based on Causal Inference.",
@@ -459,7 +485,8 @@
         "link": "https://arxiv.org/pdf/2509.08682"
       }
     ],
-    "thumbnail": "assets/publications/attribution/framework.png"
+    "thumbnail": "assets/publications/attribution/framework.png",
+    "category": "arxiv"
   },
   {
     "title": "E3-rewrite: Learning to Rewrite SQL for Executability, Equivalence, and Efficiency.",
@@ -476,6 +503,7 @@
         "link": "https://arxiv.org/pdf/2508.09023"
       }
     ],
-    "thumbnail": "assets/publications/e3/framework.png"
+    "thumbnail": "assets/publications/e3/framework.png",
+    "category": "arxiv"
   }
 ]
