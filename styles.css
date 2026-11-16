@@ -595,24 +595,25 @@ details summary {
 
 .honor-item {
     display: grid;
-    grid-template-columns: 100px 1fr;
-    gap: 1.5rem;
+    grid-template-columns: 3.5rem minmax(0, 1fr);
+    gap: 1rem;
     align-items: baseline;
     margin-bottom: 1.5rem;
 }
 
 .honor-year {
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: 700;
+    font-family: inherit;
+    font-weight: 600;
     font-size: 0.9rem;
     color: #d4a562;
-    text-align: right;
+    text-align: left;
     white-space: nowrap;
 }
 
 .honor-content h3 {
-    font-size: 1rem;
+    font-size: 1.125rem;
     font-weight: 600;
+    line-height: 1.4;
     color: #1e293b;
     margin: 0 0 0.2rem;
 }
@@ -620,6 +621,11 @@ details summary {
 .honor-content p {
     margin: 0;
     color: #475569;
+}
+
+.honor-content > p {
+    font-size: 0.875rem;
+    line-height: 1.5;
 }
 
 .honor-project {
@@ -641,6 +647,7 @@ details summary {
 }
 
 .honor-project p {
+    font-size: 0.9375rem;
     color: #1e293b;
     font-weight: 500;
     line-height: 1.6;
@@ -661,14 +668,14 @@ details summary {
 
 .honor-team summary {
     color: #926b35;
-    font-size: 0.85rem;
+    font-size: 0.8125rem;
     font-weight: 600;
     cursor: pointer;
 }
 
 .honor-team p {
     margin-top: 0.65rem;
-    font-size: 0.9rem;
+    font-size: 0.8125rem;
     font-weight: 400;
     color: #475569;
 }
