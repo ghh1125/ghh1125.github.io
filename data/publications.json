@@ -135,7 +135,7 @@
       }
     ],
     "thumbnail": "assets/publications/dior/framework.png",
-    "featuredOrder": 1
+    "featuredOrder": 3
   },
   {
     "title": "RaDIO: Real-Time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation.",
@@ -369,7 +369,7 @@
       }
     ],
     "thumbnail": "assets/publications/drevo/framework.png",
-    "featuredOrder": 3
+    "featuredOrder": 1
   },
   {
     "title": "Head-wise Modality Specialization within MLLMs for Robust Fake News Detection under Missing Modality.",
