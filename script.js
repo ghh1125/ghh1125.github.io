@@ -126,7 +126,7 @@ function loadHonors() {
         .then(handleJsonResponse)
         .then(items => {
             if (homeContainer) {
-                renderHonorsItems(items, homeContainer);
+                renderHonorsItems(items.filter(item => item.showOnHomepage === true), homeContainer);
             }
             if (allContainer) {
                 renderHonorsItems(items, allContainer);

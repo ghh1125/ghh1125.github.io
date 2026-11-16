@@ -2,11 +2,13 @@
   {
     "date": "2026",
     "title": "Silver Award",
+    "showOnHomepage": true,
     "org": "Zhejiang Provincial International College Students' Innovation Competition"
   },
   {
     "date": "2026",
     "title": "President's Special Award",
+    "showOnHomepage": true,
     "org": "Zhejiang Normal University"
   },
   {
@@ -17,6 +19,7 @@
   {
     "date": "2025",
     "title": "National Scholarship",
+    "showOnHomepage": true,
     "org": ""
   },
   {
@@ -37,17 +40,20 @@
   {
     "date": "2024",
     "title": "Silver Award",
+    "showOnHomepage": true,
     "org": "Zhejiang Provincial International College Students' Innovation Competition"
   },
   {
     "date": "2022",
     "title": "First Prize",
-    "org": "Zhejiang Provincial College Students' Advanced Mathematics (Calculus) Competition"
+    "org": "Zhejiang Provincial College Students' Advanced Mathematics (Calculus) Competition",
+    "showOnHomepage": true
   },
   {
     "date": "2022",
     "title": "First Prize",
-    "org": "Chinese Mathematics Competitions (Zhejiang Province)"
+    "org": "Chinese Mathematics Competitions (Zhejiang Province)",
+    "showOnHomepage": true
   },
   {
     "date": "2022",
@@ -67,6 +73,7 @@
   {
     "date": "2018",
     "title": "Second Prize",
-    "org": "National Olympiad in Biology (Zhejiang Province)"
+    "org": "National Olympiad in Biology (Zhejiang Province)",
+    "showOnHomepage": true
   }
 ]
