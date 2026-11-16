@@ -448,25 +448,10 @@ function compareFeaturedPublications(a, b) {
 }
 
 function compareAllPublications(a, b) {
-    const yearA = getComparableYear(a);
-    const yearB = getComparableYear(b);
-    if (yearA !== yearB) {
-        return yearB - yearA;
-    }
-
-    const acceptedA = String(a.type || '').toLowerCase() === 'accepted' ? 1 : 0;
-    const acceptedB = String(b.type || '').toLowerCase() === 'accepted' ? 1 : 0;
-    if (acceptedA !== acceptedB) {
-        return acceptedB - acceptedA;
-    }
-
-    const orderA = a.featuredOrder ?? Number.MAX_SAFE_INTEGER;
-    const orderB = b.featuredOrder ?? Number.MAX_SAFE_INTEGER;
-    if (orderA !== orderB) {
-        return orderA - orderB;
-    }
-
-    return String(a.title || '').localeCompare(String(b.title || ''));
+    // Publication records currently specify years, not verified publication dates.
+    // Preserve their source order within a year instead of prioritizing featured
+    // papers, acceptance status, or title spelling over chronology.
+    return getComparableYear(b) - getComparableYear(a);
 }
 
 function getComparableYear(pub) {
