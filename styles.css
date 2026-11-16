@@ -593,6 +593,47 @@ details summary {
     text-decoration: none;
 }
 
+.visitor-counter-link {
+    display: block;
+    min-height: 70px;
+}
+
+.visitor-counter {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    font-size: 0.75rem;
+    color: #64748b;
+}
+
+.visitor-note {
+    margin: 0.75rem 0;
+    color: #64748b;
+    font-size: 0.75rem;
+    line-height: 1.5;
+}
+
+.visitor-details {
+    color: #926b35;
+    font-size: 0.8125rem;
+    font-weight: 500;
+}
+
+.visitor-details:hover { text-decoration: underline; }
+.visitor-details i { margin-left: 0.35rem; }
+
+.visitor-stats-panel {
+    max-width: 600px;
+    padding: 1.5rem;
+    background: #fff;
+    border: 1px solid #e2e8f0;
+    border-radius: 0.75rem;
+}
+
+.visitor-stats-panel h3 { margin: 0 0 0.5rem; }
+.visitor-stats-panel .visitor-counter-link { margin: 1.5rem 0; }
+
 .honor-item {
     display: grid;
     grid-template-columns: 3.5rem minmax(0, 1fr);
