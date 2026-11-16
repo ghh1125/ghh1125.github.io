@@ -341,6 +341,7 @@ details summary {
 }
 
 @media (prefers-reduced-motion: reduce) {
+    .filter-link,
     .publication-categories .filter-link {
         transition: none;
     }

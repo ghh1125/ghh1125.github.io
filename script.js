@@ -166,13 +166,14 @@ function loadPublications() {
                         if (filter === 'all') category = 'all';
                         if (filter === 'accepted' && category === 'arxiv') category = 'all';
                         render();
+                        animatePublicationSelection(button, allContainer);
                     });
                 });
                 document.querySelectorAll('.filter-link[data-category]').forEach(button => {
                     button.addEventListener('click', () => {
                         category = category === button.dataset.category ? 'all' : button.dataset.category;
                         render();
-                        animateCategorySelection(button, allContainer);
+                        animatePublicationSelection(button, allContainer);
                     });
                 });
             }
@@ -186,7 +187,7 @@ function loadPublications() {
         });
 }
 
-function animateCategorySelection(button, container) {
+function animatePublicationSelection(button, container) {
     if (window.matchMedia('(prefers-reduced-motion: reduce)').matches || !container.animate) return;
 
     for (const element of [button, container]) {
