@@ -172,6 +172,7 @@ function loadPublications() {
                     button.addEventListener('click', () => {
                         category = category === button.dataset.category ? 'all' : button.dataset.category;
                         render();
+                        animateCategorySelection(button, allContainer);
                     });
                 });
             }
@@ -183,6 +184,23 @@ function loadPublications() {
                 container.innerHTML = '<p>Failed to load publications.</p>';
             }
         });
+}
+
+function animateCategorySelection(button, container) {
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches || !container.animate) return;
+
+    for (const element of [button, container]) {
+        element.getAnimations().filter(animation => animation.id === 'category-feedback').forEach(animation => animation.cancel());
+    }
+    button.animate([
+        { transform: 'scale(1)' },
+        { transform: 'scale(0.94)', offset: 0.35 },
+        { transform: 'scale(1)' }
+    ], { id: 'category-feedback', duration: 220, easing: 'ease-out' });
+    container.animate([
+        { opacity: 0.3, transform: 'translateY(8px)' },
+        { opacity: 1, transform: 'translateY(0)' }
+    ], { id: 'category-feedback', duration: 300, easing: 'cubic-bezier(0.2, 0.7, 0.3, 1)' });
 }
 
 function renderFeaturedPublications(container, publications) {

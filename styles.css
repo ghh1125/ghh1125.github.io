@@ -300,6 +300,52 @@ details summary {
     display: none;
 }
 
+.publication-filters.publication-categories {
+    flex-direction: row;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 0.8rem;
+    padding-left: 0.15rem;
+}
+
+.publication-categories .filter-link {
+    font-size: 0.82rem;
+    line-height: 1.4;
+    padding: 0.3rem 0.7rem;
+    min-height: 32px;
+    gap: 0.35rem;
+    background: transparent;
+    color: #64748b;
+    transition: background-color 160ms ease, border-color 160ms ease, color 160ms ease;
+}
+
+.publication-categories .filter-link i {
+    font-size: 0.78rem;
+}
+
+.publication-categories .filter-link:hover {
+    background: #f8f2e8;
+    border-color: #e4cda9;
+    color: #815c2a;
+}
+
+.publication-categories .filter-link.active {
+    background: #f2e6d3;
+    border-color: #d4a562;
+    color: #704c20;
+}
+
+.publication-categories .filter-link:focus-visible {
+    outline: 2px solid #d4a562;
+    outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .publication-categories .filter-link {
+        transition: none;
+    }
+}
+
 .empty-state {
     text-align: center;
     color: #64748b;
