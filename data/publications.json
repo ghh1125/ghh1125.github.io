@@ -146,7 +146,12 @@
     "venue": "AAAI 2025",
     "venueFull": "The 39th AAAI Conference on Artificial Intelligence (CCF A), 2025.",
     "year": "2025",
-    "tags": [],
+    "tags": [
+      {
+        "text": "PDF",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/download/34809/36964"
+      }
+    ],
     "thumbnail": "assets/publications/radio/framework.png"
   },
   {
