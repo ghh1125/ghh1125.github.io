@@ -275,6 +275,8 @@ details summary {
 }
 
 .filter-link {
+    font: inherit;
+    cursor: pointer;
     display: inline-flex;
     align-items: center;
     gap: 0.45rem;

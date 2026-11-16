@@ -126,7 +126,7 @@ function loadHonors() {
         .then(handleJsonResponse)
         .then(items => {
             if (homeContainer) {
-                renderHonorsItems(items.slice(0, 8), homeContainer);
+                renderHonorsItems(items, homeContainer);
             }
             if (allContainer) {
                 renderHonorsItems(items, allContainer);
@@ -157,6 +157,11 @@ function loadPublications() {
 
             if (allContainer) {
                 renderAllPublicationsPage(allContainer, publications);
+                document.querySelectorAll('.filter-link[data-filter]').forEach(button => {
+                    button.addEventListener('click', () => {
+                        renderAllPublicationsPage(allContainer, publications, button.dataset.filter);
+                    });
+                });
             }
         })
         .catch(error => {
@@ -186,8 +191,7 @@ function renderFeaturedPublications(container, publications) {
     container.appendChild(list);
 }
 
-function renderAllPublicationsPage(container, publications) {
-    const filter = getPublicationFilter();
+function renderAllPublicationsPage(container, publications, filter = getPublicationFilter()) {
     const filterIndicator = document.getElementById('filter-indicator');
 
     let filtered = publications.slice();
@@ -489,6 +493,7 @@ function getPublicationFilter() {
 function updateFilterButtons(filter) {
     document.querySelectorAll('.filter-link').forEach(link => {
         link.classList.remove('active');
+        link.setAttribute('aria-pressed', String(link.dataset.filter === filter));
     });
 
     if (filter === 'first-author') {

@@ -2,11 +2,16 @@
   {
     "date": "2026",
     "title": "Silver Award",
-    "org": "Zhejiang Provincial College Student Innovation and Entrepreneurship Competition"
+    "org": "Zhejiang Provincial International College Students' Innovation Competition"
   },
   {
     "date": "2026",
     "title": "President's Special Award",
+    "org": "Zhejiang Normal University"
+  },
+  {
+    "date": "2026",
+    "title": "Outstanding Graduate (Master's)",
     "org": "Zhejiang Normal University"
   },
   {
@@ -15,19 +20,49 @@
     "org": ""
   },
   {
+    "date": "2025",
+    "title": "First-Class Graduate Scholarship",
+    "org": "Zhejiang Normal University"
+  },
+  {
+    "date": "2025",
+    "title": "Outstanding Graduate Student",
+    "org": "Zhejiang Normal University"
+  },
+  {
+    "date": "2024",
+    "title": "Second-Class Graduate Scholarship",
+    "org": "Zhejiang Normal University"
+  },
+  {
     "date": "2024",
     "title": "Silver Award",
-    "org": "Zhejiang Provincial College Student Innovation and Entrepreneurship Competition"
+    "org": "Zhejiang Provincial International College Students' Innovation Competition"
   },
   {
     "date": "2022",
     "title": "First Prize",
-    "org": "Zhejiang Province College Students' Advanced Mathematics Competition"
+    "org": "Zhejiang Provincial College Students' Advanced Mathematics (Calculus) Competition"
   },
   {
     "date": "2022",
     "title": "First Prize",
     "org": "Chinese Mathematics Competitions (Zhejiang Province)"
+  },
+  {
+    "date": "2022",
+    "title": "Third-Class Scholarship",
+    "org": "Wenzhou University"
+  },
+  {
+    "date": "2020",
+    "title": "Third-Class Scholarship",
+    "org": "Wenzhou University"
+  },
+  {
+    "date": "2019",
+    "title": "Second Prize",
+    "org": "Wenzhou University Programming Contest"
   },
   {
     "date": "2018",
