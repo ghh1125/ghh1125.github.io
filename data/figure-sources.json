@@ -1,0 +1,194 @@
+[
+  {
+    "title": "Video-Seer: A Hierarchical Scene Selection and Multi-View Analysis Approach for Zero-Shot Video Question Answering.",
+    "image": "assets/publications/video-seer/framework.png",
+    "source": "Author-provided screenshot, November 16, 2026 (Video-Seer)",
+    "figure": "Method framework"
+  },
+  {
+    "title": "RG-MEO: Relation-Guided Modality Embedding Optimization for Multimodal Knowledge Graph Completion.",
+    "image": "assets/publications/rg-meo/framework.png",
+    "source": "Author-provided screenshot, November 16, 2026 (RG-MEO)",
+    "figure": "Method framework"
+  },
+  {
+    "title": "Adaptive Exploration: Elevating Educational Impact of Unsupervised Knowledge Graph Question Answering.",
+    "image": "assets/publications/kgqa/framework.png",
+    "source": "Author-provided screenshot, November 16, 2026 (KGQA)",
+    "figure": "Framework: graph exploration, question generation, and reasoning"
+  },
+  {
+    "title": "Stable Attribution with Local Surrogate Model.",
+    "image": "assets/publications/slis/framework.png",
+    "source": "Author-provided screenshot, November 16, 2026 (SLIS)",
+    "figure": "User-selected causal graph illustration"
+  },
+  {
+    "title": "KCVR: Knowledge-Centric Video Reconstruction for Structured Pedagogical Summarization via Dynamic Graph Planning.",
+    "image": "assets/publications/kcvr/framework.png",
+    "source": "https://aclanthology.org/2026.acl-long.414.pdf",
+    "page": 4,
+    "figure": 2
+  },
+  {
+    "title": "RSDA: Restoring Stale Data Affinity via Dynamic Renovation Strategy for Mitigating Data Scarcity.",
+    "image": "assets/publications/rsda/framework.png",
+    "source": "https://aclanthology.org/2026.acl-long.375.pdf",
+    "page": 4,
+    "figure": 3
+  },
+  {
+    "title": "ACR: Adaptive Context Refactoring via Context Refactoring Operators for Multi-Turn Dialogue.",
+    "image": "assets/publications/acr/framework.png",
+    "source": "https://aclanthology.org/2026.findings-acl.155.pdf",
+    "page": 3,
+    "figure": 2
+  },
+  {
+    "title": "Active Multi-source Domain Adaptation for Multimodal Fake News Detection.",
+    "image": "assets/publications/adose/framework.png",
+    "source": "https://ojs.aaai.org/index.php/AAAI/article/download/39125/43087",
+    "page": 4,
+    "figure": 2
+  },
+  {
+    "title": "Capturing Dynamic User Interests under Modality Imbalance for Multimodal Sequential Recommendation.",
+    "image": "assets/publications/duaf/framework.png",
+    "source": "https://ojs.aaai.org/index.php/AAAI/article/download/38544/42506",
+    "page": 3,
+    "figure": 2
+  },
+  {
+    "title": "TIV: Thought Injection via Vectors for Efficient Reasoning in Large Reasoning Models.",
+    "image": "assets/publications/tiv/framework.png",
+    "source": "https://ojs.aaai.org/index.php/AAAI/article/download/40264/44225",
+    "page": 4,
+    "figure": 2
+  },
+  {
+    "title": "Consistent and Invariant Generalization Learning for Short-video Misinformation Detection.",
+    "image": "assets/publications/doctor/framework.png",
+    "source": "https://doi.org/10.1145/3746027.3755809",
+    "page": 4,
+    "figure": 3
+  },
+  {
+    "title": "DioR: Adaptive Cognitive Detection and Contextual Retrieval Optimization for Dynamic Retrieval-Augmented Generation.",
+    "image": "assets/publications/dior/framework.png",
+    "source": "https://arxiv.org/pdf/2504.10198",
+    "page": 3,
+    "figure": 2
+  },
+  {
+    "title": "RaDIO: Real-Time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation.",
+    "image": "assets/publications/radio/framework.png",
+    "source": "Author-provided published AAAI2025.pdf",
+    "page": 3,
+    "figure": 2
+  },
+  {
+    "title": "Dual Trustworthy Mechanism for Illness Classification with Multi-Modality Data.",
+    "image": "assets/publications/dtmc/framework.png",
+    "source": "https://wq2581.github.io/papers/Dual%20trustworthy%20mechanism%20for%20illness%20classification%20with%20multi-modality%20data.pdf",
+    "page": 3,
+    "figure": 1
+  },
+  {
+    "title": "Multi-Path Causal Optimization for Claim Verification through Controlling Confounding.",
+    "image": "assets/publications/muplon/framework.png",
+    "source": "https://doi.org/10.1016/j.engappai.2026.116117",
+    "page": 5,
+    "figure": 3
+  },
+  {
+    "title": "KE-LPG: Toward Semantic Refinement for Lesson Plan Generation.",
+    "image": "assets/publications/kelpg/framework.png",
+    "source": "https://doi.org/10.1007/s13369-025-10808-4",
+    "page": 5,
+    "figure": 1
+  },
+  {
+    "title": "A Multi-Modal Dataset for Teacher Behavior Analysis in Offline Classrooms.",
+    "image": "assets/publications/sdata/framework.png",
+    "source": "https://www.nature.com/articles/s41597-025-05426-6.pdf",
+    "page": 3,
+    "figure": 2
+  },
+  {
+    "title": "Heterogeneous Collaborative Filtering Contrastive Learning for Social Recommendation.",
+    "image": "assets/publications/hcfcl/framework.png",
+    "source": "https://wq2581.github.io/papers/Heterogeneous%20collaborative%20filtering%20contrastive%20learning%20for%20social%20recommendation.pdf",
+    "page": 4,
+    "figure": 2
+  },
+  {
+    "title": "FGRCAT: A Fine-Grained Reasoning Framework Through Causality and Adversarial Training.",
+    "image": "assets/publications/fgrcat/framework.png",
+    "source": "https://doi.org/10.1016/j.eswa.2025.126688",
+    "page": 4,
+    "figure": 2
+  },
+  {
+    "title": "TokenCast: Forecasting Token Consumption During LLM Agent Execution.",
+    "image": "assets/publications/tokencast/framework.png",
+    "source": "https://arxiv.org/pdf/2609.35760",
+    "page": 3,
+    "figure": 2
+  },
+  {
+    "title": "DREvo: Distilling Recalibrated Historical Experience for Harness Self-Evolution.",
+    "image": "assets/publications/drevo/framework.png",
+    "source": "https://arxiv.org/pdf/2607.26722",
+    "page": 3,
+    "figure": 2
+  },
+  {
+    "title": "Head-wise Modality Specialization within MLLMs for Robust Fake News Detection under Missing Modality.",
+    "image": "assets/publications/heads/framework.png",
+    "source": "https://arxiv.org/pdf/2604.09711v1",
+    "page": 4,
+    "figure": 2
+  },
+  {
+    "title": "ToolRosella: Translating Code Repositories into Standardized Tools for Scientific Agents.",
+    "image": "assets/publications/toolrosella/framework.png",
+    "source": "https://arxiv.org/pdf/2603.09290",
+    "page": 3,
+    "figure": 1
+  },
+  {
+    "title": "DynaGen: Unifying Temporal Knowledge Graph Reasoning with Dynamic Subgraphs and Generative Regularization.",
+    "image": "assets/publications/dynagen/framework.png",
+    "source": "https://arxiv.org/pdf/2512.12669",
+    "page": 3,
+    "figure": 2
+  },
+  {
+    "title": "EduEval: A Hierarchical Cognitive Benchmark for Evaluating Large Language Models in Chinese Education.",
+    "image": "assets/publications/edueval/framework.png",
+    "source": "https://arxiv.org/pdf/2512.00290",
+    "page": 3,
+    "figure": 1
+  },
+  {
+    "title": "Automatic Failure Attribution and Critical Step Prediction Method for Multi-Agent Systems Based on Causal Inference.",
+    "image": "assets/publications/attribution/framework.png",
+    "source": "https://arxiv.org/pdf/2509.08682",
+    "page": 3,
+    "figure": 2
+  },
+  {
+    "title": "E3-rewrite: Learning to Rewrite SQL for Executability, Equivalence, and Efficiency.",
+    "image": "assets/publications/e3/framework.png",
+    "source": "https://arxiv.org/pdf/2508.09023",
+    "page": 3,
+    "figure": 1
+  },
+  {
+    "title": "基于VR技术的电磁波教学平台设计与交互式开发",
+    "image": "assets/publications/gccce/framework.png",
+    "source": "https://gccce2024.swu.edu.cn/GCCCE2024dahuilunwenji_zhongwenlunwen.pdf#page=316",
+    "page": 317,
+    "figure": "Figure 1: platform screenshots (the paper has no method-framework figure)"
+  }
+]

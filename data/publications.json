@@ -1,0 +1,476 @@
+[
+  {
+    "title": "KCVR: Knowledge-Centric Video Reconstruction for Structured Pedagogical Summarization via Dynamic Graph Planning.",
+    "authors": "Jingjiang Liu<sup>†</sup>, Jia Zhu<sup>†‡</sup>, <strong>Hanghui Guo</strong>, Weijie Shi, Yue Cui, Xiaokang Jin, Yilin Wang, Qingyu Niu, Jiawei Shen, Guoqing Ma, Yidan Liang, Shimin Di, Jiajie Xu<sup>‡</sup>.",
+    "type": "accepted",
+    "isFirstAuthor": false,
+    "showOnHomepage": false,
+    "venue": "ACL Main 2026",
+    "venueFull": "The 64th Annual Meeting of the Association for Computational Linguistics (CCF A), 2026.",
+    "year": "2026",
+    "tags": [
+      {
+        "text": "PDF",
+        "link": "https://aclanthology.org/2026.acl-long.414.pdf"
+      }
+    ],
+    "thumbnail": "assets/publications/kcvr/framework.png"
+  },
+  {
+    "title": "RSDA: Restoring Stale Data Affinity via Dynamic Renovation Strategy for Mitigating Data Scarcity.",
+    "authors": "Yidan Liang<sup>†</sup>, Jia Zhu<sup>†‡</sup>, Weijie Shi, <strong>Hanghui Guo</strong>, Yue Cui, Jiawei Shen, Guoqing Ma, Jingjiang Liu, Qingyu Niu, Yilin Wang, Shimin Di, Jiajie Xu<sup>‡</sup>.",
+    "type": "accepted",
+    "isFirstAuthor": false,
+    "showOnHomepage": false,
+    "venue": "ACL Main 2026",
+    "venueFull": "The 64th Annual Meeting of the Association for Computational Linguistics (CCF A), 2026.",
+    "year": "2026",
+    "tags": [
+      {
+        "text": "PDF",
+        "link": "https://aclanthology.org/2026.acl-long.375.pdf"
+      }
+    ],
+    "thumbnail": "assets/publications/rsda/framework.png"
+  },
+  {
+    "title": "ACR: Adaptive Context Refactoring via Context Refactoring Operators for Multi-Turn Dialogue.",
+    "authors": "Jiawei Shen<sup>†</sup>, Jia Zhu<sup>†‡</sup>, <strong>Hanghui Guo</strong>, Weijie Shi, Yue Cui, Qingyu Niu, Guoqing Ma, Yidan Liang, Jingjiang Liu, Yiling Wang, Shimin Di, Jiajie Xu<sup>‡</sup>.",
+    "type": "accepted",
+    "isFirstAuthor": false,
+    "showOnHomepage": false,
+    "venue": "ACL Findings 2026",
+    "venueFull": "The 64th Annual Meeting of the Association for Computational Linguistics (CCF A), 2026.",
+    "year": "2026",
+    "tags": [
+      {
+        "text": "PDF",
+        "link": "https://aclanthology.org/2026.findings-acl.155.pdf"
+      }
+    ],
+    "thumbnail": "assets/publications/acr/framework.png"
+  },
+  {
+    "title": "Active Multi-source Domain Adaptation for Multimodal Fake News Detection.",
+    "authors": "Yanping Chen, Weijie Shi, Mengze Li, Yue Cui, Jiaming Li, Ruiyuan Zhang, Hao Chen, <strong>Hanghui Guo</strong>, Shimin Di, Ziyi Liu, Jia Zhu, Jiajie Xu<sup>‡</sup>.",
+    "type": "accepted",
+    "isFirstAuthor": false,
+    "showOnHomepage": false,
+    "venue": "AAAI 2026",
+    "venueFull": "The 40th AAAI Conference on Artificial Intelligence (CCF A), 2026.",
+    "year": "2026",
+    "tags": [
+      {
+        "text": "PDF",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/download/39125/43087"
+      }
+    ],
+    "thumbnail": "assets/publications/adose/framework.png"
+  },
+  {
+    "title": "Capturing Dynamic User Interests under Modality Imbalance for Multimodal Sequential Recommendation.",
+    "authors": "Zilong Li, Jia Zhu<sup>‡</sup>, Chenglei Huang, Zhangze Chen, <strong>Hanghui Guo</strong>, Guoqing Ma, Jianxia Ling.",
+    "type": "accepted",
+    "isFirstAuthor": false,
+    "showOnHomepage": false,
+    "venue": "AAAI 2026",
+    "venueFull": "The 40th AAAI Conference on Artificial Intelligence (CCF A), 2026.",
+    "year": "2026",
+    "tags": [
+      {
+        "text": "PDF",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/download/38544/42506"
+      }
+    ],
+    "thumbnail": "assets/publications/duaf/framework.png"
+  },
+  {
+    "title": "TIV: Thought Injection via Vectors for Efficient Reasoning in Large Reasoning Models.",
+    "authors": "Yi Cao, Weijie Shi<sup>‡</sup>, Wei-Jie Xu, Yucheng Shen, Yue Cui, <strong>Hanghui Guo</strong>, Shimin Di, Ziyi Liu<sup>‡</sup>, Jiaming Li, Alexander Zhou, Jia Zhu<sup>‡</sup>, Jiajie Xu<sup>‡</sup>.",
+    "type": "accepted",
+    "isFirstAuthor": false,
+    "showOnHomepage": false,
+    "venue": "AAAI 2026",
+    "venueFull": "The 40th AAAI Conference on Artificial Intelligence (CCF A), 2026.",
+    "year": "2026",
+    "tags": [
+      {
+        "text": "PDF",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/download/40264/44225"
+      }
+    ],
+    "thumbnail": "assets/publications/tiv/framework.png"
+  },
+  {
+    "title": "Consistent and Invariant Generalization Learning for Short-video Misinformation Detection.",
+    "authors": "<strong>Hanghui Guo</strong><sup>†</sup>, Weijie Shi<sup>†</sup>, Mengze Li<sup>‡</sup>, Juncheng Li, Hao Chen, Yue Cui, Jiajie Xu, Jia Zhu<sup>‡</sup>, Jiawei Shen, Zhangze Chen, Sirui Han.",
+    "type": "accepted",
+    "isFirstAuthor": true,
+    "showOnHomepage": true,
+    "venue": "ACM MM 2025",
+    "venueFull": "The 33rd ACM International Conference on Multimedia (CCF A), 2025.",
+    "year": "2025",
+    "tags": [
+      {
+        "text": "Paper",
+        "link": "https://doi.org/10.1145/3746027.3755809"
+      }
+    ],
+    "thumbnail": "assets/publications/doctor/framework.png",
+    "featuredOrder": 2
+  },
+  {
+    "title": "DioR: Adaptive Cognitive Detection and Contextual Retrieval Optimization for Dynamic Retrieval-Augmented Generation.",
+    "authors": "<strong>Hanghui Guo</strong>, Jia Zhu<sup>‡</sup>, Shimin Di<sup>‡</sup>, Weijie Shi<sup>‡</sup>, Zhangze Chen, Jiajie Xu.",
+    "type": "accepted",
+    "isFirstAuthor": true,
+    "showOnHomepage": true,
+    "venue": "ACL Main 2025",
+    "venueFull": "The 63rd Annual Meeting of the Association for Computational Linguistics (CCF A), 2025.",
+    "year": "2025",
+    "tags": [
+      {
+        "text": "PDF",
+        "link": "https://arxiv.org/pdf/2504.10198"
+      }
+    ],
+    "thumbnail": "assets/publications/dior/framework.png",
+    "featuredOrder": 1
+  },
+  {
+    "title": "RaDIO: Real-Time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation.",
+    "authors": "Jia Zhu, <strong>Hanghui Guo</strong>, Weijie Shi<sup>‡</sup>, Zhangze Chen, Pasquale De Meo.",
+    "type": "accepted",
+    "isFirstAuthor": false,
+    "showOnHomepage": false,
+    "venue": "AAAI 2025",
+    "venueFull": "The 39th AAAI Conference on Artificial Intelligence (CCF A), 2025.",
+    "year": "2025",
+    "tags": [],
+    "thumbnail": "assets/publications/radio/framework.png"
+  },
+  {
+    "title": "RG-MEO: Relation-Guided Modality Embedding Optimization for Multimodal Knowledge Graph Completion.",
+    "thumbnail": "assets/publications/rg-meo/framework.png",
+    "authors": "Zilong Li, Jia Zhu<sup>‡</sup>, Chenglei Huang, Zhangze Chen, <strong>Hanghui Guo</strong>, Jianxia Ling.",
+    "type": "accepted",
+    "isFirstAuthor": false,
+    "showOnHomepage": false,
+    "venue": "ACAIT 2025",
+    "venueFull": "The 9th Asian Conference on Artificial Intelligence Technology, 2025.",
+    "year": "2025",
+    "tags": [
+      {
+        "text": "Paper",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11522626/"
+      }
+    ]
+  },
+  {
+    "title": "Adaptive Exploration: Elevating Educational Impact of Unsupervised Knowledge Graph Question Answering.",
+    "thumbnail": "assets/publications/kgqa/framework.png",
+    "authors": "Xi Yang, Zhangze Chen<sup>‡</sup>, <strong>Hanghui Guo</strong><sup>‡</sup>, Tetiana Shestakevych.",
+    "type": "accepted",
+    "isFirstAuthor": false,
+    "showOnHomepage": false,
+    "venue": "APWeb-WAIM Workshop 2024",
+    "venueFull": "The 8th APWeb-WAIM Joint International Conference on Web and Big Data (CCF C), 2024.",
+    "year": "2024",
+    "tags": [
+      {
+        "text": "Paper",
+        "link": "https://link.springer.com/chapter/10.1007/978-981-96-0055-7_20"
+      }
+    ]
+  },
+  {
+    "title": "Stable Attribution with Local Surrogate Model.",
+    "thumbnail": "assets/publications/slis/framework.png",
+    "authors": "Changfan Pan, Qing Wang, Jia Zhu<sup>‡</sup>, Xinran Cao, <strong>Hanghui Guo</strong>, Changqin Huang.",
+    "type": "accepted",
+    "isFirstAuthor": false,
+    "showOnHomepage": false,
+    "venue": "ChineseCSCW 2024",
+    "venueFull": "The 19th CCF Conference on Computer Supported Cooperative Work and Social Computing, 2024.",
+    "year": "2024",
+    "tags": [
+      {
+        "text": "Paper",
+        "link": "https://link.springer.com/chapter/10.1007/978-981-96-2376-1_14"
+      }
+    ]
+  },
+  {
+    "title": "基于VR技术的电磁波教学平台设计与交互式开发.",
+    "authors": "Wanlu Zhang, Jia Zhu<sup>‡</sup>, Changfan Pan, <strong>Hanghui Guo</strong>, Zhangze Chen.",
+    "type": "accepted",
+    "isFirstAuthor": false,
+    "showOnHomepage": false,
+    "venue": "GCCCE 2024",
+    "venueFull": "The 28th Global Chinese Conference on Computers in Education, 2024.",
+    "year": "2024",
+    "tags": [
+      {
+        "text": "PDF",
+        "link": "https://gccce2024.swu.edu.cn/GCCCE2024dahuilunwenji_zhongwenlunwen.pdf#page=316"
+      }
+    ],
+    "thumbnail": "assets/publications/gccce/framework.png"
+  },
+  {
+    "title": "Dual Trustworthy Mechanism for Illness Classification with Multi-Modality Data.",
+    "authors": "Qing Wang, Jia Zhu, Changfan Pan, Jianyang Shi<sup>‡</sup>, Chaojun Meng, <strong>Hanghui Guo</strong>.",
+    "type": "accepted",
+    "isFirstAuthor": false,
+    "showOnHomepage": false,
+    "venue": "ICDM Workshop 2023",
+    "venueFull": "The 23rd IEEE International Conference on Data Mining (CCF B), 2023.",
+    "year": "2023",
+    "tags": [
+      {
+        "text": "PDF",
+        "link": "https://wq2581.github.io/papers/Dual%20trustworthy%20mechanism%20for%20illness%20classification%20with%20multi-modality%20data.pdf"
+      }
+    ],
+    "thumbnail": "assets/publications/dtmc/framework.png"
+  },
+  {
+    "title": "Multi-Path Causal Optimization for Claim Verification through Controlling Confounding.",
+    "authors": "<strong>Hanghui Guo</strong>, Shimin Di, Pasquale De Meo, Zhangze Chen, Jia Zhu<sup>‡</sup>.",
+    "type": "accepted",
+    "isFirstAuthor": true,
+    "showOnHomepage": false,
+    "venue": "EAAI 2026",
+    "venueFull": "Engineering Applications of Artificial Intelligence (IF 9.0; JCR Q1; CAS Q1 Top; CCF C), 2026.",
+    "year": "2026",
+    "tags": [
+      {
+        "text": "Paper",
+        "link": "https://doi.org/10.1016/j.engappai.2026.116117"
+      }
+    ],
+    "thumbnail": "assets/publications/muplon/framework.png"
+  },
+  {
+    "title": "Video-Seer: A Hierarchical Scene Selection and Multi-View Analysis Approach for Zero-Shot Video Question Answering.",
+    "thumbnail": "assets/publications/video-seer/framework.png",
+    "authors": "Chenglei Huang, Jia Zhu<sup>‡</sup>, Zilong Li, <strong>Hanghui Guo</strong>, Jiajun Liu, Pasquale De Meo, Weijie Shi.",
+    "type": "accepted",
+    "isFirstAuthor": false,
+    "showOnHomepage": false,
+    "venue": "TMM 2026",
+    "venueFull": "IEEE Transactions on Multimedia (IF 9.9; JCR Q1; CAS Q1 Top; CCF A), 2026.",
+    "year": "2026",
+    "tags": [
+      {
+        "text": "Paper",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11433110/"
+      }
+    ]
+  },
+  {
+    "title": "KE-LPG: Toward Semantic Refinement for Lesson Plan Generation.",
+    "authors": "<strong>Hanghui Guo</strong><sup>‡</sup>, Jia Zhu, Changfan Pan, Qing Wang, Cong Zhou, Chaojun Meng.",
+    "type": "accepted",
+    "isFirstAuthor": true,
+    "showOnHomepage": false,
+    "venue": "AJSE 2026",
+    "venueFull": "Arabian Journal for Science and Engineering (IF 3.1; JCR Q2; CAS Q4), 2026.",
+    "year": "2026",
+    "tags": [
+      {
+        "text": "Paper",
+        "link": "https://doi.org/10.1007/s13369-025-10808-4"
+      }
+    ],
+    "thumbnail": "assets/publications/kelpg/framework.png"
+  },
+  {
+    "title": "A Multi-Modal Dataset for Teacher Behavior Analysis in Offline Classrooms.",
+    "authors": "Chenglei Huang<sup>†</sup>, Jia Zhu<sup>†‡</sup>, Yilong Ji<sup>‡</sup>, Weijie Shi, Min Yang, <strong>Hanghui Guo</strong>, Jianxia Ling, Pasquale De Meo, Zilong Li, Zhangze Chen.",
+    "type": "accepted",
+    "isFirstAuthor": false,
+    "showOnHomepage": false,
+    "venue": "SDATA 2025",
+    "venueFull": "Scientific Data (IF 7.2; JCR Q1; CAS Q2), 2025.",
+    "year": "2025",
+    "tags": [
+      {
+        "text": "PDF",
+        "link": "https://www.nature.com/articles/s41597-025-05426-6.pdf"
+      }
+    ],
+    "thumbnail": "assets/publications/sdata/framework.png"
+  },
+  {
+    "title": "Heterogeneous Collaborative Filtering Contrastive Learning for Social Recommendation.",
+    "authors": "Chaojun Meng, Changfan Pan, Hongji Shu, Qing Wang, <strong>Hanghui Guo</strong>, Jia Zhu<sup>‡</sup>.",
+    "type": "accepted",
+    "isFirstAuthor": false,
+    "showOnHomepage": false,
+    "venue": "ASOC 2025",
+    "venueFull": "Applied Soft Computing (IF 6.6; JCR Q1; CAS Q2 Top), 2025.",
+    "year": "2025",
+    "tags": [
+      {
+        "text": "PDF",
+        "link": "https://wq2581.github.io/papers/Heterogeneous%20collaborative%20filtering%20contrastive%20learning%20for%20social%20recommendation.pdf"
+      }
+    ],
+    "thumbnail": "assets/publications/hcfcl/framework.png"
+  },
+  {
+    "title": "FGRCAT: A Fine-Grained Reasoning Framework Through Causality and Adversarial Training.",
+    "authors": "<strong>Hanghui Guo</strong>, Shimin Di, Zhangze Chen, Changfan Pan, Chaojun Meng, Jia Zhu<sup>‡</sup>.",
+    "type": "accepted",
+    "isFirstAuthor": true,
+    "showOnHomepage": false,
+    "venue": "ESWA 2025",
+    "venueFull": "Expert Systems with Applications (IF 9.4; JCR Q1; CAS Q1 Top; CCF C), 2025.",
+    "year": "2025",
+    "tags": [
+      {
+        "text": "Paper",
+        "link": "https://doi.org/10.1016/j.eswa.2025.126688"
+      }
+    ],
+    "thumbnail": "assets/publications/fgrcat/framework.png"
+  },
+  {
+    "title": "TokenCast: Forecasting Token Consumption During LLM Agent Execution.",
+    "authors": "Chaoqian Ouyang, Ling Yue, Libin Zheng, <strong>Hanghui Guo</strong>, Shengxiang Xu, Yishu Wang, Ran Li, Jian Yin, Shaowu Pan, Shimin Di.",
+    "type": "preprint",
+    "isFirstAuthor": false,
+    "showOnHomepage": false,
+    "venue": "arXiv 2026",
+    "venueFull": "arXiv preprint, 2026.",
+    "year": "2026",
+    "tags": [
+      {
+        "text": "PDF",
+        "link": "https://arxiv.org/pdf/2609.35760"
+      }
+    ],
+    "thumbnail": "assets/publications/tokencast/framework.png"
+  },
+  {
+    "title": "DREvo: Distilling Recalibrated Historical Experience for Harness Self-Evolution.",
+    "authors": "<strong>Hanghui Guo</strong>, Weijie Shi, Zhangze Chen, Shengxiang Xu, Yishu Wang, Yimei Zhang, Wangze Ni, Jia Zhu, Shimin Di.",
+    "type": "preprint",
+    "isFirstAuthor": true,
+    "showOnHomepage": true,
+    "venue": "arXiv 2026",
+    "venueFull": "arXiv preprint, 2026.",
+    "year": "2026",
+    "tags": [
+      {
+        "text": "PDF",
+        "link": "https://arxiv.org/pdf/2607.26722"
+      }
+    ],
+    "thumbnail": "assets/publications/drevo/framework.png",
+    "featuredOrder": 3
+  },
+  {
+    "title": "Head-wise Modality Specialization within MLLMs for Robust Fake News Detection under Missing Modality.",
+    "authors": "Kai Qian, Weijie Shi, Jiaqi Wang, Mengze Li, Hao Chen, Yue Cui, <strong>Hanghui Guo</strong>, Ziyi Liu, Jia Zhu, Jiajie Xu.",
+    "type": "preprint",
+    "isFirstAuthor": false,
+    "showOnHomepage": false,
+    "venue": "arXiv 2026",
+    "venueFull": "arXiv preprint, 2026.",
+    "year": "2026",
+    "tags": [
+      {
+        "text": "PDF",
+        "link": "https://arxiv.org/pdf/2604.09711v1"
+      }
+    ],
+    "thumbnail": "assets/publications/heads/framework.png"
+  },
+  {
+    "title": "ToolRosella: Translating Code Repositories into Standardized Tools for Scientific Agents.",
+    "authors": "Shimin Di, Xujie Yuan, <strong>Hanghui Guo</strong>, Chaoqian Ouyang, Yongxu Liu, Ling Yue, Zhangze Chen, Libin Zheng, Jia Zhu, Shaowu Pan, Jian Yin, Yong Rui, Min-Ling Zhang.",
+    "type": "preprint",
+    "isFirstAuthor": false,
+    "showOnHomepage": false,
+    "venue": "arXiv 2026",
+    "venueFull": "arXiv preprint, 2026.",
+    "year": "2026",
+    "tags": [
+      {
+        "text": "PDF",
+        "link": "https://arxiv.org/pdf/2603.09290"
+      }
+    ],
+    "thumbnail": "assets/publications/toolrosella/framework.png"
+  },
+  {
+    "title": "DynaGen: Unifying Temporal Knowledge Graph Reasoning with Dynamic Subgraphs and Generative Regularization.",
+    "authors": "Jiawei Shen, Jia Zhu, <strong>Hanghui Guo</strong>, Weijie Shi, Guoqing Ma, Yidan Liang, Jingjiang Liu, Hao Chen, Shimin Di.",
+    "type": "preprint",
+    "isFirstAuthor": false,
+    "showOnHomepage": false,
+    "venue": "arXiv 2025",
+    "venueFull": "arXiv preprint, 2025.",
+    "year": "2025",
+    "tags": [
+      {
+        "text": "PDF",
+        "link": "https://arxiv.org/pdf/2512.12669"
+      }
+    ],
+    "thumbnail": "assets/publications/dynagen/framework.png"
+  },
+  {
+    "title": "EduEval: A Hierarchical Cognitive Benchmark for Evaluating Large Language Models in Chinese Education.",
+    "authors": "Guoqing Ma, Jia Zhu, <strong>Hanghui Guo</strong>, Weijie Shi, Yue Cui, Jiawei Shen, Zilong Li, Yidan Liang.",
+    "type": "preprint",
+    "isFirstAuthor": false,
+    "showOnHomepage": false,
+    "venue": "arXiv 2025",
+    "venueFull": "arXiv preprint, 2025.",
+    "year": "2025",
+    "tags": [
+      {
+        "text": "PDF",
+        "link": "https://arxiv.org/pdf/2512.00290"
+      }
+    ],
+    "thumbnail": "assets/publications/edueval/framework.png"
+  },
+  {
+    "title": "Automatic Failure Attribution and Critical Step Prediction Method for Multi-Agent Systems Based on Causal Inference.",
+    "authors": "Guoqing Ma, Jia Zhu, <strong>Hanghui Guo</strong>, Weijie Shi, Jiawei Shen, Jingjiang Liu, Yidan Liang.",
+    "type": "preprint",
+    "isFirstAuthor": false,
+    "showOnHomepage": false,
+    "venue": "arXiv 2025",
+    "venueFull": "arXiv preprint, 2025.",
+    "year": "2025",
+    "tags": [
+      {
+        "text": "PDF",
+        "link": "https://arxiv.org/pdf/2509.08682"
+      }
+    ],
+    "thumbnail": "assets/publications/attribution/framework.png"
+  },
+  {
+    "title": "E3-rewrite: Learning to Rewrite SQL for Executability, Equivalence, and Efficiency.",
+    "authors": "Dongjie Xu, Yue Cui, Weijie Shi, Qingzhi Ma, <strong>Hanghui Guo</strong>, Jiaming Li, Yao Zhao, Ruiyuan Zhang, Shimin Di, Jia Zhu, Kai Zheng, Jiajie Xu.",
+    "type": "preprint",
+    "isFirstAuthor": false,
+    "showOnHomepage": false,
+    "venue": "arXiv 2025",
+    "venueFull": "arXiv preprint, 2025.",
+    "year": "2025",
+    "tags": [
+      {
+        "text": "PDF",
+        "link": "https://arxiv.org/pdf/2508.09023"
+      }
+    ],
+    "thumbnail": "assets/publications/e3/framework.png"
+  }
+]

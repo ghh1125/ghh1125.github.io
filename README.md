@@ -1,3 +1,3 @@
-# Hanghui Guo's Homepage
+# Hanghui Guo
 
-Personal academic homepage of Hanghui Guo.
+Personal academic homepage, based on [AcaNova-X](https://github.com/yihangtao/AcaNova-X).
