@@ -449,6 +449,49 @@ function renderHonorsItems(honorsData, container) {
         }
         contentElement.appendChild(descElement);
 
+        if (container.id === 'all-honors-container' && honorItem.project) {
+            honorElement.classList.add('honor-with-project');
+            const projectElement = document.createElement('div');
+            projectElement.className = 'honor-project';
+            const projectLabel = document.createElement('span');
+            projectLabel.className = 'honor-project-label';
+            projectLabel.textContent = 'Project';
+            const projectTitle = document.createElement('p');
+            projectTitle.textContent = honorItem.project;
+            if (honorItem.projectOriginal) {
+                const originalTitle = document.createElement('span');
+                originalTitle.className = 'honor-project-original';
+                originalTitle.lang = 'zh-CN';
+                originalTitle.textContent = ` (${honorItem.projectOriginal})`;
+                projectTitle.appendChild(originalTitle);
+            }
+            projectElement.append(projectLabel, projectTitle);
+            if (honorItem.members?.length || honorItem.advisors?.length) {
+                const teamDetails = document.createElement('details');
+                teamDetails.className = 'honor-team';
+                const summary = document.createElement('summary');
+                summary.textContent = 'Team & Advisors';
+                teamDetails.appendChild(summary);
+                for (const [label, names] of [['Team members', honorItem.members], ['Advisors', honorItem.advisors]]) {
+                    if (!names?.length) continue;
+                    const row = document.createElement('p');
+                    const rowLabel = document.createElement('span');
+                    rowLabel.className = 'honor-team-label';
+                    rowLabel.textContent = `${label}: `;
+                    row.appendChild(rowLabel);
+                    names.forEach((name, index) => {
+                        if (index) row.appendChild(document.createTextNode(', '));
+                        const nameElement = document.createElement(name === 'Hanghui Guo' ? 'strong' : 'span');
+                        nameElement.textContent = name;
+                        row.appendChild(nameElement);
+                    });
+                    teamDetails.appendChild(row);
+                }
+                projectElement.appendChild(teamDetails);
+            }
+            contentElement.appendChild(projectElement);
+        }
+
         honorElement.appendChild(yearElement);
         honorElement.appendChild(contentElement);
         container.appendChild(honorElement);

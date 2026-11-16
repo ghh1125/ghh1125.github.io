@@ -3,7 +3,11 @@
     "date": "2026",
     "title": "Silver Award",
     "showOnHomepage": true,
-    "org": "Zhejiang Provincial International College Students' Innovation Competition"
+    "org": "Zhejiang Provincial International College Students' Innovation Competition",
+    "project": "Shidao: A Teaching Diagnosis and Intelligent Lesson Planning Platform for Rural Teachers through Teacher–Student Collaborative Development",
+    "projectOriginal": "师道——基于师生协同发展的乡村教师教学诊断与智慧备课平台",
+    "members": ["Congcong Ke", "Yuxin Huang", "Mengyuan Zhu", "Ke Wu", "Xingye Ren", "Xiangran Yin", "Xinyi Zhao", "Qi Hu", "Xinyao Ying", "Tiantian Xu", "Qian Zheng", "Jingjiang Liu", "Xiaokang Jin", "Hanghui Guo"],
+    "advisors": ["Jia Zhu", "Xiaojun Wang", "Jingdi Liu", "Xulu Jiang"]
   },
   {
     "date": "2026",
@@ -41,7 +45,11 @@
     "date": "2024",
     "title": "Silver Award",
     "showOnHomepage": true,
-    "org": "Zhejiang Provincial International College Students' Innovation Competition"
+    "org": "Zhejiang Provincial International College Students' Innovation Competition",
+    "project": "Innovative Applications Powered by the Spark Large Language Model",
+    "projectOriginal": "基于星火大模型开发创新应用",
+    "members": ["Zhangze Chen", "Changfan Pan", "Mingfeng Li", "Chenglei Huang", "Hanghui Guo", "Xinle Dai", "Xiaodong Ma", "Xinran Cao", "Xin Liu", "Jianxia Ling", "Hanwen Zhu", "Jiewen Sun", "Wanlu Zhang", "Shijie Chen", "Zilong Li"],
+    "advisors": ["Jia Zhu", "Lianghui Wang"]
   },
   {
     "date": "2022",

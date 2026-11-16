@@ -576,6 +576,62 @@ details summary {
     color: #475569;
 }
 
+.honor-project {
+    margin-top: 0.9rem;
+    padding: 0.85rem 1rem;
+    border-left: 3px solid #d4a562;
+    border-radius: 0 0.5rem 0.5rem 0;
+    background: #f8f5ef;
+}
+
+.honor-project-label {
+    display: block;
+    margin-bottom: 0.35rem;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #926b35;
+}
+
+.honor-project p {
+    color: #1e293b;
+    font-weight: 500;
+    line-height: 1.6;
+    overflow-wrap: anywhere;
+}
+
+.honor-project-original {
+    color: #64748b;
+    font-weight: 400;
+    font-size: 0.9em;
+}
+
+.honor-team {
+    margin-top: 0.85rem;
+    border-top: 1px solid #e7dfd3;
+    padding-top: 0.65rem;
+}
+
+.honor-team summary {
+    color: #926b35;
+    font-size: 0.85rem;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.honor-team p {
+    margin-top: 0.65rem;
+    font-size: 0.9rem;
+    font-weight: 400;
+    color: #475569;
+}
+
+.honor-team-label {
+    font-weight: 600;
+    color: #1e293b;
+}
+
 @media (max-width: 640px) {
     .content-container {
         padding-top: 5rem;
