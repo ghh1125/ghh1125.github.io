@@ -103,7 +103,7 @@ function loadNews() {
         .then(handleJsonResponse)
         .then(items => {
             if (homeContainer) {
-                renderNewsItems(items.slice(0, 8), homeContainer);
+                renderNewsItems(items.slice(0, 5), homeContainer);
             }
             if (allContainer) {
                 renderNewsItems(items, allContainer);
