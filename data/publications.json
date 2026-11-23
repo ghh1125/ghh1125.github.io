@@ -363,7 +363,7 @@
   },
   {
     "title": "RemoteEvolver: Expanding Earth Observation Capabilities through Agent Harness Evolution.",
-    "authors": "Shengxiang Xu, Liang Yao, Shuyi Chen, Yishu Wang, Shimin Di, Fan Liu, Bishun Yao, <strong>Hanghui Guo</strong>, Xinyu Liu, Chengye Liang, Yuyu Luo, Min-Ling Zhang.",
+    "authors": "Shengxiang Xu<sup>†</sup>, Liang Yao<sup>†</sup>, Shuyi Chen, Yishu Wang, Shimin Di<sup>‡</sup>, Fan Liu<sup>‡</sup>, Bishun Yao, <strong>Hanghui Guo</strong>, Xinyu Liu, Chengye Liang, Yuyu Luo, Min-Ling Zhang.",
     "type": "preprint",
     "isFirstAuthor": false,
     "showOnHomepage": false,
@@ -376,6 +376,7 @@
         "link": "https://arxiv.org/pdf/2611.27110"
       }
     ],
+    "thumbnail": "assets/publications/remoteevolver/framework.png",
     "category": "arxiv"
   },
   {
