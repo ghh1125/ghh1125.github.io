@@ -362,6 +362,23 @@
     "category": "journal"
   },
   {
+    "title": "RemoteEvolver: Expanding Earth Observation Capabilities through Agent Harness Evolution.",
+    "authors": "Shengxiang Xu, Liang Yao, Shuyi Chen, Yishu Wang, Shimin Di, Fan Liu, Bishun Yao, <strong>Hanghui Guo</strong>, Xinyu Liu, Chengye Liang, Yuyu Luo, Min-Ling Zhang.",
+    "type": "preprint",
+    "isFirstAuthor": false,
+    "showOnHomepage": false,
+    "venue": "arXiv 2026",
+    "venueFull": "arXiv preprint, 2026.",
+    "year": "2026",
+    "tags": [
+      {
+        "text": "PDF",
+        "link": "https://arxiv.org/pdf/2611.27110"
+      }
+    ],
+    "category": "arxiv"
+  },
+  {
     "title": "TokenCast: Forecasting Token Consumption During LLM Agent Execution.",
     "authors": "Chaoqian Ouyang, Ling Yue, Libin Zheng, <strong>Hanghui Guo</strong>, Shengxiang Xu, Yishu Wang, Ran Li, Jian Yin, Shaowu Pan, Shimin Di.",
     "type": "preprint",
